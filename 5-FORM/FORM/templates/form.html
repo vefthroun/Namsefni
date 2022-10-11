@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <!-- url_for()  means "redirect to /form route when the form is submitted" -->
+    <form action="{{ url_for('form') }}" method="post">
+        <fieldset>
+            <legend>Bókaskráning</legend>
+            <p>
+                <label for="title">Titill</label>
+                <input type="text" id="title" name="title">
+            </p>
+            <p>
+                <label for="isbn">ISBN</label>
+                <input type="text"  id="isbn" name="isbn">
+            </p>
+            <p>
+                <label for="author">Höfundur</label>
+                <input type="text"  id="author" name="author">
+            <p>
+                <button type="submit">Submit</button>
+            </p>
+            <input type="hidden" id="timestamp" name="timestamp" value="1286705410">
+        </fieldset>
+    </form>
+</body>
+</html>
+<!--
+Hidden content  type="hidden"
+https://developer.mozilla.org/en-US/docs/Learn/Forms/Basic_native_form_controls#hidden_content
+
+A form control that is invisible to the user, but is still sent to the server along with the rest of the form data once submitted.
+For example you might want to submit a timestamp to the server stating when an order was placed. 
+Because it is hidden, the user can not see nor intentionally edit the value, 
+it will never receive focus, and a screen reader will not notice it either.
+-->
+
+<!-- 
+"secret_key": request.form["SECRET_KEY"],
+"submit_value": request.form["submit"]
+-->

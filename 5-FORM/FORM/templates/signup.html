@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skráning</title>
+</head>
+<body>
+    <form action="/signup_process" method="post">
+        <fieldset>
+            <legend>Skráning (signup)</legend>
+            <p>
+                <label for="name">nafn:</label>
+                <input type="text" placeholder="skráðu fulltnafn" id="name" name="user_name" required>
+            </p>
+            <p>
+                <label for="mail">netfang:</label>
+                <input type="email"  id="mail" name="user_email" required>
+            </p>
+            <p>
+                <label for="password">lykilorð:</label>
+                <input type="password" id="password" name="user_password" required>
+            </p>
+            <p>
+                <label>
+                    <input type="checkbox" checked="checked" name="user_terms" style="margin-bottom:15px"> samþykkja skilmála
+                </label>
+            </p>
+            <p>
+                <button type="submit">Sign Up</button>
+            </p>
+        </fieldset>
+    </form>
+</body>
+</html>

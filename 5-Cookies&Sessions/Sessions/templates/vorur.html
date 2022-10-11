@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vörur</title>
+</head>
+<body>
+    {% for item in vorur %}
+    <!-- bæta vöru við sessions sem add fallið/route meðhöndlar-->
+        <p>Panta vöru: <a href="/add/{{ item[0] }}"> {{ item[1] }} </a></p>
+    {% endfor %}
+    <p><a href="/karfa">Skoða körfu</a></p>
+</body>
+</html>

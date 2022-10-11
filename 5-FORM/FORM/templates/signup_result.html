@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skráning</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        {% for key, value in result.items() %}
+           <tr>
+              <th> {{ key }} </th>
+              <td> {{ value }} </td>
+           </tr>
+        {% endfor %}
+     </table>
+</body>
+</html>
