@@ -18,4 +18,3 @@
 1. [Firebase Gagnagrunnur](6-Gagnagrunnur)
 1. [Lokaverkefni](7-lokaverkefni)
 
-[Verkefnalýsingar](https://github.com/vefthroun/Verkefni)
