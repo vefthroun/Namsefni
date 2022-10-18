@@ -25,8 +25,8 @@
     1. Búðu til [app.py](Routes/halloheimur.md) skránna í Visual Studio Code Editor 
     1. Ekki nefna skrá "flask.py" nema að þú viljir lenda í vandræðum  
     1. vistaðu `app.py` í _vefforitun_ möppunni sem geymir einnig venv möppuna
-1. Að keyra og sjá app.py á local server
-    1. Keyrðu python skrána: `flask run` eða `python app.py`
+1. Að keyra og sjá app.py á innbyggðum local server
+    1. Keyrðu python skrána: `flask run` 
     1. Skoðaðu vefsíðuna í vafra
 
 - [Hugsanleg vandamál við uppsetningu Flask](Vandamal.md)
