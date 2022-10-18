@@ -1,15 +1,15 @@
-## VEFÞ2VF05CU
+### VEFÞ2VF05CU
 - Haust 2022, spönn 2
 - [Kennsluáætlun](https://github.com/vefthroun/Namsefni/blob/main/VEF%C3%9E2VF05CU_haust22_2.pdf)
 
 ---
 
-### Verkefni
+#### Verkefni
 - [Verkefni 1](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni1.md)
 
 ---
 
-### Námsefni og sýnidæmi
+#### Námsefni og kóðasýnidæmi
 1. [Hypertext Transfer Protocol](/1-HTTPS)
 1. [Flask](/2-Flask)
 <!--
