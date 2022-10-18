@@ -17,7 +17,7 @@ Settu upp [FLASK](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Readme
 ### Námsmat og skil
 Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hluta til kominn eða ófullnægjandi og ekkert ef hann vantar.
 
-1. Flask uppsetning með VENV umhverfi og halló heimur!. **(30%)** 
+1. Flask uppsetning með VENV umhverfi. **(30%)** 
 1. Forsíða (index) með mynd sem vistuð er í static möppu og tvo hlekki á 2 undirsíður **(30%)**
 1. Undirsíða nr. 1 birtir random mynd **(20%)**
 1. Undirsíða nr. 2 birtir texta sem tekin er úr URL – inu **(20%)**
