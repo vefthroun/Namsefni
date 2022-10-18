@@ -1,6 +1,7 @@
 ## Verkefni 1 
 - 10% af heildareinkunn
-- basic routing og static files
+
+---
 
 ### 1. Einfaldur vefur með Flask 
 
