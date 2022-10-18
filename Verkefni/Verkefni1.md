@@ -3,9 +3,13 @@
 
 ---
 
-### 1. Einfaldur vefur með Flask 
-1. Settu upp [FLASK](https://flask.palletsprojects.com/en/2.2.x/installation/) með VENV umhverfi og stilltu VSCode til að vinna með python, VENV og FLASK. 
-1. Útfærðu einfaldan vef með Flask. Vefurinn inniheldur 3 síður (_app.route_);  1 forsíða og 2 undirsíður.
+### 1. Flask uppsetning
+1. Settu upp [FLASK](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Readme.md#uppsetning-%C3%A1-flask) í VENV umhverfi. 
+
+---
+
+### 2. Einfalt app með Flask 
+Útfærðu einfaldan vef með Flask. Vefurinn inniheldur 3 síður (_app.route_);  1 forsíða og 2 undirsíður.
    1. Forsíðan (index) inniheldur virka hlekki á 2 undirsíður. Þegar smellt er á hvorn hlekk fyrir sig er farið á viðkomandi undirsíðu. Forsíðan skal einnig birta mynd sem vistuð er í static möppu.
    2. Fyrri undirsíðan á að birtast random mynd ( sjá t.d. á [https://picsum.photos/](https://picsum.photos/) ).
    3. Seinni undirsíðan birtir texta á síðunni sem er tekin aftast úr url-i vafrans. Ef url-ið er til að mynda _http://localhost:5000/undirsida2/Daniel_ þá birtist nafnið Daniel á vefsíðunni sem er strengurinn aftan við síðasta skástrikið (dynamic url).
@@ -15,8 +19,8 @@
 ### Námsmat og skil
 Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hluta til kominn eða ófullnægjandi og ekkert ef hann vantar.
 
-1. Flask uppsetning með VENV umhverfi. **(30%)** 
-1. forsíða (index) með mynd sem vistuð er í static möppu og tvo hlekki á 2 undirsíður **(30%)**
+1. Flask uppsetning með VENV umhverfi og halló heimur!. **(30%)** 
+1. Forsíða (index) með mynd sem vistuð er í static möppu og tvo hlekki á 2 undirsíður **(30%)**
 1. Undirsíða nr. 1 birtir random mynd **(20%)**
 1. Undirsíða nr. 2 birtir texta sem tekin er úr URL – inu **(20%)**
 
