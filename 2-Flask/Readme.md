@@ -4,16 +4,9 @@
 
 ---
 
-Flask is a Python web framework built with a small core and easy-to-extend philosophy. 
-Flask is considered more Pythonic than the Django web framework because in common situations the equivalent Flask web application is more explicit. Flask is also easy to get started with as a beginner because there is little boilerplate code for getting a simple app up and running. 
-
-[Flask – Overview](https://www.tutorialspoint.com/flask/flask_quick_guide.htm)
-
----
-
 ### Uppsetning á Flask
 
-#### Windows leiðbeiningar (með notkun power shell)
+#### Windows leiðbeiningar (með notkun Power Shell)
 1. Þú þarft að hafa nýlega stöðuga (stable) útgáfu t.d. 3.8.x af [python þýðanda](https://www.python.org/downloads/release/python-387/).
     1. Til að kanna núverandi útgáfu:  `python --version` 
 1. Vefþróunarsvæði (_virutal environment_)
@@ -41,7 +34,7 @@ Flask is considered more Pythonic than the Django web framework because in commo
 
 ---
 
-#### VS Code (python og venv)
+#### VS Code ritill (python og venv)
 
 1. Náðu þér í python stuðning sem er viðbót (extension) í VS Code [Python linting](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 1. Opnaðu möppuna sem geymir python skrárnar fyrir flask appið.
