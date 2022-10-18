@@ -41,33 +41,6 @@ Flask is considered more Pythonic than the Django web framework because in commo
 
 ---
 
-### 🌈 Skipulag VEFÞ2VFC
-
-Klónaðu áfangageymsluna þína í möppuna vefforritun1 - [Undirbúningur (vefgrunnur)](https://github.com/vefgrunnur/Namsefni/wiki)
-
-```
-
-Github.com/22VF/22h-nafn (áfangageymsla - Classroom repository)
-   |___ .gitignore
-   |___ LICENCE
-   |___ README.md
-   |___ verkefni-1 
-   |___ verkefni-2 
-   |___ verkefni-3 
-   |___ verkefni-4 
-   |___ verkefni-5 
-   |___ verkefni-6
-   |___ verkefni-7
-       
-Vefforritun1 (local environment)
-   |___	venv (python flask)
-   |___	áfangageymsla (Classroom repository clone)
-   
-```
-_Athugið að "venv" mappan á **ekki** að vera ofan í áfangageymslunni_
-
----
-
 #### VS Code (python og venv)
 
 1. Náðu þér í python stuðning sem er viðbót (extension) í VS Code [Python linting](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
