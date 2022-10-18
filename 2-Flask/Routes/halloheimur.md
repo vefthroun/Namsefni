@@ -8,7 +8,6 @@ from flask import Flask
 # Create app, that hosts the application. Don't worry about that __name__ object, it's just a convention.
 app = Flask(__name__)
 
-
 # route() maps what you type in the browser (the url) to a Python function.
 # @app.route() (@ er decorator í python) bindur fallið index() við URL. 
 # Whenever a browser requests a URL, the associated function is called and the return value is sent back to the browser
@@ -24,7 +23,7 @@ if __name__ == '__main__':
             # debug=True. debug er nytsamlegt í vefþróun, gefur skýrari villuskilaboð.
             # use_reloader. use_reloader=True þýðir að þú þarft ekki að endurkeyra python skrá stöðugt þegar þú gerir kóðabreytingar. 
      
-# Keyrðu python skránna í CLI(cmd/terminal) og skoðaðu url í vafra (localhost)
+# Keyrðu python skránna í terminal og skoðaðu url í vafra (localhost)
 ```
 
 #### Nánari skýringar
