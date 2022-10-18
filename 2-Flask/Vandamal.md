@@ -1,5 +1,5 @@
 
-#### Vandi: Skriftur disabled í Windows (powershell)
+### Vandi: Skriftur disabled í Windows (powershell)
 
 ```
 
@@ -19,7 +19,7 @@ At line:1 char:1
 
 ---
 
-#### Vandi: `urllib.request` virkar ekki
+### Vandi: `urllib.request` virkar ekki
 
 Villuskilaboð: `urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] `
 
