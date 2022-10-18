@@ -1,6 +1,5 @@
 ## Halló heimur með (innbyggðum vef miðlara)
 - https://flask.palletsprojects.com/en/2.2.x/quickstart/
-- http://www.compjour.org/lessons/flask-single-page/hello-tiny-flask-app/
 
 ```python
 # import Flask class in Python
