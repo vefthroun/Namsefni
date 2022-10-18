@@ -4,7 +4,7 @@
 ---
 
 ### 1. Einfaldur vefur með Flask 
-1. Settu upp FLASK með VENV umhverfi og stilltu VSCode til að vinna með python og FLASK. 
+1. Settu upp [FLASK](https://flask.palletsprojects.com/en/2.2.x/installation/) með VENV umhverfi og stilltu VSCode til að vinna með python, VENV og FLASK. 
 1. Útfærðu einfaldan vef með Flask. Vefurinn inniheldur 3 síður (_app.route_);  1 forsíða og 2 undirsíður.
    1. Forsíðan (index) inniheldur virka hlekki á 2 undirsíður. Þegar smellt er á hvorn hlekk fyrir sig er farið á viðkomandi undirsíðu. Forsíðan skal einnig birta mynd sem vistuð er í static möppu.
    2. Fyrri undirsíðan á að birtast random mynd ( sjá t.d. á [https://picsum.photos/](https://picsum.photos/) ).
