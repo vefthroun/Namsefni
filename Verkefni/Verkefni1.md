@@ -4,7 +4,8 @@
 ---
 
 #### 1. Flask uppsetning
-Settu upp [FLASK](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Readme.md#hva%C3%B0-er-flask) í VENV umhverfi. 
+1. Settu upp [FLASK](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Readme.md#hva%C3%B0-er-flask) í VENV umhverfi. 
+1. Stilltu og notaðu [VSCode](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Readme.md#vs-code-ritill-python-og-venv) editor.
 
 #### 2. Einfalt Flask app  
 Útfærðu einfaldan vef með Flask. Vefurinn inniheldur 3 síður (_app.route_);  1 forsíða og 2 undirsíður.
