@@ -37,7 +37,7 @@
 
 1. Náðu þér í python stuðning sem er viðbót (extension) í VS Code [Python linting](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 1. Opnaðu möppuna sem geymir python skrárnar fyrir flask appið.
-1. Veldu python þýðandann sem er í venv (neðst í VSCode) prófað að keyra python skrá (Play takkinn).
+1. Veldu python þýðandann sem er í venv (neðst í VSCode) prófað að keyra (Play takkinn) python skrá með `Code runner` extension í VSCode.
 1. .vscode -> settings.json  sýnir hvaða þýðandi verið að nota fyrir project.
 1. (venv) er virkt (_activate_) sjálfkrafa þegar við opnum terminal innan VS Code  
 1. Til að sækja söfn t.d. flask þá notum við [pip (python package installer)](https://pypi.org/) `pip install flask` 
