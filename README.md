@@ -2,7 +2,7 @@
 
 
 ## Verkefni
-1. [Verkefni](Verkefni1.md)
+- [Verkefni 1](Verkefni1.md)
 
 ---
 
