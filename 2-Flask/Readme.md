@@ -30,7 +30,6 @@
 
 - https://flask.palletsprojects.com/en/2.1.x/installation/
 - [Vandamál við uppsetningu Flask](Vandamal.md)
-- [MAC leiðbeiningar, _pip virtualenv mac_](https://programwithus.com/learn/python/pip-virtualenv-mac)
 
 ---
 
