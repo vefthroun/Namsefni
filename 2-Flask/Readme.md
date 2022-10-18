@@ -28,8 +28,7 @@
     1. Keyrðu python skrána: `python app.py`
     1. Skoðaðu vefsíðuna í vafra
 
-- https://flask.palletsprojects.com/en/2.1.x/installation/
-- [Vandamál við uppsetningu Flask](Vandamal.md)
+- [Hugsanleg vandamál við uppsetningu Flask](Vandamal.md)
 
 ---
 
