@@ -1,4 +1,4 @@
-## Verkefni 1 
+### Verkefni 1 
 10% af heildareinkunn
 
 ---
