@@ -18,7 +18,7 @@ Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hlu
 1. Flask uppsetning með VENV umhverfi og VSCode stuðning. **(30%)**
 1. Rót / index síða með mynd sem vistuð er í static möppu. **(30%)**
 2. Tveir virkir hlekkir af rót á undirsíður
-   - Síða sem birtir texta og random mynd **(30%)**
-   - Síða sem birtir texta sem tekin er úr URL – inu **(10%)**
+   - Síða sem birtir texta og random mynd **(20%)**
+   - Síða sem birtir texta sem tekin er úr URL – inu **(20%)**
 
 Skilaðu kóðalausnum á Innu.
