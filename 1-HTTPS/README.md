@@ -7,9 +7,6 @@ Allar þessar aðferðir þurfa bæði stuðning í vöfrum sem notaðir eru, en
 
 ---
 
-Hypertext Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents, such as HTML. It was designed for communication between web browsers and web servers, but it can also be used for other purposes. HTTP follows a classical client-server model, with a client opening a connection to make a request, then waiting until it receives a response. HTTP is a stateless protocol, meaning that the server does not keep any data (state) between two requests. 
-
----
 
 * [HTTP Basics](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
