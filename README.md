@@ -1,5 +1,5 @@
 # VEFÞ2VF05CU
-
+Haust 2022, spönn 2
 
 ## Verkefni
 - [Verkefni 1](Verkefni1.md)
