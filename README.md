@@ -1,5 +1,8 @@
 # VEFÞ2VF05CU
-Haust 2022, spönn 2
+- Haust 2022, spönn 2
+- [Kennsluáætlun](https://github.com/vefthroun/Namsefni/blob/main/VEF%C3%9E2VF05CU_haust22_2.pdf)
+
+---
 
 ## Verkefni
 - [Verkefni 1](Verkefni1.md)
