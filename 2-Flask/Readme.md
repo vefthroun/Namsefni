@@ -17,8 +17,8 @@ Flask is considered more Pythonic than the Django web framework because in commo
 1. Þú þarft að hafa nýlega stöðuga (stable) útgáfu t.d. 3.8.x af [python þýðanda](https://www.python.org/downloads/release/python-387/).
     1. Til að kanna núverandi útgáfu:  `python --version` 
 1. Vefþróunarsvæði (_virutal environment_)
-    1. búðu til möppu t.d. _vefforitun1_ í tölvunni t.d. á C: rót: `mkdir vefforritun1`
-    1. færðu þig í nýju möppuna `cd vefforritun1`
+    1. búðu til möppu t.d. _vefforitun_ í tölvunni t.d. á C: rót: `mkdir vefforritun`
+    1. færðu þig í nýju möppuna `cd vefforritun`
     1. settu upp vefþróunarsvæði (virtual environment): `py -3 -m venv venv`
     1. Virkjaðu svæðið (activate venv): `venv\Scripts\activate`
 1. Insetning Flask (Install flask framework)
@@ -28,11 +28,11 @@ Flask is considered more Pythonic than the Django web framework because in commo
     1. Athugaðu hvort flask sé virkt (active):  `>>> import flask`  
     1. ef það er engin villumelding þá tókst það.  `>>> quit()`
 1. Halló heimur
-    1. Búðu til [halloheimur.py](Routes/halloheimur.md) skránna í Visual Studio Code Editor 
+    1. Búðu til [app.py](Routes/halloheimur.md) skránna í Visual Studio Code Editor 
     1. Ekki nefna skrá "flask.py" nema að þú viljir lenda í vandræðum  
-    1. vistaðu `halloheimur.py` í vefur3 möppunni sem geymir einnig venv möppuna
-1. Að keyra og sjá halloheimur.py á local server
-    1. Keyrðu python skrána: `python halloheimur.py`
+    1. vistaðu `app.py` í _vefforitun_ möppunni sem geymir einnig venv möppuna
+1. Að keyra og sjá app.py á local server
+    1. Keyrðu python skrána: `python app.py`
     1. Skoðaðu vefsíðuna í vafra
 
 - https://flask.palletsprojects.com/en/2.1.x/installation/
