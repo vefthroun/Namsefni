@@ -5,9 +5,9 @@
 ---
 
 ### Uppsetning á Flask
--  Leiðbeiningar [Flask installation](https://flask.palletsprojects.com/en/2.2.x/installation/)
+-  Mac/Windows [Flask installation](https://flask.palletsprojects.com/en/2.2.x/installation/) leiðbeiningar.
 
-#### Windows leiðbeiningar (með notkun Power Shell eða með terminal í VSCode editor)
+#### Windows leiðbeiningar (t.d. með Power Shell)
 1. Þú þarft að hafa nýlega stöðuga (stable) útgáfu af python þýðanda.
     1. Til að kanna núverandi útgáfu:  `python --version` 
 1. Vefþróunarsvæði (_virutal environment_)
