@@ -10,7 +10,7 @@ Settu upp [FLASK](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Readme
 Útfærðu einfaldan vef með Flask. Vefurinn inniheldur 3 síður (_app.route_);  1 forsíða og 2 undirsíður.
    1. Forsíðan (index) inniheldur virka hlekki á 2 undirsíður. Þegar smellt er á hvorn hlekk fyrir sig er farið á viðkomandi undirsíðu. Forsíðan skal einnig birta mynd sem vistuð er í static möppu.
    2. Fyrri undirsíðan á að birtast random mynd ( sjá t.d. á [https://picsum.photos/](https://picsum.photos/) ).
-   3. Seinni undirsíðan birtir texta á síðunni sem er tekin aftast úr url-i vafrans. Ef url-ið er til að mynda _http://localhost:5000/undirsida2/Daniel_ þá birtist nafnið Daniel á vefsíðunni sem er strengurinn aftan við síðasta skástrikið (dynamic url).
+   3. Seinni undirsíðan birtir texta á síðunni sem er tekin aftast úr url-i vafrans. Ef url-ið er til að mynda _http://localhost:5000/undirsida2/Daniel_ þá birtist nafnið Daniel á vefsíðunni sem er strengurinn aftan við síðasta skástrikið.
 
 ---
 
