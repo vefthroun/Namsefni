@@ -5,6 +5,7 @@
 ---
 
 ### Uppsetning á Flask
+- [Installation](https://flask.palletsprojects.com/en/2.2.x/installation/)
 
 #### Windows leiðbeiningar (með notkun Power Shell)
 1. Þú þarft að hafa nýlega stöðuga (stable) útgáfu af python þýðanda.
