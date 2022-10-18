@@ -1,3 +1,4 @@
+## HTTP
 Hypertext Transfer Protocol (HTTP) er aðferð til að senda eða taka við gögnum á veraldarvefnum. Upprunalegi tilgangurinn var að birta HTML síður, þótt núna sé HTTP notað til að hlaða niður myndum, hljóði, leikjum, textaskjölum og margmiðlun af allri gerð. Venjulega eru HTTP skilaboð alltaf í pörum (en ekki reglan frá og með HTTP/2), beiðni frá biðlara og svar frá miðlara. 
 
 HTTP skilaboð eru byggð upp af HTTP haus og síðan gögnunum sjálfum. Til að skilja á milli gagnanna og haussins eru notuð tvö auð línubil (í útgáfum af HTTP fyrir HTTP/2). HTTP/1.1 er enn mikið notað og í nokkrum mæli næsta útgáfa HTTP, HTTP/2 sem staðlað var 2015, er studd af flestum vöfrum og t.d. netþjónum Google. Einnig er HTTP/3 ("Internet Draft") líka í notkun á vefnum nú þegar, er en sú aðferð, sem notar UDP en ekki TCP, ólíkt fyrri HTTP stöðlum, bætir hraðann enn frekar umfram HTTP/2 sem gerður var til að bæta hraðann á eldri HTTP staðli. 
