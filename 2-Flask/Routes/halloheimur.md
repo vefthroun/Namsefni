@@ -34,11 +34,11 @@ if __name__ == '__main__':
 - Python documentation [`__main__`](https://docs.python.org/3/library/__main__.html)
 - Stack Overflow [`if __name__ == '__main__':`](https://stackoverflow.com/questions/419163/what-does-if-name-main-do)
 
----
- 
+
+<!--
 #### Ef við viljum sleppa `app.run` í kóðanum
 
 - Stillum umhverfisbreytu í terminal: `$env:FLASK_APP = "app.py"`
 - Keyrum app í terminal: `flask run` 
 
-
+-->
