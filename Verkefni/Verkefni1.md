@@ -1,5 +1,5 @@
 ## Verkefni 1 
-- 10% af heildareinkunn
+10% af heildareinkunn
 
 ---
 
