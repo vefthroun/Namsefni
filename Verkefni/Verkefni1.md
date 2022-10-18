@@ -4,7 +4,7 @@
 ---
 
 ### 1. Flask uppsetning
-1. Settu upp [FLASK](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Readme.md#uppsetning-%C3%A1-flask) í VENV umhverfi. 
+Settu upp [FLASK](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Readme.md#uppsetning-%C3%A1-flask) í VENV umhverfi. 
 
 ---
 
