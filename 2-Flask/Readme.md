@@ -33,7 +33,7 @@
 
 ---
 
-#### VS Code ritill (python og venv)
+### VS Code ritill (python og venv)
 
 1. Náðu þér í python stuðning sem er viðbót (extension) í VS Code [Python linting](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 1. Opnaðu möppuna sem geymir python skrárnar fyrir flask appið.
