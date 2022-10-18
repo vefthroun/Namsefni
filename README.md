@@ -9,7 +9,7 @@
 
 ---
 
-#### Námsefni og kóðasýnidæmi
+#### Námsefni 
 1. [Flask](/2-Flask)
 <!--
 1. [JSON](/3-Json)
