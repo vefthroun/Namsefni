@@ -7,7 +7,7 @@
 ### Uppsetning á Flask
 
 #### Windows leiðbeiningar (með notkun Power Shell)
-1. Þú þarft að hafa nýlega stöðuga (stable) útgáfu t.d. 3.8.x af [python þýðanda](https://www.python.org/downloads/release/python-387/).
+1. Þú þarft að hafa nýlega stöðuga (stable) útgáfu af python þýðanda.
     1. Til að kanna núverandi útgáfu:  `python --version` 
 1. Vefþróunarsvæði (_virutal environment_)
     1. búðu til möppu t.d. _vefforitun_ í tölvunni t.d. á C: rót: `mkdir vefforritun`
