@@ -1,4 +1,9 @@
 # VEFÞ2VF05CU
+
+
+## Verkefni
+1. [Verkefni](Verkefni1.md)
+
 ---
 
 ## Námsefni og sýnidæmi
@@ -11,9 +16,4 @@
 1. [Firebase Gagnagrunnur](6-Gagnagrunnur)
 1. [Lokaverkefni](7-lokaverkefni)
 -->
-
----
-
-## Verkefni
-1. [Verkefni](Verkefni1.md)
 
