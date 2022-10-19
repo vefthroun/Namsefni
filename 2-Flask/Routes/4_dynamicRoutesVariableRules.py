@@ -25,7 +25,7 @@ def show_post(post_id):
 @app.route('/<int:year>/<int:month>/<title>')
 def article(year, month, title):
     #... Logic goes here
-    return "%d, %d, %s" % (year, month, title)
+    return "%d, %d, %s" % (year, month, title) # tuple
 
 
 # This starts the web app 
