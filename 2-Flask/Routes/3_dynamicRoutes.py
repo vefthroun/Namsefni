@@ -6,14 +6,8 @@ from markupsafe import escape
 app = Flask(__name__)
 
 """
-
-# Dynamic routes: 
-https://flask.palletsprojects.com/en/2.1.x/quickstart/#variable-rules
-
 Hægt er að búa til URL sem eru dýnamísk (ekki harðkóðuð).
-
-You can add variable sections to a URL by marking sections with <variable_name>. 
-Your function then receives the <variable_name> as a keyword argument.
+https://flask.palletsprojects.com/en/2.1.x/quickstart/#variable-rules
 
 Dæmi:
     @app.route('/wiki/<pagename>')    # td. /wiki/Learning_Python
