@@ -13,7 +13,7 @@
    2. Fyrri undirsíðan á að birtast random mynd ( sjá t.d. á [https://picsum.photos/](https://picsum.photos/) ).
    3. Seinni undirsíðan birtir texta á síðunni sem er tekin aftast úr url-i vafrans. Ef url-ið er til að mynda _http://localhost:5000/undirsida2/Daniel_ þá birtist nafnið Daniel á vefsíðunni sem er strengurinn aftan við síðasta skástrikið.
 
-[Kóðasýnidæmi - routing](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Routes/readme.md)
+Hér eru [kóðasýnidæmi](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Routes/readme.md) (routing)
 
 ---
 
