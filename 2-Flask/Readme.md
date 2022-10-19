@@ -33,7 +33,7 @@
 
 ---
 
-### VS Code ritill (python og venv)
+### VS Code ritill
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 - [Flask tutorial in VS Code](https://code.visualstudio.com/docs/python/tutorial-flask)
 
@@ -43,7 +43,7 @@
 1. Veldu python þýðandann sem er í venv (neðst í VSCode) prófað að keyra (Play takkinn) python skrá með `Code runner` extension í VSCode.
 1. (venv) er virkt (_activate_) sjálfkrafa þegar við opnum terminal innan VS Code  
 
-#### VSCode, aðrar gagnlegar stillingar
+#### Aðrar gagnlegar stillingar í VSCode
 1. Debugger. Hægt er að búa til og stilla `launch.json` config (taka t.d. út no-reload í "args") 
 1. Git og Github. Það er nauðsynlegt er að búa til `.gitignore` skrá  til að hunsa `venv` möppu og `.vscode skrá, við vijum ekki hafa þetta með í git aðgerðum. Hægt er að tengja Git við Github repository í VSCode.
 
