@@ -23,4 +23,4 @@ Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hlu
 1. Undirsíða nr. 1 birtir random mynd **(20%)**
 1. Undirsíða nr. 2 birtir texta sem tekin er úr URL – inu **(20%)**
 
-Skilaðu kóðalausnum á Innu.
+Skilaðu lausnum á Innu.
