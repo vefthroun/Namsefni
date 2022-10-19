@@ -15,7 +15,9 @@ At line:1 char:1
 ```
 
 **Lausn**
-`C:\vef31> set-executionpolicy remotesigned`
+Í powershell (run as admin)
+`Set-ExecutionPolicy -ExecutionPolicy Undefined -Scope CurrentUser`
+`set-executionpolicy remotesigned`
 
 ---
 
