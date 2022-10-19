@@ -34,46 +34,30 @@
 ---
 
 ### VS Code ritill (python og venv)
+- [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
+- [Flask tutorial in VS Code](https://code.visualstudio.com/docs/python/tutorial-flask)
 
+#### VSCode og VENV
 1. Náðu þér í python stuðning sem er viðbót (extension) í VS Code [Python linting](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 1. Opnaðu möppuna sem geymir python skrárnar fyrir flask appið.
 1. Veldu python þýðandann sem er í venv (neðst í VSCode) prófað að keyra (Play takkinn) python skrá með `Code runner` extension í VSCode.
-1. .vscode -> settings.json  sýnir hvaða þýðandi verið að nota fyrir project.
 1. (venv) er virkt (_activate_) sjálfkrafa þegar við opnum terminal innan VS Code  
+
+#### VSCode, aðrar gagnlegar stillingar
+1. Debugger. Hægt er að búa til og stilla `launch.json` config (taka t.d. út no-reload í "args") 
+1. Git og Github. Það er nauðsynlegt er að búa til `.gitignore` skrá  til að hunsa `venv` möppu og `.vscode skrá, við vijum ekki hafa þetta með í git aðgerðum. Hægt er að tengja Git við Github repository í VSCode.
+
+
+<!--
+1. .vscode -> settings.json  sýnir hvaða þýðandi verið að nota fyrir project.
 1. Til að sækja söfn t.d. flask þá notum við [pip (python package installer)](https://pypi.org/) `pip install flask` 
 1. Við getum skoðað hvaða viðbætur við höfum sett í `env/Lib/site-packages/` þessar viðbætur tilheyra eingöngu vefþróunarsvæðinu
-1. Búum til `.gitignore` skrá  til að hunsa `venv` möppu og `.vscode skrá, við vijum ekki hafa þetta með í git aðgerðum. Tengjum Git við Github repository.
 
-- [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
-- [Tutorial Flask in VS Code](https://code.visualstudio.com/docs/python/tutorial-flask)
-- Python tutorial. [What is Flask Python?](https://pythonbasics.org/what-is-flask-python/)
-- Python tutorial. [Hello world](https://pythonbasics.org/flask-tutorial-hello-world/)
 - Video: [First install and Virtual Environments - Windows 10](https://www.youtube.com/watch?v=x1cbYa2SSlE)
 - Video: [Visual Studio Code (Windows) - Setting up a Python Development Environment - Corey Shafer](https://www.youtube.com/watch?v=-nh9rCzPJ20)
-
----
-
-#### Virtual environment og pip (package manager)
- - Video: [Python Tutorial: VENV (Mac & Linux) - How to Use Virtual Environments](https://www.youtube.com/watch?v=Kg1Yvry_Ydk)
+- Video: [Python Tutorial: VENV (Mac & Linux) - How to Use Virtual Environments](https://www.youtube.com/watch?v=Kg1Yvry_Ydk)
+-->
  
----
 
-<!--
-### Skoða betur linka (kennari)
-- http://www.compjour.org/lessons/flask-single-page/hello-tiny-flask-app/
-- [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-- Flask by Example – Project Setup https://realpython.com/flask-by-example-part-1-project-setup/
--->
 
-<!--
 
-#### Mac leiðbeiningar
-Python Environment 101 - https://towardsdatascience.com/python-environment-101-1d68bda3094d
-  - pyenv vs pipenv vs virtualenv
-
-- https://opensource.com/article/19/6/python-virtual-environments-mac
-  - homebrew + pyenv ( pyenv is a Python version management.)
-- https://opensource.com/article/19/5/python-3-default-mac
----
-
--->
