@@ -1,5 +1,6 @@
 ### Routing kóðasýnidæmi
-
+1. [Halló heimur](halloheimur.md)
+1. [Decorators](0_decorators.md)
 1. [Static Routing](1_staticRoutes.py) 
 1. [Redirection Behavior](2_redirectionBehavior.py)
 1. [Dynamic Routing](3_dynamicRoutes.py)
