@@ -19,6 +19,11 @@ def show_post(post_id):
     # show the post with the given id, the id is an integer
     return 'Post: %d' % post_id
 
+# heiltala með sjálfgefið gildið 
+@app.route('/sale/<transaction_id>')
+def get_sale(transaction_id=0):
+  return "The transaction is "+str(transaction_id)
+
 # flask route with multiple parameters 
 @app.route('/create/<first_name>/<last_name>')
 def create(first_name=None, last_name=None):
