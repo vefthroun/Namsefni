@@ -8,7 +8,7 @@
 1. [Redirects](6_redirects.py)
 1. [Dynamic Routing](3_dynamicRoutes.py)
 1. [Dynamic Routing and Varible rules](4_dynamicRoutesVariableRules.py)
-1. [url_for fallið (myndband)](https://www.youtube.com/watch?v=Ofy_jRHE3no&list=PLXmMXHVSvS-CoYS177-UvMAQYRfL3fBtX&index=18)
+1. [url_for fallið](8_urlfor.py)
 
 <!-- 
 bæta við fleiri kóðasýnidæmum
