@@ -18,4 +18,3 @@
 - [Flask Routing](https://flask.palletsprojects.com/en/2.2.x/quickstart/#routing)
 - [Flask Tutorial: Routes](https://pythonbasics.org/flask-tutorial-routes/)
 - [The Art of Routing in Flask](https://hackersandslackers.com/flask-routes)
-- [url_for()](https://flask.palletsprojects.com/en/2.2.x/quickstart/#url-building)
