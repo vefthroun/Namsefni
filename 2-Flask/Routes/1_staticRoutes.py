@@ -32,11 +32,11 @@ def demo3():
 @app.route('/index')
 def demo4():
     user = {'username': 'Gunnar'} # dictionary
-    return "<h1>Halló, " + user['username'] + "!</h1>"
+    return "<h1>Halló, " + user['username'] + "!</h1>"  # Halló Gunnar!
 
 
 if __name__ == '__main__':
-  app.run(debug=True, use_reloader=True)  # This will allow the app to display a proper Python error message, so you can fix the typo/syntax error.
+  app.run(debug=True, use_reloader=True)  
 
 
    
