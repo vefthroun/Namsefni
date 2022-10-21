@@ -18,9 +18,8 @@ bæta við fleiri kóðasýnidæmum
 
 ---
 
-#### Vefgreinar og skýringar
+#### Vefgreinar 
 
 - [Query Strings (pdf)](https://github.com/vefthroun/Namsefni/blob/main/1-HTTPS/QueryString_GETRequest_Routing.pdf)
 - [Quick start: Flask Routing](https://flask.palletsprojects.com/en/2.2.x/quickstart/#routing)
-- [Flask Tutorial: Routes](https://pythonbasics.org/flask-tutorial-routes/)
 - [The Art of Routing in Flask](https://hackersandslackers.com/flask-routes)
