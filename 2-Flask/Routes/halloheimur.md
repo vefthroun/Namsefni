@@ -1,4 +1,4 @@
-## Halló heimur með (innbyggðum vef miðlara)
+## Halló heimur 
 - [Quick Start](https://flask.palletsprojects.com/en/2.2.x/quickstart/)
 - [Hello Tiny Flask App](http://www.compjour.org/lessons/flask-single-page/hello-tiny-flask-app/)
  
@@ -24,7 +24,7 @@ if __name__ == '__main__':
             # debug=True. debug er nytsamlegt í vefþróun, gefur skýrari villuskilaboð.
             # use_reloader. use_reloader=True þýðir að þú þarft ekki að endurkeyra python skrá stöðugt þegar þú gerir kóðabreytingar. 
      
-# Keyrðu python skránna í terminal og skoðaðu url í vafra (localhost)
+# Keyrðu python skránna í terminal og skoðaðu url í vafra (localhost), en með Flask kemur web server sem vð getum notað
 ```
 
 #### Nánari skýringar
