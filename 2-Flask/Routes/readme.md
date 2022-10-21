@@ -9,12 +9,13 @@
 1. [Dynamic Routing](3_dynamicRoutes.py)
 1. [Dynamic Routing and Varible rules](4_dynamicRoutesVariableRules.py)
 1. [url_for fallið (myndband)](https://www.youtube.com/watch?v=Ofy_jRHE3no&list=PLXmMXHVSvS-CoYS177-UvMAQYRfL3fBtX&index=18)
+<!-- {{ url_for('static', filename='style.css') }} # nota í template, búa til sýnidæmi þar sem þetta er sett í href -->
 
 ---
 
 #### Vefgreinar og skýringar
 
 - [Query Strings (pdf)](https://github.com/vefthroun/Namsefni/blob/main/1-HTTPS/QueryString_GETRequest_Routing.pdf)
-- [Flask Routing](https://flask.palletsprojects.com/en/2.2.x/quickstart/#routing)
+- [Quick start: Flask Routing](https://flask.palletsprojects.com/en/2.2.x/quickstart/#routing)
 - [Flask Tutorial: Routes](https://pythonbasics.org/flask-tutorial-routes/)
 - [The Art of Routing in Flask](https://hackersandslackers.com/flask-routes)
