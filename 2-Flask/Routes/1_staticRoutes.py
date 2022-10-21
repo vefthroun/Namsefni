@@ -1,7 +1,7 @@
 from flask import Flask
 app = Flask(__name__)
 
-@app.route('/')
+@app.route('/demo1')
 def demo1():
     # skilum textastreng í vafra
     return "Halló Heimur!"
@@ -10,12 +10,17 @@ def demo1():
 @app.route('/')
 @app.route('/index')
 def demo2():
-    # blöndum saman html elementum og texta í streng sem við skilum.
+    return "Halló Heimur!"
+
+# blöndum saman html elementum og texta í streng sem við skilum.
+@app.route('/')
+@app.route('/index')
+def demo3():
     return "<h1>Halló Heimur!</h1>"
 
 # Við getum skilað heillri html vefsíðu sem streng
-@app.route('/index')
-def demo3():
+@app.route('/')
+def demo4():
     return '''
     <!DOCTYPE html>
     <head>
@@ -25,12 +30,13 @@ def demo3():
     </head>
     <body>
           <h1>Halló</h1>
+          <a href="/sida1">Tengill</a>  <!-- tengill á routið (undirsíða) /sida1 -->
     </body>
     '''
 
 # Getum notað dictionary í return 
-@app.route('/index')
-def demo4():
+@app.route('/')
+def demo5():
     user = {'username': 'Gunnar'} # dictionary
     return "<h1>Halló, " + user['username'] + "!</h1>"  # Halló Gunnar!
 
