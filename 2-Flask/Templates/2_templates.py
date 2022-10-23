@@ -11,7 +11,7 @@ HTML special characters are escaped automatically to prevent XSS attacks.
 """
 
 @app.route('/')
-def demo2():
+def index():
     # data
     title = "Jinja"
     user = {'username': 'Jón Jónsson'}
