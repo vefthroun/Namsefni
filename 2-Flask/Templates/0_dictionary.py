@@ -27,8 +27,6 @@ def index():
     </html>'''
 
 
-# This starts the web app 
 if __name__ == '__main__':
   app.run(debug=True, use_reloader=True)  
     
-# Keyrðu python skránna og skoðaðu url í vafra
