@@ -7,6 +7,8 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
+    
+    # list of tuples
     user_os = [
         ("Miller", "Windows"),
         ("Bob", "MacOS"),
