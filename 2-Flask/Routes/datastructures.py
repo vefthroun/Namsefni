@@ -15,7 +15,8 @@ def demo2():
     print(data)
     return  "<h1>Halló " + data[0] + " og " + data[1] + "!</h1>"
 
-# dictionary
+# dictionary   
+# https://realpython.com/python-dicts/
 @app.route('/demo3')
 def demo3():
     data = {'username': 'Gunnar'}
