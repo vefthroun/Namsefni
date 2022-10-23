@@ -12,7 +12,7 @@ HTML special characters are escaped automatically to prevent XSS attacks.
 @app.route("/")
 def index():
     # skilum html (index.html) sem er vistuð í templates möppu (þurfum ekki að vísa í hana sérstaklega) 
-    return render_template("index.html")
+    return render_template("template1.html")
   
 
 if __name__ == '__main__':
