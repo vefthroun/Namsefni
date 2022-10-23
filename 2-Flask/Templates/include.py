@@ -12,8 +12,8 @@ https://jinja.palletsprojects.com/en/3.0.x/templates/#include
 
 @app.route('/')
 def index():
-    user = {'username': 'guest'}
-    return render_template('include.html', title='Home', user=user)
+    user = {'username': 'Gunnar'}
+    return render_template('include.html', title='Tölvubraut', user=user)
 
 # This starts the web app 
 if __name__ == '__main__':
