@@ -9,12 +9,7 @@
 1. [Dynamic Routing](3_dynamicRoutes.py)
 1. [Dynamic Routing and Varible rules](4_dynamicRoutesVariableRules.py)
 1. [url_for fallið](8_urlfor.py)
-
-<!-- 
-bæta við fleiri kóðasýnidæmum
-- return string með multiple arguemnts, breytur, dictionary, https://pythonbasics.org/flask-tutorial-routes/
-- {{ url_for('static', filename='style.css') }} # nota í template, búa til sýnidæmi þar sem þetta er sett í href 
--->
+1. [Basic Data structure](basic_datastructures.py)
 
 ---
 
