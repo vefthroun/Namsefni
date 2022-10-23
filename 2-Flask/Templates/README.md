@@ -1,19 +1,17 @@
 ## Jinja 
 Jinja is a designer-friendly templating language for Python.
 
+---
+
 * [Jinja heimasíðan](https://jinja.palletsprojects.com/en/3.0.x/)
-* [Templates kóðasýnidæmi](/2-Flask/Templates/templates/index.html)
+* [Web Developer Bootcamp with Flask and Python](https://python-web.teclado.com/section07/lectures/02_render_template_to_send_longer_strings/#using-render-template-to-send-longer-html-strings)
+* [Data Structures in Jinja2](https://python-web.teclado.com/section07/lectures/05_jinja2_data_structures/)
 * [Variables & dictionary (video)](https://youtu.be/pJ8V51XJuf0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04)
 * [Loops & inheritance (video)](https://youtu.be/APh3jdVryF0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04)
 * [Rendering Pages in Flask Using Jinja](https://hackersandslackers.com/flask-jinja-templates)
 * [Templates](https://jinja.palletsprojects.com/en/3.0.x/templates/)
 * [Filters](https://jinja.palletsprojects.com/en/3.0.x/templates/#list-of-builtin-filters)
 * [Real Python Jinja](https://realpython.com/primer-on-jinja-templating/)
-* [Data Structures in Jinja2](https://python-web.teclado.com/section07/lectures/05_jinja2_data_structures/)
-
-<!-- 
-- {{ url_for('static', filename='style.css') }} # nota í template, búa til sýnidæmi þar sem þetta er sett í href 
--->
 
 ---
 
