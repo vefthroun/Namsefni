@@ -6,7 +6,7 @@ def index():
     # data
     title = "Jinja"
     user = {'username': 'Jón Jónsson'}
-    
+   
     # sendum dictionary (user) og breytuna (title) í template
     return render_template('template2.html', title=title, user=user)
 
