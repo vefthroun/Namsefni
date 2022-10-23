@@ -5,7 +5,7 @@
         <meta charset="utf-8"/>
     </head>
     <body>
-        <h1>Góðan dag, {{ user.username }}!</h1>
-        <p>Þetta er það sama {{ user['username'] }}! </p>
+        <h1>Góðan dag, {{ user['username'] }} </h1>
+        <p>Þetta {{ user.username }}! virkar í Jinja template en ekki í python, passaðu að ruglast ekki á þessu! </p>
     </body>
 </html>
