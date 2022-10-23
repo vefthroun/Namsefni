@@ -21,6 +21,7 @@ def demo3():
     data = {'username': 'Gunnar'}
     print(data)
     return  "<h1>Halló " + data['username'] + "!</h1>"
+    # líka hægt að nota get aðferð, data.get('username')  skilar NONE en ekki villumeldingu ef það vantar gildi
 
 # listi
 @app.route('/demo4')
