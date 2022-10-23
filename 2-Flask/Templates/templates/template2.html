@@ -1,12 +1,12 @@
 <html>
     <head>       
-         <!-- slaufusvigarnir eru e. placeholders fyrir breytur -->
         <title>{{ title }}</title>
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
     </head>
     <body>
+        <!-- slaufusvigarnir eru e. placeholders  -->
         <h1>Góðan dag, {{ user['username'] }} </h1>
         <p>Þetta {{ user.username }}! virkar í Jinja template en ekki í python. Passaðu að ruglast ekki! </p>
     </body>
