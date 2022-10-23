@@ -1,6 +1,9 @@
 from flask import Flask, render_template
 app = Flask(__name__)
 
+# Looping Through Dictionary Objects
+# https://python-web.teclado.com/section07/lectures/07_jinja2_loops/#looping-through-dictionary-objects
+
 @app.route('/')
 def index():
     
