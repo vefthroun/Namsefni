@@ -9,6 +9,8 @@ Jinja is a designer-friendly templating language for Python.
 * [Templates](https://jinja.palletsprojects.com/en/3.0.x/templates/)
 * [Filters](https://jinja.palletsprojects.com/en/3.0.x/templates/#list-of-builtin-filters)
 * [Real Python Jinja](https://realpython.com/primer-on-jinja-templating/)
+* [Data Structures in Jinja2](https://python-web.teclado.com/section07/lectures/05_jinja2_data_structures/)
+
 ---
 
 #### Skráarskipulag
