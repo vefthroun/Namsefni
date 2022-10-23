@@ -20,7 +20,7 @@ def index():
     # dictionary
     kwargs = { "moons": moons }
 
-    return render_template("template6.html", **kwargs)
+    return render_template("template7.html", **kwargs)
 
 if __name__ == '__main__':
   app.run(debug=True, use_reloader=True)  
