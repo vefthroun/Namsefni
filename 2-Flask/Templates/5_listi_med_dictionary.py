@@ -21,7 +21,7 @@ def index():
         }
     ]
     
-    return render_template('template4.html', title='Home', user=user, posts=posts)
+    return render_template('template5.html', title='Home', user=user, posts=posts)
 
 
 if __name__ == '__main__':
