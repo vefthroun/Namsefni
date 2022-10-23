@@ -11,6 +11,10 @@ Jinja is a designer-friendly templating language for Python.
 * [Real Python Jinja](https://realpython.com/primer-on-jinja-templating/)
 * [Data Structures in Jinja2](https://python-web.teclado.com/section07/lectures/05_jinja2_data_structures/)
 
+<!-- 
+- {{ url_for('static', filename='style.css') }} # nota í template, búa til sýnidæmi þar sem þetta er sett í href 
+-->
+
 ---
 
 #### Skráarskipulag
