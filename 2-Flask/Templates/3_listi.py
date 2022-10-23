@@ -1,6 +1,8 @@
 from flask import Flask, render_template
 app = Flask(__name__)
 
+# Looping Through List Objects
+# https://python-web.teclado.com/section07/lectures/07_jinja2_loops/#looping-through-list-objects
 
 @app.route('/')
 def index():
