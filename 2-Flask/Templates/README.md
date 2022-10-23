@@ -3,7 +3,7 @@
 
 ---
 
-#### Vefgreinar
+#### Vefgreinar og myndbönd
 
 * [Templates: flask heimasíðan](https://flask.palletsprojects.com/en/2.2.x/tutorial/templates/)
 * [Variables & dictionary (video)](https://youtu.be/pJ8V51XJuf0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04)
