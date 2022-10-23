@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <head>
+    <title>Jinja sýnidæmi</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jinja sýnidæmi</title>
+    <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
 </head>
 <body>
-    <h1>Jinja Sýnidæmi 1</h1>
-    <p>Þetta er dæmi um einfalt template með harðkóðuð gögn (texta).</p>
+    <p>Þetta er dæmi um einfalt template.</p>
+    <img src="{{url_for('static', filename='image.png')}}">
 </body>
 </html>
