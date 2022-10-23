@@ -34,12 +34,6 @@ def demo4():
     </body>
     '''
 
-# Getum notað dictionary í return 
-@app.route('/')
-def demo5():
-    user = {'username': 'Gunnar'} # dictionary
-    return "<h1>Halló, " + user['username'] + "!</h1>"  # Halló Gunnar!
-
 
 if __name__ == '__main__':
   app.run(debug=True, use_reloader=True)  
