@@ -1,0 +1,24 @@
+<html>
+    <head>       
+        {% if title %}
+          <title>{{ title }}</title>
+        {% else %}
+          <title>Welcome!</title>
+        {% endif %}
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+    </head>
+    <body>
+      <h1>Basic Comparisons</h1>
+      
+      {% if company == "Apple" %}
+          <h3>You have an iPhone from {{ company }} </h3>
+      {% elif company == "Google" %}
+          <h3>You have a Google phone from {{ company }}</h3>
+      {% else %}
+          You have a phone from somewhere else.
+      {% endif %}
+
+    </body>
+</html>
