@@ -16,7 +16,7 @@ def index():
         "last_name": last_name,
     }
     # Notum dictionary unpacking operator ** til að vinna með breytur í template.
-    return render_template("template5.html", **kwargs)
+    return render_template("template6.html", **kwargs)
 
 if __name__ == '__main__':
   app.run(debug=True, use_reloader=True)  
