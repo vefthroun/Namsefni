@@ -3,7 +3,7 @@ from flask import Flask, render_template
 app = Flask(__name__)
 
 
-# listi og lykkjur
+# listi sem inniheldur dictionary 
 @app.route('/')
 def index():
     # dictionary
