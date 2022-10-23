@@ -3,6 +3,8 @@
          <!-- slaufusvigarnir eru e. placeholders fyrir breytur -->
         <title>{{ title }}</title>
         <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
     </head>
     <body>
         <h1>Góðan dag, {{ user['username'] }} </h1>
