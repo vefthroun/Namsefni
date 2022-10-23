@@ -19,7 +19,7 @@ def index():
             'body': 'The Avengers movie was so cool!'
         }
     ]
-    return render_template('template2.html', title='Home', user=user, posts=posts)
+    return render_template('template3.html', title='Home', user=user, posts=posts)
 
 
 # This starts the web app 
