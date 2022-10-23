@@ -18,10 +18,11 @@ def demo2():
 def demo3():
     return "<h1>Halló Heimur!</h1>"
 
-# Við getum skilað heillri html vefsíðu sem streng
+# Við getum skilað html vefsíðu sem streng
 @app.route('/')
 def demo4():
-    return '''
+    # breyta sem geymir html í strengjaformi
+    html = '''
     <!DOCTYPE html>
     <head>
         <meta charset="UTF-8">
@@ -33,6 +34,7 @@ def demo4():
           <a href="/sida1">Tengill</a>  <!-- tengill á routið (undirsíða) /sida1 -->
     </body>
     '''
+    return html
 
 
 if __name__ == '__main__':
