@@ -1,4 +1,3 @@
-# sækjum einnig render_template
 from flask import Flask, render_template
 app = Flask(__name__)
 
@@ -6,8 +5,10 @@ app = Flask(__name__)
 # listi sem inniheldur dictionary 
 @app.route('/')
 def index():
+    
     # dictionary
     user = {'username': 'guest'}
+    
     # list
     posts = [
         {
@@ -19,9 +20,9 @@ def index():
             'body': 'The Avengers movie was so cool!'
         }
     ]
-    return render_template('template3.html', title='Home', user=user, posts=posts)
+    
+    return render_template('template4.html', title='Home', user=user, posts=posts)
 
 
-# This starts the web app 
 if __name__ == '__main__':
   app.run(debug=True, use_reloader=True)
