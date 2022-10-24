@@ -1,5 +1,7 @@
 ### Jinja 
-[Jinja](https://jinja.palletsprojects.com/en/3.0.x/templates/) is a designer-friendly templating language for Python.
+[Jinja](https://jinja.palletsprojects.com/en/3.0.x/templates/) is a designer-friendly templating language for Python. 
+
+Hér eru 11 [kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/2-Flask/Templates).
 
 ---
 
