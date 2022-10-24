@@ -5,12 +5,11 @@
 
 #### Vefgreinar og myndbönd
 
-* [Templates: flask heimasíðan](https://flask.palletsprojects.com/en/2.2.x/tutorial/templates/)
+* [Web Developer Bootcamp with Flask and Python](https://python-web.teclado.com/section07/lectures/02_render_template_to_send_longer_strings/#render-html-pages)
 * [Variables & dictionary (video)](https://youtu.be/pJ8V51XJuf0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04)
 * [Loops & inheritance (video)](https://youtu.be/APh3jdVryF0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04)
 * [Rendering Pages in Flask Using Jinja](https://hackersandslackers.com/flask-jinja-templates)
-* [Filters](https://jinja.palletsprojects.com/en/3.0.x/templates/#list-of-builtin-filters)
-* [Real Python Jinja](https://realpython.com/primer-on-jinja-templating/)
+* [Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)
 
 ---
 
@@ -29,7 +28,7 @@
 
 <!--
 #### Jinja Filters
-
+* [Filters](https://jinja.palletsprojects.com/en/3.0.x/templates/#list-of-builtin-filters)
 * [Builtin Filters](http://jinja.pocoo.org/docs/2.11/templates/#builtin-filters)
 * [Filters](https://www.webforefront.com/django/usebuiltinjinjafilters.html)
 * [Custom Filters](http://jinja.pocoo.org/docs/2.11/api/#custom-filters)
