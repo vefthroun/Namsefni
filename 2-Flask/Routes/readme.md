@@ -9,7 +9,7 @@
 1. [Dynamic Routing](3_dynamicRoutes.py)
 1. [Dynamic Routing and Varible rules](4_dynamicRoutesVariableRules.py)
 1. [url_for fallið](8_urlfor.py)
-1. [Basic Data structure](basic_datastructures.py)
+1. [Basic Data structure](datastructures.py)
 
 ---
 
