@@ -8,7 +8,7 @@
 
 1. [Flask](https://github.com/vefthroun/Namsefni/tree/main/2-Flask#readme)
 1. [Routes](https://github.com/vefthroun/Namsefni/tree/main/2-Flask/Routes#readme)
-1. [Templates](https://github.com/vefthroun/Namsefni/tree/main/2-Flask/Templates)
+1. [Templates](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Templates/README.md)
 
 ---
 
