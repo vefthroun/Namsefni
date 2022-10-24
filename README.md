@@ -6,7 +6,7 @@
 
 #### Námsefni
 
-1. [Flask](https://github.com/vefthroun/Namsefni/tree/main/2-Flask#readme)
+1. [Flask](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Readme.md#hva%C3%B0-er-flask)
 1. [Routes](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Routes/readme.md#routing-k%C3%B3%C3%B0as%C3%BDnid%C3%A6mi)
 1. [Templates](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Templates/README.md#jinja)
 
