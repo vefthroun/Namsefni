@@ -17,8 +17,9 @@ Flask app (vefur) þarf að uppfylla eftirfarandi:
 1. Undirsíða 2 inniheldur lista (5 items) sem geymir upplýsingar (frjálst).
 1. Síður innihalda lárettan menu, sjá [sýnidæmi](https://hackersandslackers.com/flask-jinja-templates/).
 1. Allur texti og hlekkir í html eru geymd í gagnagrindum (data structure); breytur, tuple, listi og dictionary.
-1. Static routing útfærsla fyrir forsíðu, undirsíðu, 404 og 500 villur.
+1. Static routing útfærsla fyrir forsíðu, undirsíður og 404.
 1. Vefinn er hlutaður niður með include í Jinja2: head, header, menu og footer og lykkjunotkun.
+1. Búðu til html síðu fyrir 404 villumeldingu.
 1. Notað er for_url fyrir static linka á CSS og ljósmyndir.
 1. CSS fyrir útlit.
 
