@@ -16,7 +16,7 @@
 #### Verkefni
 - [Verkefni 1](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni1.md)
 - [Verkefni 2](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni2.md)
--
+- [Verkefni 3](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni3.md)
 
 <!--
 
