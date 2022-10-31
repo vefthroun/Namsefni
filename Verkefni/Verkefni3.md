@@ -7,7 +7,7 @@
    1. CSS safn 
 
 ### Verkefnalýsing
-Útfærðu vörusíðuvef með Flask. Notaðu [gagnagrindina og gögn](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/V3_data.py) sem fylgir verkefninu sem viðmið (þú þarft að breyta innihaldi). Notaðu [milligram](https://milligram.io/) eða [purecss](https://purecss.io/) CSS safn fyrir uppsetningu og framsetningu á vef. Engin harðkóðun.
+Útfærðu vörusíðuvef með Flask. Notaðu [gagnagrindina og gögn](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/V3_data.py) sem fylgir verkefninu sem viðmið (þú þarft að breyta innihaldi). Notaðu [purecss](https://purecss.io/) CSS safn fyrir uppsetningu og framsetningu á vef. Engin harðkóðun.
 
 1. Forsíða inniheldur yfirlit yfir allar vörur. heiti, verð, vöruflokk, mynd (static) og hlekk til að sjá nánar um vöru (undirsíðu).
 1. Undirsíða (vara) inniheldur nánari upplýsingar um vöruna; heiti, verð, mynd, vöruflokk, textalýsing og listi.
