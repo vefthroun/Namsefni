@@ -7,11 +7,11 @@ Hér eru 11 [kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/2
 
 #### Vefgreinar og myndbönd
 
-* [What is Jinja2?](https://python-web.teclado.com/section07/lectures/03_what_is_jinja2/)
-* [Variables & dictionary (video)](https://youtu.be/pJ8V51XJuf0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04)
-* [Loops & inheritance (video)](https://youtu.be/APh3jdVryF0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04)
-* [Rendering Pages in Flask Using Jinja](https://hackersandslackers.com/flask-jinja-templates)
-* [Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)
+1. [What is Jinja2?](https://python-web.teclado.com/section07/lectures/03_what_is_jinja2/)
+1. [Variables & dictionary](https://youtu.be/pJ8V51XJuf0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04) (video)
+1. [Loops & inheritance](https://youtu.be/APh3jdVryF0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04) (video)
+1. [Rendering Pages in Flask Using Jinja](https://hackersandslackers.com/flask-jinja-templates) _base með include nav_
+1. [Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)
 
 ---
 
