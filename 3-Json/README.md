@@ -41,11 +41,3 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 * [Learn JSON in 10 Minutes  _youtube video_](https://www.youtube.com/watch?v=iiADhChRriM)
 * [Working with JSON - video (að 12:00)](https://www.youtube.com/watch?v=9N6a-VLBa2I)
 
----
-
-### JSON vs XML
-
- * XML has to be parsed with an XML parser, JSON can be parsed by a standard JavaScript function.
- * JSON is quicker to read and write (AJAX)
- * JSON can use arrays
-
