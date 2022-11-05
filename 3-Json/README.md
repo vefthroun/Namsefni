@@ -31,7 +31,7 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 ### JSON & Python (bjargir)
 
 * [JSON in Python (W3Schools)](https://www.w3schools.com/python/python_json.asp)
-* [Reading and writing json to a file](https://www.geeksforgeeks.org/reading-and-writing-json-to-a-file-in-python/)
+* [Reading and writing json to a python file](https://www.geeksforgeeks.org/reading-and-writing-json-to-a-file-in-python/)
 * [Append to Json file using Python](https://www.geeksforgeeks.org/append-to-json-file-using-python/)
 * [Json Examples](https://json.org/example.html)
 * [Json manifest](https://developers.google.com/web/fundamentals/web-app-manifest/?utm_source=devtools)
