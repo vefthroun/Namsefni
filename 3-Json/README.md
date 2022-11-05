@@ -23,7 +23,8 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 * [Dæmi 3: JSON í Dictionary](3_JsonToDictionary.py)
 * [Dæmi 4: Dictionary í JSON](4_dictionaryToJson.py)
 * [Dæmi 5: Að lesa JSON skrá](5_lesa_skra.py)
-* [Dæmi 6: Að skrifa í JSON skrá](6_skrifa_skra.py)
+* [Dæmi 6: Að lesa ](6_dictionary_fra_JSON.py)
+* [Dæmi 7: Að skrifa í JSON skrá](7_skrifa_skra.py)
 
 ---
 
