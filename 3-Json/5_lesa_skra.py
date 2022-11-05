@@ -4,8 +4,7 @@ app = Flask(__name__)
 # Hýsum JSON skrá á Github.
 # Gists: https://miguelpiedrafita.com/articles/github-gists (max 60 request pr klst nema notað sé token). 
 # Vistaðu skránna með .JSON sniðmáti.
-# veldu `raw` og afritaðu vefslóð (url) og bættu við .json við endingu 
-
+# veldu `raw` og afritaðu vefslóðina (url).
 with open("https://gist.githubusercontent.com/GunnarThorunnarson/13839d272efae357adc1edbcd91f2938/raw/5faf23d220437b74adc73a94ba3edd2a0e01a8c2/nemendur.json", encoding='utf-8') as skra:
     gogn = json.load(skra) # sækjum data úr Json skrá
 
