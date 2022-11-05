@@ -1,4 +1,4 @@
-## Í hækkandi röð 
+## CSS söfn
 
 - [milligram](https://milligram.io/) 
    - notar ekk class í html (fyrir utan layout) 
