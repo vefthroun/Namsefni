@@ -1,3 +1,5 @@
+// Það er ekki hægt að nota comments í JSON skrá (smá svindl hér fyrir skýringar)
+
 /* Hér eru dæmi um JSON (einföld og flókin) 
  * Algengt er að vefir hafi API (gátt) þar sem hægt er að nálgast JSON skrár (vefsíðugögn)
    sjá td; apis.is, twitter, YouTube, Facebook, Google Maps osfrv.
