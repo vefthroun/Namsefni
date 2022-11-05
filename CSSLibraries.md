@@ -7,13 +7,12 @@
    - notar class í html. 
    - responsive, hægt að bæta við klass fyrir mediaquery
    - er með einfaldan tilbúinn menu, 
-   - hægt að nota tilbúin template
 - [picnic](https://picnicss.com/documentation)
    - notar class í html
    - CSS class grids kerfi
-   - fídusar smá tilbúið javascript sem hægt er að nota
+   - fídusar smá tilbúið javascript sem hægt er að nota t.d. cards, spinners osfrv.
 - [Materila Design Light CSS](https://getmdl.io/index.html)
-   - Notar ekki JavaScript
    - byggt á [Material Design](https://material.io/)
 - [Tailwind](https://tailwindcss.com/) 
+    
  
