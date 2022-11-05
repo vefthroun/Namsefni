@@ -1,10 +1,10 @@
 ### JavaScript Object Notation (JSON) 
 [JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON) er opið gagnaskiptasnið sem notar læsilegan texta til að geyma, sækja og senda gagnahluti. <br>
 Uppbygging samanstendur af eigindi (key) og gildi (value) pörum. 
-JSON er læsileg og vinsælt gagnsnið á manna máli. JSON er notað með ýmsum forritunarmálum
+JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýmsum forritunarmálum.
 
-#### JSON syntax
 
+#### JSON málskipan
  * key/value parasamband
  * Gögn eru aðgreind með kommu
  * {}, Slaufusvigi eru utan um JSON object og innri objecta 
