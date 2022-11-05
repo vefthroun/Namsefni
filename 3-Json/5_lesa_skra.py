@@ -2,6 +2,7 @@ from flask import Flask, json
 app = Flask(__name__)
 
 # Tengjumst við skránna 5.json (verður að vera til)
+# Opening JSON file with open('sample.json', 'r') 
 with open("C:/Users/gjg/Desktop/vefforitun1/Namsefni/3-Json/5.json", encoding='utf-8') as skra:
     gogn = json.load(skra) # sækjum data úr Json skrá
 
