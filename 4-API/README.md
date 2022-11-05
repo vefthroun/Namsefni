@@ -20,11 +20,9 @@
 
 ---
 
-#### Ítarefni: Að búa til sinn eigin API með Flask  (_ekki viðfangsefni áfangans_)
+#### Að búa til sinn eigin API með Flask
 1. [Handle incoming, parsing and returning JSON data with Flask!](https://pythonise.com/series/learning-flask/working-with-json-in-flask)
 1. [Flask REST API Tutorial](https://pythonbasics.org/flask-rest-api/)
 1. [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
 
 ---
-
-1. [Datetime (module) - Dagsetningar og tími í python](datetime.md)
