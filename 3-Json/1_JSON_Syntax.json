@@ -1,10 +1,7 @@
-// JSON object
-// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
-
+// JSON 
 {"name":"Lushui","species":"Panda","diet":"Green Things","age":7,"colours":["red","brown","white"]}
-// Þú getur notað tól til að lesa JSON response from web servers, t.d. chrome extension 
 
-// eða svona, autt bil (white space skiptir engu máli)
+// eða svona, autt bil (white space) skiptir engu máli.
 {
     "name": "Lushui",
     "species": "Panda",
@@ -16,16 +13,3 @@
         "white"
     ]
 }
-
-// JSON vs XML
-/* 
- * XML has to be parsed with an XML parser, JSON can be parsed by a standard JavaScript function.
- * 
- * Both JSON and XML is "self describing" (human readable)
- * Both JSON and XML is hierarchical (values within values)
- * Both JSON and XML can be parsed and used by lots of programming languages
- * Both JSON and XML can be fetched with an XMLHttpRequest
- *
- * JSON is quicker to read and write (AJAX)
- * JSON can use arrays
-*/
