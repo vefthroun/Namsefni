@@ -16,7 +16,7 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
  * JSON skráarsnið er með .json endingu, the MIME type for JSON text is "application/json"
  * Þú getur notað JSONLint til að validate JSON. http://jsonlint.com/ 
 
-#### JSON Sýnidæmi
+#### Sýnidæmi
 
 * [Dæmi 1: JSON syntax](1_JSON_Syntax.json)
 * [Dæmi 2: JSON sýnidæmi](2_JSON_EXAMPLES.json)
