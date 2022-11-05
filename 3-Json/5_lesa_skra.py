@@ -1,7 +1,7 @@
 from flask import Flask, json
 app = Flask(__name__)
 
-# Við getum búið til JSON skrá í sömu möppu Hýsum JSON á Github.
+# Hýsum JSON skrá á Github.
 # Gists: https://miguelpiedrafita.com/articles/github-gists (max 60 request pr klst nema notað sé token). 
 # Vistaðu skránna með .JSON sniðmáti.
 # veldu `raw` og afritaðu vefslóð (url) og bættu við .json við endingu 
