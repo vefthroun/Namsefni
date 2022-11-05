@@ -1,4 +1,4 @@
-## JavaScript Object Notation (JSON) 
+#### JavaScript Object Notation (JSON) 
 JSON er opið gagnaskiptasnið sem notar læsilegan texta til að geyma og senda gagnahluti. <br>
 Uppbygging samanstendur af eigindi (key) og gildi (value) pörum. JSON er mjög vinsælt gagnasnið.
 
@@ -11,7 +11,7 @@ Uppbygging samanstendur af eigindi (key) og gildi (value) pörum. JSON er mjög 
 
 ---
 
-### JSON & Python
+#### JSON & Python
 
 * [An introduction to JSON](https://towardsdatascience.com/an-introduction-to-json-c9acb464f43e)
 * [JSON in Python (W3Schools)](https://www.w3schools.com/python/python_json.asp)
