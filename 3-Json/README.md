@@ -20,12 +20,12 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 
 ### JSON Sýnidæmi
 
-* [Dæmi 1](1_JSON_Syntax.json)
-* [Dæmi 2](2_JSON_EXAMPLES.json)
-* [Dæmi 3](3_JsonToDictionary.py)
-* [Dæmi 4](4_dictionaryToJson.py)
-* [Dæmi 5](5_lesa_skra.py)
-* [Dæmi 6](6_skrifa_skra.py)
+* [Dæmi 1: JSON syntax](1_JSON_Syntax.json)
+* [Dæmi 2: JSON sýnidæmi](2_JSON_EXAMPLES.json)
+* [Dæmi 3: JSON í Dictionary](3_JsonToDictionary.py)
+* [Dæmi 4: Dictionary í JSON](4_dictionaryToJson.py)
+* [Dæmi 5: Að lesa JSON skrá](5_lesa_skra.py)
+* [Dæmi 6: Að skrifa í JSON skrá](6_skrifa_skra.py)
 
 ---
 
