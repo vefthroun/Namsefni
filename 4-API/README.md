@@ -8,23 +8,24 @@ _Í vinnslu nóv 2022_
 
 ---
 
-#### JSON og Flask 
+#### Kóðasýnidæmi: JSON og Flask 
 
 * [GET Request]()
 * [Að skila JSON](Flask_return_JSON.py)
+* [Kóðasýnidæmi](ParseJsonFromUrl.py)
 * [Að lesa úr JSON skrá]()
 * [POST Request]()
 * [Að skrifa í JSON skrá]()
 
-#### Flask (bjargir)
-* [Python's urllib.request for HTTP Requests](https://realpython.com/urllib-request/)
-* [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
-
 ---
 
-#### Að sækja frá APIs með python og Flask
-1. [Kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/4-API/3_FlaskParseJson)
-1. [Að sækja JSON (parse) frá API yfir netið (myndband frá 12:00)](https://youtu.be/9N6a-VLBa2I?t=705) 
+#### Bjargir
+* [Python's urllib.request for HTTP Requests](https://realpython.com/urllib-request/)
+* [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
+* [Að sækja JSON (parse) frá API yfir netið (myndband frá 12:00)](https://youtu.be/9N6a-VLBa2I?t=705) 
+* [Handle incoming, parsing and returning JSON data with Flask!](https://pythonise.com/series/learning-flask/working-with-json-in-flask)
+* [Flask REST API Tutorial](https://pythonbasics.org/flask-rest-api/)
+* [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
 
 ---
 
@@ -35,12 +36,3 @@ _Í vinnslu nóv 2022_
 - [Apipheny](https://apipheny.io/free-api/)
 - [List of free apis](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
 - [free for dev - apis](https://github.com/ripienaar/free-for-dev#apis-data-and-ml)
-
----
-
-#### Að búa til sinn eigin API með Flask
-1. [Handle incoming, parsing and returning JSON data with Flask!](https://pythonise.com/series/learning-flask/working-with-json-in-flask)
-1. [Flask REST API Tutorial](https://pythonbasics.org/flask-rest-api/)
-1. [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
-
-
