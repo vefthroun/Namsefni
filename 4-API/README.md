@@ -7,22 +7,8 @@ API (application programming interface) stendur fyrir forritunarviðmót og er l
 
 ---
 
-#### Flask með JSON
-
-* [GET Request]()
-* [Að skila JSON](Flask_return_JSON.py)
-* [Kóðasýnidæmi](ParseJsonFromUrl.py)
-* [Að lesa úr JSON skrá]()
-* [POST Request]()
-* [Að skrifa í JSON skrá]()
-
----
-
 #### Vefgreinar
-* [JSON Support in Flask](https://tedboy.github.io/flask/interface_api.json_support.html#module-flask.json)
-* [Python's urllib.request for HTTP Requests](https://realpython.com/urllib-request/)
 * [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
-* [Að sækja JSON (parse) frá API yfir netið (myndband frá 12:00)](https://youtu.be/9N6a-VLBa2I?t=705) 
 * [Handle incoming, parsing and returning JSON data with Flask!](https://pythonise.com/series/learning-flask/working-with-json-in-flask)
 * [Flask REST API Tutorial](https://pythonbasics.org/flask-rest-api/)
 * [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
