@@ -14,8 +14,6 @@ def _find_next_id():
 
 @app.get("/countries")
 def get_countries():
-    # flask.jsonify: https://tedboy.github.io/flask/generated/flask.jsonify.html
-    # g is an object for storing data during the application context of a running Flask web app.
     return jsonify(countries) # skilar JSON object
 
 @app.post("/countries")
