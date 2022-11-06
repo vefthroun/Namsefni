@@ -1,5 +1,5 @@
 ### JavaScript Object Notation (JSON) 
-[JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON) er opið gagnaskiptasnið sem notar læsilegan texta til að geyma, sækja og senda gagnahluti. <br>
+[JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON) er opið gagnaskiptasnið sem notar læsilegan texta til að geyma, sækja og senda gagnahluti. 
 Uppbygging samanstendur af eigindi (key) og gildi (value) pörum. 
 JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýmsum forritunarmálum. [An introduction to JSON](https://towardsdatascience.com/an-introduction-to-json-c9acb464f43e)
 
@@ -33,6 +33,5 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 * [JSON in Python (W3Schools)](https://www.w3schools.com/python/python_json.asp)
 * [Reading and writing json to a python file](https://www.geeksforgeeks.org/reading-and-writing-json-to-a-file-in-python/)
 * [Append to Json file using Python](https://www.geeksforgeeks.org/append-to-json-file-using-python/)
-* [VS Code - json](https://code.visualstudio.com/docs/languages/json)
 * [Working with JSON - video (að 12:00)](https://www.youtube.com/watch?v=9N6a-VLBa2I)
 
