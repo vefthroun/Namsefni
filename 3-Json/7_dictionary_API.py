@@ -1,5 +1,7 @@
 
 # JSON sótt frá API er breytt í Dictionary til frekari python kóðavinnslu
+# Eftirfarandi dictionary (data) er týpiskt JSON response object frá APIs
+
 # data er dictionary sem inniheldur listann results
 # results listi inniheldur  mismunandi gengisupplýsingar í dictionary gagnasniði
 # data inniheldur þrjú gengi.
