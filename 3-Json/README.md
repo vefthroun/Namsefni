@@ -1,4 +1,4 @@
-### JavaScript Object Notation (JSON) 
+### JSON  
 [JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON) er opið gagnaskiptasnið sem notar læsilegan texta til að geyma, sækja og senda gagnahluti. 
 Uppbygging samanstendur af eigindi (key) og gildi (value) pörum. 
 JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýmsum forritunarmálum. [An introduction to JSON](https://towardsdatascience.com/an-introduction-to-json-c9acb464f43e)
@@ -18,7 +18,7 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 
 ---
 
-### Python og JSON
+### JSON með Python
 
 1. [JSON syntax](1_JSON_Syntax.json)
 1. [JSON sýnidæmi](2_JSON_EXAMPLES.json)
@@ -29,8 +29,9 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 1. [Að skrifa í JSON skrá](6_skrifa_Json_skra.py)
 1. [Að vinna úr dictionary sem kemur frá API](7_dictionary_API.py)
 
-#### JSON og Python (bjargir)
+---
 
+#### Bjargir: JSON með Python 
 * [JSON in Python (W3Schools)](https://www.w3schools.com/python/python_json.asp)
 * [Reading and writing JSON to a python file](https://www.geeksforgeeks.org/reading-and-writing-json-to-a-file-in-python/)
 * [Append to JSON file using Python](https://www.geeksforgeeks.org/append-to-json-file-using-python/)
