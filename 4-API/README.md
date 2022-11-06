@@ -9,15 +9,14 @@ API (application programming interface) stendur fyrir forritunarviðmót og er l
 ---
 
 #### Vefgreinar
-* [Flask REST API Tutorial](https://pythonbasics.org/flask-rest-api/)
 * [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
 * [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
 
 <!-- 
-Slóð virkar ekki
-* [Handle incoming, parsing and returning JSON data with Flask!](https://pythonise.com/series/learning-flask/working-with-json-in-flask)
-
+gamalt: [Flask REST API Tutorial](https://pythonbasics.org/flask-rest-api/)
+Slóð virkar ekki: [Handle incoming, parsing and returning JSON data with Flask!](https://pythonise.com/series/learning-flask/working-with-json-in-flask)
 -->
+
 ---
 
 #### APIs vefþjónustur (public apis)
