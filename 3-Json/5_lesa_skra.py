@@ -8,7 +8,7 @@ The teardown phase requires you to perform some cleanup actions, such as closing
 If you forget to perform these cleanup actions, then your application keeps the resource alive. 
 This might compromise valuable system resources, such as memory and network bandwidth.
 
-Nánar hér:  https://realpython.com/python-with-statement/
+Nánar hér: https://realpython.com/python-with-statement/#using-the-python-with-statement
 """
 
 # Opnum JSON skránna 5.json (skrá verður að vera til)
