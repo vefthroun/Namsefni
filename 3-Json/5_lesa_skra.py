@@ -11,8 +11,9 @@ This might compromise valuable system resources, such as memory and network band
 Nánar hér: https://realpython.com/python-with-statement/#using-the-python-with-statement
 """
 
-# Opnum JSON skránna 5.json (skrá verður að vera til)
-with open("5.json", encoding='utf-8') as skra:
+# Opnum skránna 5.json (JSON skrá verður að vera til)
+# It is highly recommended to specify the encoding type when working with files in text mode. 
+with open("5.json", mode="r", encoding='utf-8') as skra:
     gogn = json.load(skra) # sækjum data úr Json skrá
 
 # Prentum nafnið Þórður, gogn = dictionary 
