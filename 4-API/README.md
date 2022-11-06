@@ -1,4 +1,4 @@
-#### Hvað er API
+### Hvað er API
 API (application programming interface) stendur fyrir forritunarviðmót og er leið til að hafa forritunarleg samskipti við tiltekinn hugbúnaðaríhlut. API hjálpa ekki aðeins notendum að hafa samskipti við forrit heldur gera tveimur eða mörgum forritum kleift að hafa samskipti sín á milli.  
 
 There’s an amazing amount of data available on the Web. Many web services, like YouTube and GitHub, make their data accessible to third-party applications through an API. One of the most popular ways to build APIs is the REST architecture style. Python provides some great tools not only to get data from REST APIs but also to build your own Python REST APIs.
@@ -10,7 +10,7 @@ There’s an amazing amount of data available on the Web. Many web services, lik
 
 ---
 
-#### APIs vefþjónustur (public apis)
+### APIs vefþjónustur (public apis)
 
 - [TV MAZE API](https://www.tvmaze.com/api)
 - [Public APIs](https://github.com/public-apis/public-apis)
