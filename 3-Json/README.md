@@ -37,3 +37,15 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 * [Append to JSON file using Python](https://www.geeksforgeeks.org/append-to-json-file-using-python/)
 * [Working with JSON](https://www.youtube.com/watch?v=9N6a-VLBa2I) (myndband)
 
+---
+
+### JSON með Flask
+
+#### Flask með JSON - kóðasýnidæmi
+
+1. [Að skila JSON](Flask_return_JSON.py)
+1. [Að sækja JSON frá API](API.py)
+
+#### Flask með JSON - bjargir
+
+---
