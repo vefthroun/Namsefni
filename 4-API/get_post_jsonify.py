@@ -1,3 +1,5 @@
+# https://realpython.com/api-integration-in-python/#flask
+# nota curl fyrir post og get requests
 
 from flask import Flask, request, jsonify
 
