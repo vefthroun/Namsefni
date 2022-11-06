@@ -8,7 +8,7 @@ _Í vinnslu nóv 2022_
 
 ---
 
-#### Kóðasýnidæmi: JSON og Flask 
+#### Kóðasýnidæmi
 
 * [GET Request]()
 * [Að skila JSON](Flask_return_JSON.py)
