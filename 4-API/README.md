@@ -1,7 +1,7 @@
 _Í vinnslu nóv 2022_
 
 #### Hvað er API
-API (application programming interface) stendur fyrir forritunarviðmót og er leið til að hafa forritunarleg samskipti við tiltekinn hugbúnaðaríhlut. API hjálpa ekki aðeins notendum að hafa samskipti við forrit heldur gera tveimur eða mörgum forritum kleift að hafa samskipti sín á milli. Hér er samlíking [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY) (myndband)
+API (application programming interface) stendur fyrir forritunarviðmót og er leið til að hafa forritunarleg samskipti við tiltekinn hugbúnaðaríhlut. API hjálpa ekki aðeins notendum að hafa samskipti við forrit heldur gera tveimur eða mörgum forritum kleift að hafa samskipti sín á milli, [skýring](https://www.youtube.com/watch?v=s7wmiS2mSXY) (myndband).
 
 - [An Introduction to APIs](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/) _client/server, HTTP, data format, key authentication_
 
