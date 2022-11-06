@@ -5,12 +5,6 @@ There’s an amazing amount of data available on the Web. Many web services, lik
 
 - [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY) _(myndband)_.
 - [An Introduction to APIs](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/)  _client/server, HTTP, data format, key authentication_.
-
----
-
-#### Vefgreinar og tutorials
-
-
 * [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
    * [Kóðasýnidæmi með Flask](get_post_jsonify.py)
 * [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
