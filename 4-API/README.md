@@ -6,6 +6,13 @@ API (application programming interface) stendur fyrir forritunarviðmót og er l
 
 ---
 
+#### Vefgreinar og tutorials
+* [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
+   * [Kóðasýnidæmi með Flask](get_post_jsonify.py)
+* [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
+
+---
+
 #### APIs vefþjónustur (public apis)
 
 - [TV MAZE API](https://www.tvmaze.com/api)
@@ -14,9 +21,5 @@ API (application programming interface) stendur fyrir forritunarviðmót og er l
 - [List of free apis](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
 - [free for dev - apis](https://github.com/ripienaar/free-for-dev#apis-data-and-ml)
 
----
 
-#### Vefgreinar og tutorials
-* [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
-   * [Kóðasýnidæmi með Flask](get_post_jsonify.py)
-* [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
+
