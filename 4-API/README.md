@@ -4,7 +4,6 @@ _Í vinnslu nóv 2022_
 
 - [What is an API? - video](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 - [An Introduction to APIs](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/)
-- [APIs.is](http://docs.apis.is/)
 
 ---
 
