@@ -18,7 +18,7 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 
 ---
 
-#### JSON með Python
+#### Kóðasýnidæmi: JSON með Python
 
 1. [JSON syntax](1_JSON_Syntax.json)
 1. [JSON sýnidæmi](2_JSON_EXAMPLES.json)
