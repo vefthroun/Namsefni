@@ -1,5 +1,5 @@
 # Ef Mac (SSL issue), lausn: Applications Folder -> Python folder, and click on the Install Certificates.command file
-# urllib
+# urllib til að ná json skrár yfir netið
 import urllib.request, json
 
 # Hýsum JSON skrá á Github.
