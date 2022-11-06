@@ -34,6 +34,5 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 * [Reading and writing json to a python file](https://www.geeksforgeeks.org/reading-and-writing-json-to-a-file-in-python/)
 * [Append to Json file using Python](https://www.geeksforgeeks.org/append-to-json-file-using-python/)
 * [VS Code - json](https://code.visualstudio.com/docs/languages/json)
-* [Learn JSON in 10 Minutes  _youtube video_](https://www.youtube.com/watch?v=iiADhChRriM)
 * [Working with JSON - video (að 12:00)](https://www.youtube.com/watch?v=9N6a-VLBa2I)
 
