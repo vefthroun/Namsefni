@@ -18,7 +18,7 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 
 ---
 
-#### Kóðasýnidæmi: JSON með Python
+#### JSON með Python - kóðasýnidæmi
 
 1. [JSON syntax](1_JSON_Syntax.json)
 1. [JSON sýnidæmi](2_JSON_EXAMPLES.json)
@@ -27,11 +27,11 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 1. [Að lesa úr JSON skrá](5_lesa_skra.py)
 1. [Að skrifa í skrá](6_skrifaSkra.py)
 1. [Að skrifa í JSON skrá](6_skrifa_Json_skra.py)
-1. [Að vinna úr dictionary sem kemur frá API](7_dictionary_API.py)
+1. [Að lesa úr JSON skrá hýst á netinu (Gist)](7_urllib_request.py)
+1. [Að vinna úr dictionary sem kemur frá API](8_dictionary_API.py)
 
----
 
-#### Bjargir: JSON með Python 
+#### JSON með Python - bjargir
 * [JSON in Python (W3Schools)](https://www.w3schools.com/python/python_json.asp)
 * [Reading and writing JSON to a python file](https://www.geeksforgeeks.org/reading-and-writing-json-to-a-file-in-python/)
 * [Append to JSON file using Python](https://www.geeksforgeeks.org/append-to-json-file-using-python/)
