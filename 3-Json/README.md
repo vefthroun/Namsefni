@@ -26,9 +26,7 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 * [Dæmi 6: Að skrifa í JSON skrá](6_skrifa_skra.py)
 
 
----
-
-### JSON & Python (bjargir)
+#### JSON & Python (bjargir)
 
 * [JSON in Python (W3Schools)](https://www.w3schools.com/python/python_json.asp)
 * [Reading and writing JSON to a python file](https://www.geeksforgeeks.org/reading-and-writing-json-to-a-file-in-python/)
