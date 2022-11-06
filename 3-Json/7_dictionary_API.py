@@ -41,9 +41,9 @@ data = {
 		'changePer': '0.00'
 	}]
 }
-# print(data["results"])  		# listi
-# print(data["results"][0]) 	# fyrsta stak (dictionary) í lista
-# print(data["results"][1]) 	# annað stak (dictionary) í lista
+# print(data["results"])  			# listi
+# print(data["results"][0]) 			# fyrsta stak (dictionary) í lista
+# print(data["results"][1]) 			# annað stak (dictionary) í lista
 # print(data["results"][0]["shortName"])  	# ISK gildið sem shortName (Key) vísar á í dictionary
 # print(data["results"][0].shortName) 		# virkar í Jinja template en ekki í python, auðvelt að ruglast
 
@@ -67,7 +67,7 @@ for item in data["results"]:
 """
 gengi = [] 
 for item in data["results"]:
-	if item["shortName"] is not None:  # True if empty string, empty list, equals to zero. “None” is Python’s name for a null reference.
+	if item["shortName"] is not None: 	 # True if empty string, empty list, equals to zero. “None” is Python’s name for a null reference.
 		gengi.append(item["shortName"])  # bætum við í listann gengi
 
 print(gengi) # ['ISK', 'USD', 'USD', '']
