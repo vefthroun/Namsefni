@@ -8,6 +8,8 @@ import urllib.request, json
 # veldu `raw` og afritaðu vefslóðina (url).
 with urllib.request.urlopen("https://gist.githubusercontent.com/GunnarThorunnarson/13839d272efae357adc1edbcd91f2938/raw/0175db90b92972daf7cf5142a986f28c9e923ae4/nemendur.json") as response:
     gogn = json.loads(response.read())
-    
+
+print(gogn)
+
 # Prentum nafnið Þórður, gogn = dictionary 
 print(gogn["nemendur"][0]["nafn"])
