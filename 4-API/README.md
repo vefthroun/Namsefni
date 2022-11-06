@@ -2,7 +2,7 @@ _Í vinnslu nóv 2022_
 
 #### Hvað er API
 
-- [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY) (létt kynningarmyndband)
+- [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY) (myndband)
 - [An Introduction to APIs](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/)
 
 ---
