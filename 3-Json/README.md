@@ -18,7 +18,7 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 
 ---
 
-### Python og JSON sýnidæmi
+### Python og JSON
 
 * [Dæmi 1: JSON syntax](1_JSON_Syntax.json)
 * [Dæmi 2: JSON sýnidæmi](2_JSON_EXAMPLES.json)
@@ -37,6 +37,12 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 
 ---
 
-### JSON og Flask sýnidæmi
+### JSON og Flask 
+_í vinnslu_
+
+* [Að skila JSON](Flask_return_JSON.py)
+* [Að lesa úr JSON skrá]()
+* [Að skrifa í JSON skrá]()
+
 
 
