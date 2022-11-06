@@ -16,7 +16,9 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
  * JSON skráarsnið er með .json endingu, the MIME type for JSON text is "application/json"
  * Þú getur notað JSONLint til að validate JSON. http://jsonlint.com/ 
 
-#### Sýnidæmi
+---
+
+### Python og JSON sýnidæmi
 
 * [Dæmi 1: JSON syntax](1_JSON_Syntax.json)
 * [Dæmi 2: JSON sýnidæmi](2_JSON_EXAMPLES.json)
@@ -26,10 +28,15 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 * [Dæmi 6: Að skrifa í JSON skrá](6_skrifa_skra.py)
 
 
-#### JSON & Python (bjargir)
+#### JSON og Python (bjargir)
 
 * [JSON in Python (W3Schools)](https://www.w3schools.com/python/python_json.asp)
 * [Reading and writing JSON to a python file](https://www.geeksforgeeks.org/reading-and-writing-json-to-a-file-in-python/)
 * [Append to JSON file using Python](https://www.geeksforgeeks.org/append-to-json-file-using-python/)
 * [Working with JSON](https://www.youtube.com/watch?v=9N6a-VLBa2I)
+
+---
+
+### JSON og Flask sýnidæmi
+
 
