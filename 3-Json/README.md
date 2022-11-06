@@ -44,5 +44,6 @@ _í vinnslu_
 * [Að lesa úr JSON skrá]()
 * [Að skrifa í JSON skrá]()
 
-
+#### Flask (bjargir)
+* [Python's urllib.request for HTTP Requests](https://realpython.com/urllib-request/)
 
