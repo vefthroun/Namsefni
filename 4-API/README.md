@@ -8,7 +8,7 @@ _Í vinnslu nóv 2022_
 
 ---
 
-#### Kóðasýnidæmi
+#### Flask kóðasýnidæmi með JSON
 
 * [GET Request]()
 * [Að skila JSON](Flask_return_JSON.py)
@@ -19,7 +19,8 @@ _Í vinnslu nóv 2022_
 
 ---
 
-#### Bjargir
+#### Vefgreinar
+* [JSON Support in Flask](https://tedboy.github.io/flask/interface_api.json_support.html#module-flask.json)
 * [Python's urllib.request for HTTP Requests](https://realpython.com/urllib-request/)
 * [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
 * [Að sækja JSON (parse) frá API yfir netið (myndband frá 12:00)](https://youtu.be/9N6a-VLBa2I?t=705) 
