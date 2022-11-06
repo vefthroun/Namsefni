@@ -16,7 +16,7 @@ API (application programming interface) stendur fyrir forritunarviðmót og er l
 
 ---
 
-#### Vefgreinar 
+#### Vefgreinar og tutorials
 * [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
-   * [Kóðasýnidæmi með Flask úr greininni](get_post_jsonify.py)
+   * [Kóðasýnidæmi með Flask](get_post_jsonify.py)
 * [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
