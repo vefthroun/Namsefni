@@ -3,8 +3,8 @@ import urllib.request, json
 
 # Vandamál með urllib sem geta komið upp
     # Fixing the SSL CERTIFICATE_VERIFY_FAILED Error
-        # https://realpython.com/urllib-request/#fixing-the-ssl-certificate_verify_failed-error
-        # Mac notendur: lausn: Applications Folder -> Python folder, and click on the Install Certificates.command file
+    # https://realpython.com/urllib-request/#fixing-the-ssl-certificate_verify_failed-error
+        # Önnur lausn fyrir Mac notendur: Applications Folder -> Python folder, and click on the Install Certificates.command file
 
 
 # Hýsum JSON skrá á Github.
