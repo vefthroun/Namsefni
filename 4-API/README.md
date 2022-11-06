@@ -8,7 +8,7 @@ _Í vinnslu nóv 2022_
 
 ---
 
-#### Flask kóðasýnidæmi með JSON
+#### Flask með JSON
 
 * [GET Request]()
 * [Að skila JSON](Flask_return_JSON.py)
