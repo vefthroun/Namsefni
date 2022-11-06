@@ -35,18 +35,3 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 * [Append to JSON file using Python](https://www.geeksforgeeks.org/append-to-json-file-using-python/)
 * [Working with JSON](https://www.youtube.com/watch?v=9N6a-VLBa2I) (myndband)
 
----
-
-### JSON og Flask 
-_í vinnslu_
-* [GET Request]()
-* [Að skila JSON](Flask_return_JSON.py)
-* [Að lesa úr JSON skrá]()
-* [POST Request]()
-* [Að skrifa í JSON skrá]()
-
-#### Flask (bjargir)
-* [Python's urllib.request for HTTP Requests](https://realpython.com/urllib-request/)
-* [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/)
-
-
