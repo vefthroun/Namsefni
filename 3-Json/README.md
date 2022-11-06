@@ -47,10 +47,12 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 #### Kóðasýnidæmi
 
 1. [Að skila JSON](Flask_return_JSON.py)
+1. [Að skila JSON með Jsonify](jsonify.py)
 1. [Að sækja JSON frá API](API.py)
 
 #### Bjargir
 
 * [JSON Support in Flask](https://tedboy.github.io/flask/interface_api.json_support.html#module-flask.json)
+* [flask.jsonify](https://tedboy.github.io/flask/generated/flask.jsonify.html)
 
 ---
