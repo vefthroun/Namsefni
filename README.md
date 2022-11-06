@@ -4,6 +4,15 @@
 
 ---
 
+#### Verkefni
+
+- [Verkefni 1](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni1.md)
+- [Verkefni 2](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni2.md)
+- [Verkefni 3](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni3.md)
+- Verkefni 4: _væntanlegt_
+
+---
+
 #### Námsefni
 
 1. [Flask](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Readme.md#hva%C3%B0-er-flask)
@@ -11,24 +20,8 @@
 1. [Templates](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Templates/README.md#jinja)
 1. [CSS](https://github.com/vefthroun/Namsefni/blob/main/CSSLibraries.md)
 1. [JSON](https://github.com/vefthroun/Namsefni/tree/main/3-Json#readme)
+1. [API](https://github.com/vefthroun/Namsefni/blob/main/4-API/README.md#hva%C3%B0-er-api)
 
 ---
 
-#### Verkefni
-- [Verkefni 1](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni1.md)
-- [Verkefni 2](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni2.md)
-- [Verkefni 3](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni3.md)
-
-<!--
-
----
-
-#### Námsefni 
-1. [JSON/API](/4-API)
-1. [Cookies & Sessions](/5-Cookies%26Sessions)
-1. [Firebase Gagnagrunnur](6-Gagnagrunnur)
-1. [Lokaverkefni](7-lokaverkefni)
-1. [Hypertext Transfer Protocol](/1-HTTPS)
-
--->
 
