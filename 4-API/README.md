@@ -17,7 +17,7 @@ There’s an amazing amount of data available on the Web. Many web services, lik
 ### APIs vefþjónustur
 - [Public APIs](https://github.com/public-apis/public-apis)  
 - [Cognitive services](https://azure.microsoft.com/en-us/products/cognitive-services/#api)
-- [Google Cloud](https://cloud.google.com/api)
+- [Google API](https://cloud.google.com/api)
 
 <!--
 - [TV MAZE API](https://www.tvmaze.com/api)
