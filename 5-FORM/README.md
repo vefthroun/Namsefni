@@ -13,6 +13,7 @@ Að sækja flask-wtf viðbót: `(venv) $ pip install flask-wtf`
 1. [Forms and User Input (48 mín. myndband)](https://www.youtube.com/watch?v=UIJKdCIEXUQ)
 1. [Form handling in Flask using WTForms (20 mín. myndband)](https://www.youtube.com/watch?v=eu0tg4vgFr4)
 1. https://hackersandslackers.com/flask-wtforms-forms/
+1. [simple search](https://medium.com/analytics-vidhya/how-to-build-a-simple-search-engine-using-flask-4f3c01fe80fa)
 
 <!--
 * [The Flask Mega-Tutorial Part III: Web Forms](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms)
