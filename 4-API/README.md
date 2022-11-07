@@ -10,14 +10,19 @@ There’s an amazing amount of data available on the Web. Many web services, lik
 - [REST API using Flask in 7 minutes](https://towardsdatascience.com/launch-your-own-rest-api-using-flask-python-in-7-minutes-c4373eb34239) _með Python, Flask og Sqlite3_
 
 ---
+<!--
 
-### APIs vefþjónustur (public apis)
+-->
 
+### APIs vefþjónustur
+- [Public APIs](https://github.com/public-apis/public-apis)  
+- [Cognitive services](https://azure.microsoft.com/en-us/products/cognitive-services/#api)
+- [Google Cloud](https://cloud.google.com/vision)
+
+<!--
 - [TV MAZE API](https://www.tvmaze.com/api)
-- [Public APIs](https://github.com/public-apis/public-apis)
 - [Apipheny](https://apipheny.io/free-api/)
 - [List of free apis](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
 - [free for dev - apis](https://github.com/ripienaar/free-for-dev#apis-data-and-ml)
-
-
+-->
 
