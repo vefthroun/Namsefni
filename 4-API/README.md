@@ -18,6 +18,7 @@ There’s an amazing amount of data available on the Web. Many web services, lik
 - [Public APIs](https://github.com/public-apis/public-apis)  
 - [Cognitive services](https://azure.microsoft.com/en-us/products/cognitive-services/#api)
 - [Google API](https://cloud.google.com/api)
+- [Web API Spotify for Developers](https://developer.spotify.com/documentation/web-api/)
 
 <!--
 - [TV MAZE API](https://www.tvmaze.com/api)
