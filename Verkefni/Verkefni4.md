@@ -6,7 +6,7 @@
 
 ### Verkefnalýsing
 
-1. Útfærðu vefforrit í Flask sem nýtir API að eigin vali með samþykki kennara. 
+1. Útfærðu vefforrit í Flask sem nýtir API að eigin vali með samþykki kennara. Hér er hægt að skoða nokkra [Public APIs](https://github.com/public-apis/public-apis)  . 
 1. Notaðu API key fyrir auðkenningu ef þess er þörf.
 1. Gerðu API fyrirspurn (API request) á API endpoint og birtu valin gögn úr response, 20 JSON objectar að lágmarki á forsíðu.
 1. Á forsíðu skal birta gögn frá 20 random JSON objectum.
