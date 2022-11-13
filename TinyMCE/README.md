@@ -11,3 +11,4 @@ TinyMCE is an online rich-text editor released as open-source software under the
 ## CKEditor ( annar svokallaður WISIWYG editor )
 
 1. [CKEditor 4](https://ckeditor.com/ckeditor-4/download/)
+2. [Youtube: frá mín 11:25](https://www.youtube.com/watch?v=EgnyWxKFwjs&list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_&index=5&t=11s)
