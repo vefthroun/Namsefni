@@ -16,10 +16,11 @@ The [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.0.x/) extension uses Pytho
    1. [Using Validators in Flask-WTF](https://youtu.be/jR2aFKuaOBs) og _[kóðinn](https://github.com/PrettyPrinted/youtube_video_code/tree/master/2017/04/24/Using%20Validators%20in%20Flask-WTF%20(Part%202%20of%205)/wtf_validators)_
    1. [Creating a Macro to Reduce Code Duplication](https://youtu.be/J9O0v-iM0TE) og _[kóðinn](https://github.com/PrettyPrinted/youtube_video_code/tree/master/2017/04/28/Flask-WTF%20-%20Creating%20a%20Macro%20to%20Reduce%20Code%20Duplication%20(4%20of%205))_
 1. Signup sýnidæmi: [WTForms validation and rendering in Flask](https://www.youtube.com/watch?v=j5IQI4aW9ZU) _(youtube)_ 
-
+1. [Forms and User Input (48 mín)](https://www.youtube.com/watch?v=UIJKdCIEXUQ) og [kóðaskrár](https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog/03-Forms-and-Validation)
+    - _býr til form.py fyrir klasana, notar flash message_
+   
 <!--
 
-1. [Forms and User Input (48 mín. myndband)](https://www.youtube.com/watch?v=UIJKdCIEXUQ)
 1. [Form handling in Flask using WTForms (20 mín. myndband)](https://www.youtube.com/watch?v=eu0tg4vgFr4) _youtube_
 1. [The Flask Mega-Tutorial Part III: Web Forms](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms)
 1. [From scratch  wtform + editor (28 mín)](https://www.youtube.com/watch?v=zRwy8gtgJ1A&t=54s&ab_channel=TraversyMedia)
