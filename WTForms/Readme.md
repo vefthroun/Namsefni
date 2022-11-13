@@ -1,3 +1,10 @@
+#### Form 
+1. [Web forms — Working with user data (HTML)](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+1. [Kóðasýnidæmi með Flask](https://github.com/vefthroun/Namsefni/tree/main/5-FORM/FORM)
+<!-- 1. [flask.Request](https://tedboy.github.io/flask/generated/generated/flask.Request.html) -->
+
+---
+
 ### WTForms
 [WTForms](https://wtforms.readthedocs.io/en/3.0.x/) is a flexible forms validation and rendering library for Python web development. It can work with whatever web framework and template engine you choose. It supports data validation, CSRF protection, internationalization (I18N), and more. There are various community libraries that provide closer integration with popular frameworks.  
 
