@@ -3,7 +3,6 @@
 
 The [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.0.x/) extension uses Python classes to represent web forms. `(venv) $ pip3 install flask-wtf`.
 
-1. [Web forms: Working with user data (HTML)](https://developer.mozilla.org/en-US/docs/Learn/Forms) 
 1. [Handling Forms in Flask with Flask-WTF](https://hackersandslackers.com/flask-wtforms-forms/) _(vefgrein)_
 1. Login sýnidæmi _(youtube)_
    1. [Introduction to WTForms in Flask (login)](https://www.youtube.com/watch?v=vzaXBm-ZVOQ) og _[kóðinn](https://github.com/vefthroun/Namsefni/blob/main/WTForms/1_login.py)_
