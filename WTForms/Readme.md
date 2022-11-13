@@ -3,7 +3,7 @@ WTForms is a flexible forms validation and rendering library for Python web deve
 
 The Flask-WTF extension uses Python classes to represent web forms. `(venv) $ pip3 install flask-wtf`.
 
-1. [Introduction to WTForms in Flask](https://www.youtube.com/watch?v=vzaXBm-ZVOQ) _12 mín youtube_
+1. [Introduction to WTForms in Flask](https://www.youtube.com/watch?v=vzaXBm-ZVOQ) (youtube: 12 mín) og login [kóðasýnidæmi](https://github.com/vefthroun/Namsefni/blob/main/WTForms/1_login.py).
 1. [WTForms validation and rendering in Flask](https://www.youtube.com/watch?v=j5IQI4aW9ZU)  _youtube_
 1. [How to validate and use WTForms í Flask](https://www.digitalocean.com/community/tutorials/how-to-use-and-validate-web-forms-with-flask-wtf)
 1. [Handling Forms in Flask with Flask-WTF](https://hackersandslackers.com/flask-wtforms-forms/)
