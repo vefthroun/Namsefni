@@ -22,7 +22,7 @@
 1. [JSON](https://github.com/vefthroun/Namsefni/tree/main/3-Json#readme)
 1. [API](https://github.com/vefthroun/Namsefni/blob/main/4-API/README.md#hva%C3%B0-er-api)
 1. [Form](https://github.com/vefthroun/Namsefni/blob/main/5-FORM/README.md#form)
-1. [WTForms](https://github.com/vefthroun/Namsefni/tree/main/WTForms)
+1. [WTForms](https://github.com/vefthroun/Namsefni/blob/main/WTForms/Readme.md)
 
 
 ---
