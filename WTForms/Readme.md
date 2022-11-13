@@ -11,5 +11,10 @@ The [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.0.x/) extension uses Pytho
 1. Signup sýnidæmi: [WTForms validation and rendering in Flask](https://www.youtube.com/watch?v=j5IQI4aW9ZU) _(youtube)_ 
 
 <!--
+
+1. [Forms and User Input (48 mín. myndband)](https://www.youtube.com/watch?v=UIJKdCIEXUQ)
+1. [Form handling in Flask using WTForms (20 mín. myndband)](https://www.youtube.com/watch?v=eu0tg4vgFr4) _youtube_
+1. [The Flask Mega-Tutorial Part III: Web Forms](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms)
+1. [From scratch  wtform + editor (28 mín)](https://www.youtube.com/watch?v=zRwy8gtgJ1A&t=54s&ab_channel=TraversyMedia)
 1. [How to validate and use WTForms í Flask](https://www.digitalocean.com/community/tutorials/how-to-use-and-validate-web-forms-with-flask-wtf)
 -->
