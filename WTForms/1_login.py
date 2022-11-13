@@ -1,12 +1,13 @@
 # import Flask class in Python
 from flask import Flask, render_template
-# wrapper utan um form WTForms
-from flask_wtf import FlaskForm
-# vinnum beint með WTForms
+# You need to import fields from wtforms, frá og með version 0.9.
 from wtforms import StringField, PasswordField
+# wrapper utan um form WTForms. Flask-WTF will not import anything from wtforms.
+from flask_wtf import FlaskForm
 
-# Create app, that hosts the application. Don't worry about that __name__ object, it's just a convention.
+# Create app, that hosts the application.
 app = Flask(__name__)
+
 # direct access to config, til að geta notað WTform þarf secret key.
 app.config["SECRET_KEY"] = "Lykill"
 
@@ -14,7 +15,6 @@ app.config["SECRET_KEY"] = "Lykill"
 class LoginForm(FlaskForm):
     username = StringField("username")
     password = PasswordField("password")
-
 
 @app.route('/form', methods=["GET","POST"])
 def form():
