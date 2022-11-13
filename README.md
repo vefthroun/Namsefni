@@ -22,6 +22,7 @@
 1. [JSON](https://github.com/vefthroun/Namsefni/tree/main/3-Json#readme)
 1. [API](https://github.com/vefthroun/Namsefni/blob/main/4-API/README.md#hva%C3%B0-er-api)
 1. [WTForms](https://github.com/vefthroun/Namsefni/tree/main/WTForms)
+1. [TinyMCE](https://github.com/vefthroun/Namsefni/tree/main/WTForms)
 
 ---
 
