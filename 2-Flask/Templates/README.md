@@ -20,7 +20,12 @@ Hér eru 11 [kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/2
 - Stílsíður (CSS), myndir, JavaScript og önnur `binary` skjöl fara í möppu sem nefnist `static`.
 - Gögn eru ýmist vistuð í lista, dictionary, skrám eða gagnagrunna.
 
+---
 
+#### macros
+- [macros](https://realpython.com/primer-on-jinja-templating/#include-macros)
+- [Tafla: How to reuse code blocks easily with Jinja2 macros!](https://www.youtube.com/watch?v=q9na89PgzGk)
+- [Form: Creating a Macro to Reduce Code Duplication](https://youtu.be/J9O0v-iM0TE) og _[kóðinn]
 
 <!--
 * [Web Developer Bootcamp with Flask and Python](https://python-web.teclado.com/section07/lectures/02_render_template_to_send_longer_strings/#using-render-template-to-send-longer-html-strings)
