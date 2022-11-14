@@ -38,4 +38,8 @@ WYSIWYG HTML editor designed to simplify website content creation. WYSIWYG (pron
    1. [Edit Blog Posts With Rich Text Editor](https://www.youtube.com/watch?v=3QkEjJdWoGA&ab_channel=Codemy.com) _myndband_
 
 #### TinyMCE
-1.  [WTForms + TinyMCE kóðadæmi](https://github.com/azsoftware/wtf-tinymce/tree/develop/examples/flask_app_example)
+1. [WTForms + TinyMCE kóðadæmi](https://github.com/azsoftware/wtf-tinymce/tree/develop/examples/flask_app_example)
+<!--
+1. [TinyMCE and Flask with WTForm](https://www.kevin7.net/post_detail/tinymce-and-flask)
+1. [Flask-TinyMCE 1.0.0](https://pypi.org/project/Flask-TinyMCE/#description)
+-->
