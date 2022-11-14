@@ -15,14 +15,7 @@ Hér eru 11 [kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/2
 
 ---
 
-#### Skráarskipulag
-- Templateskrár sem í grunninn byggir á HTML geymast í möppu sem nefnist `templates`.
-- Stílsíður (CSS), myndir, JavaScript og önnur `binary` skjöl fara í möppu sem nefnist `static`.
-- Gögn eru ýmist vistuð í lista, dictionary, skrám eða gagnagrunna.
-
----
-
-#### macros
+#### Jinja macros
 - [macros](https://realpython.com/primer-on-jinja-templating/#include-macros)
 - [Tafla: How to reuse code blocks easily with Jinja2 macros!](https://www.youtube.com/watch?v=q9na89PgzGk)
 - [Form: Creating a Macro to Reduce Code Duplication](https://github.com/PrettyPrinted/youtube_video_code/tree/master/2017/04/28/Flask-WTF%20-%20Creating%20a%20Macro%20to%20Reduce%20Code%20Duplication%20(4%20of%205))
