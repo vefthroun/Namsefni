@@ -32,8 +32,7 @@ WYSIWYG HTML editor designed to simplify website content creation. WYSIWYG (pron
 
 #### CKEditor 
 1. [CKEditor](https://ckeditor.com/)
-   - [Online Demo](https://ckeditor.com/ckeditor-5/demo/) 
-   - [QuickStart kóðasýnidæmi](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/quick-start.html)
+   - [Online Demo](https://ckeditor.com/ckeditor-5/demo/) og QuickStart [kóðasýnidæmi](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/quick-start.html)
    - [Docs](https://ckeditor.com/docs/)
 1. [Flask CKEditor](https://flask-ckeditor.readthedocs.io/en/latest/)
    1. [How To Add A Rich Text Editor and Basic usage](https://www.youtube.com/watch?v=5jnAnnxZGQQ&ab_channel=Codemy.com) _myndband_
