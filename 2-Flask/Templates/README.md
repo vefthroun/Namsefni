@@ -25,7 +25,7 @@ Hér eru 11 [kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/2
 #### macros
 - [macros](https://realpython.com/primer-on-jinja-templating/#include-macros)
 - [Tafla: How to reuse code blocks easily with Jinja2 macros!](https://www.youtube.com/watch?v=q9na89PgzGk)
-- [Form: Creating a Macro to Reduce Code Duplication](https://youtu.be/J9O0v-iM0TE) og _[kóðinn]
+- [Form: Creating a Macro to Reduce Code Duplication](https://github.com/PrettyPrinted/youtube_video_code/tree/master/2017/04/28/Flask-WTF%20-%20Creating%20a%20Macro%20to%20Reduce%20Code%20Duplication%20(4%20of%205))
 
 <!--
 * [Web Developer Bootcamp with Flask and Python](https://python-web.teclado.com/section07/lectures/02_render_template_to_send_longer_strings/#using-render-template-to-send-longer-html-strings)
