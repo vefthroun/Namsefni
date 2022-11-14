@@ -28,7 +28,7 @@ The [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.0.x/) extension uses Pytho
 
 ### WYSIWYG HTML editor
 
-WYSIWYG HTML editor designed to simplify website content creation. WYSIWYG (pronounced wiz-ee-wig) is a type of editing software that allows users to see and edit content in a form that appears as it would when displayed on an interface, webpage, WYSIWYG is an acronym for "what you see is what you get."
+WYSIWYG HTML editor designed to simplify website content creation. WYSIWYG is a type of editing software that allows users to see and edit content in a form that appears as it would when displayed on an interface like a webpage. WYSIWYG is an acronym for "what you see is what you get."
 
 #### CKEditor 
 1. [CKEditor](https://ckeditor.com/)
