@@ -10,6 +10,7 @@
 - [Verkefni 2](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni2.md)
 - [Verkefni 3](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni3.md)
 - [Verkefni 4](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni4.md)
+- [Verkefni 5](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni5.md)
 
 ---
 
@@ -23,7 +24,5 @@
 1. [API](https://github.com/vefthroun/Namsefni/blob/main/4-API/README.md#hva%C3%B0-er-api)
 1. [Form](https://github.com/vefthroun/Namsefni/blob/main/WTForms/Readme.md)
 
-
----
 
 
