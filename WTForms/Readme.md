@@ -25,3 +25,19 @@ The [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.0.x/) extension uses Pytho
 -->
 
 ---
+
+### WYSIWYG HTML editor
+
+WYSIWYG HTML editor designed to simplify website content creation. WYSIWYG (pronounced wiz-ee-wig) is a type of editing software that allows users to see and edit content in a form that appears as it would when displayed on an interface, webpage, WYSIWYG is an acronym for "what you see is what you get."
+
+#### CKEditor 
+1. [CKEditor](https://ckeditor.com/)
+   - [Online Demo](https://ckeditor.com/ckeditor-5/demo/) 
+   - [QuickStart kóðasýnidæmi](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/quick-start.html)
+   - [Docs](https://ckeditor.com/docs/)
+1. [Flask CKEditor](https://flask-ckeditor.readthedocs.io/en/latest/)
+   1. [How To Add A Rich Text Editor and Basic usage](https://www.youtube.com/watch?v=5jnAnnxZGQQ&ab_channel=Codemy.com) _myndband_
+   1. [Edit Blog Posts With Rich Text Editor](https://www.youtube.com/watch?v=3QkEjJdWoGA&ab_channel=Codemy.com) _myndband_
+
+#### TinyMCE
+1.  [WTForms + TinyMCE kóðadæmi](https://github.com/azsoftware/wtf-tinymce/tree/develop/examples/flask_app_example)
