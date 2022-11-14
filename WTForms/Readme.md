@@ -28,7 +28,7 @@ The [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.0.x/) extension uses Pytho
 
 ### WYSIWYG HTML editor
 
-WYSIWYG HTML editor designed to simplify website content creation. WYSIWYG is a type of editing software that allows users to see and edit content in a form that appears as it would when displayed on an interface like a webpage. WYSIWYG is an acronym for "what you see is what you get."
+WYSIWYG HTML editor is designed to simplify website content creation. WYSIWYG is a type of editing software that allows users to see and edit content in a form that appears as it would when displayed on an interface like a webpage. It has the ability to convert HTML text area fields or other HTML elements to editor instances. WYSIWYG is an acronym for "what you see is what you get."
 
 #### CKEditor 
 1. [CKEditor](https://ckeditor.com/)
@@ -38,7 +38,10 @@ WYSIWYG HTML editor designed to simplify website content creation. WYSIWYG is a 
    1. [Edit Blog Posts With Rich Text Editor](https://www.youtube.com/watch?v=3QkEjJdWoGA&ab_channel=Codemy.com) _myndband_
 
 #### TinyMCE
-1. [WTForms + TinyMCE kóðadæmi](https://github.com/azsoftware/wtf-tinymce/tree/develop/examples/flask_app_example)
+1. [What is TinyMCE?](https://www.tiny.cloud/docs/tinymce/6/introduction-to-tinymce/)
+1. [WtForms + TinyMCE](https://pypi.org/project/wtf-tinymce/)
+1. [WTForms + Tiny kóðalausn](https://github.com/azsoftware/wtf-tinymce/tree/develop/examples/flask_app_example) 
+
 <!--
 1. [TinyMCE and Flask with WTForm](https://www.kevin7.net/post_detail/tinymce-and-flask)
 1. [Flask-TinyMCE 1.0.0](https://pypi.org/project/Flask-TinyMCE/#description)
