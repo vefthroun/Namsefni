@@ -2,6 +2,11 @@
 
 [Flask](https://flask.palletsprojects.com/en/2.2.x/) er Python veframmi (_web framework_) sem er byggður á litlum kjarna og auðvelt er að framlengja hann með viðbótum í pakkaformi (_package manager_). Flask er talið meira _Pythonic_ en Django veframminn vegna þess að Flask vefforrit er skýrara (_explicit_). Flask er auðvelt fyrir byrjendur, það hefur lítin grunnkóða (_boilerplate_) til að koma einföldu vefforriti í gang, [Flask API](https://tedboy.github.io/flask/interface_api.html).
 
+#### Skráarskipulag
+- Templateskrár sem í grunninn byggir á HTML geymast í möppu sem nefnist `templates`.
+- Stílsíður (CSS), myndir, JavaScript og önnur `binary` skjöl fara í möppu sem nefnist `static`.
+- Gögn eru ýmist vistuð í lista, dictionary, skrám eða gagnagrunna.
+
 ---
 
 ### Uppsetning á Flask
