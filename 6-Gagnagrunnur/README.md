@@ -59,4 +59,4 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 - [tuples](https://realpython.com/python-lists-tuples/#python-tuples)
 - [Getting Started with Cloud Firestore with Python](https://www.youtube.com/watch?v=yylnC3dr_no&ab_channel=Firebase)
    - _Admin SDK read/write to Firestore DB: notar server side kóða til að sækja quotes frá REST API og skrifa í gagnagrunn, líka senda notification til notendur_ 
-- [How to Get Started with Firebase Using Python (CRUD)](https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using-python/)
+- [How to Get Started with Firebase Using Python](https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using-python/) _CRUD með Admin Database API_ 
