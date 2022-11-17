@@ -5,8 +5,8 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 
 #### Firebase gagnagrunnur
 
-1. [Firebase kynning](https://youtu.be/U5aeM5dvUpA).
-1. [Að búa til Firebase gagnagrunn (10 mín)](https://youtu.be/6c27DhyWfQI)
+1. [Introducing Firebase Realtime Database](https://youtu.be/U5aeM5dvUpA) _(2 mín)_.
+1. [Að búa til Firebase rauntíma gagnagrunn](https://youtu.be/6c27DhyWfQI) _(10 mín)_.
 
 ##### Firebase Python: Authentication, Storage, Realtime Database CRUD tutorials
 
