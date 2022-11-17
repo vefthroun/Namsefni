@@ -8,6 +8,8 @@
 <!--1. [Flask cookies (vefgrein)](https://pythonise.com/series/learning-flask/flask-cookies)-->
 1. [Get and set cookies with Flask](https://pythonbasics.org/flask-cookies/)
 1. [Cookies kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/5-Cookies%26Sessions/Cookies)
+1. [What is makeresponse](https://www.educative.io/answers/what-is-flaskmakeresponse)
+1. [Flask make response](https://www.educba.com/flask-make_response/)
 
 ---
 
