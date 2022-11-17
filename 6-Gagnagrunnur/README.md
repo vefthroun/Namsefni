@@ -7,8 +7,8 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 
 #### Firebase rauntíma NoSQL gagnagrunnur
 
-1. [Introducing Firebase Realtime Database ](https://youtu.be/U5aeM5dvUpA).
-1. [Að búa til Firebase rauntíma gagnagrunn](https://youtu.be/6c27DhyWfQI).
+1. [Introducing Firebase Realtime Database](https://youtu.be/U5aeM5dvUpA)
+1. [Að búa til Firebase rauntíma gagnagrunn](https://youtu.be/6c27DhyWfQI)
    - _Undir Build veldu Realtime Database, ekki Firestore Database, hér er [samanburður](https://firebase.google.com/docs/database/rtdb-vs-firestore)_
 
 ---
