@@ -8,14 +8,14 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 ---
 
 ### Að búa til Firebase Realtime Database.
-- [Getting started](https://www.youtube.com/watch?v=pP7quzFmWBY&ab_channel=Firebase) _myndband að 3:13_
 
-Skrefin
+[Getting started](https://www.youtube.com/watch?v=pP7quzFmWBY&ab_channel=Firebase) _að 3:13 mín_
+
 1. Búðu til aðgang hjá Google.
 1. Veldur Get Started -> Add Project -> Slepptu Google Analytic 
 1. Veldu Web app -> Build -> Realtime Database. Ekki velja Firestore Database, hér er [samanburður](https://firebase.google.com/docs/database/rtdb-vs-firestore)
-1. Start in test mode: Þegar þú ert að prófa þig áfram í 30 daga. Hver sem er getur lesið og eytt gögnum úr gagnagrunni.
-1. Start in locked mode: Gögn eru örugg, read/write með security rules.
+   1. Start in test mode: Þegar þú ert að prófa þig áfram í 30 daga. Hver sem er getur lesið og eytt gögnum úr gagnagrunni.
+   1. Start in locked mode: Gögn eru örugg, read/write með security rules.
 1. Tannhjól (valmynd efst vinstra megin á skjá) -> Project Settings: `firebasConfig` til að tengjast gagnagrunni (sem er tómur).
 
 <!-- Úrelt: [myndband frá Daníel G. 20221](https://youtu.be/6c27DhyWfQI) _viðmót og stillingar búið að breytast_ -->
