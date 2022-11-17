@@ -5,8 +5,9 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 
 #### Firebase rauntíma gagnagrunnur
 
-1. [Introducing Firebase Realtime Database ](https://youtu.be/U5aeM5dvUpA) _(2 mín, enska)_.
-1. [Að búa til Firebase rauntíma gagnagrunn (íslenska)](https://youtu.be/6c27DhyWfQI) _(10 mín, íslenska)_.
+1. [Introducing Firebase Realtime Database ](https://youtu.be/U5aeM5dvUpA).
+1. [Að búa til Firebase rauntíma gagnagrunn](https://youtu.be/6c27DhyWfQI).
+   - _Undir Build veldu Realtime Database, ekki Firestore Database [samanburður](https://firebase.google.com/docs/database/rtdb-vs-firestore)_
 
 ---
 
