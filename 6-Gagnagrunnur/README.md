@@ -1,7 +1,5 @@
 ## Firebase
-
 [Firebase](https://firebase.google.com/) er platform þróað af Google til að búa til vef- og símaöpp.
-
 Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/database?authuser=0) hýstan í skýinu en með slíkan gagnagrunn sem er settu upp sem JSON tré getum við í rauntíma framkvæmt NoSQL CRUD aðgerðir þ.e. að lesa, skrifa, eyða eða uppfæra gögn. 
 
 - [Introducing Firebase Realtime Database](https://youtu.be/U5aeM5dvUpA)
@@ -61,3 +59,4 @@ Skrefin
 - [tuples](https://realpython.com/python-lists-tuples/#python-tuples)
 - [Getting Started with Cloud Firestore with Python](https://www.youtube.com/watch?v=yylnC3dr_no&ab_channel=Firebase)
    - _Admin SDK read/write to Firestore DB: notar server side kóða til að sækja quotes frá REST API og skrifa í gagnagrunn, líka senda notification til notendur_ 
+- [How to Get Started with Firebase Using Python (CRUD)](https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using-python/)
