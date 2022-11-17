@@ -1,12 +1,14 @@
 [Firebase](https://firebase.google.com/) er platform þróað af Google til að búa til vef- og símaöpp.
 Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/database?authuser=0) en með slíkan gagnagrunn getum við í rauntíma framkvæmt CRUD aðgerðir þ.e. að lesa, skrifa, eyða eða uppfæra gögn í gagnagrunn.
 
-## Myndbönd
+---
 
 #### Firebase rauntíma gagnagrunnur
 
 1. [Introducing Firebase Realtime Database](https://youtu.be/U5aeM5dvUpA) _(2 mín)_.
 1. [Að búa til Firebase rauntíma gagnagrunn](https://youtu.be/6c27DhyWfQI) _(10 mín)_.
+
+---
 
 ##### Firebase Python: Authentication, Storage, Realtime Database CRUD tutorials
 
@@ -22,7 +24,9 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
    - 00:52:30 - Realtime Database CRUD: Read
    - 01:04:30 - Realtime Database CRUD: Query
    - [Flask kóði með FB authentication](https://github.com/vefthroun/Namsefni/blob/main/6-Gagnagrunnur/Firebase/Authenticate/2_auth_flask.py)
-   
+
+---
+
 ##### Realtime Database
 
 1. [Flask app tenging við Firebase gagnagrunn og að skrifa/lesa upplýsingar (13 mín)](https://youtu.be/NDCar59xGRI)
@@ -33,6 +37,7 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 1. [Að sækja gögn úr Firebase gagnagrunn og setja í lista (14 mín)](https://youtu.be/64ocVeKm194)
 
 ---
+
 #### Tutorials (vefgreinar)
 
 - [Login með auth()](https://parasmani300.medium.com/pyrebase-firebase-in-flask-d249a065e0df)
