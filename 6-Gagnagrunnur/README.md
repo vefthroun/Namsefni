@@ -6,7 +6,7 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 
 ---
 
-### Að búa til Firebase Realtime Database.
+#### 1. Að búa til Firebase Realtime Database.
 
 [Getting started](https://www.youtube.com/watch?v=pP7quzFmWBY&ab_channel=Firebase) _að 3:13 mín_
 
@@ -15,14 +15,16 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 1. Veldu Web app -> Build -> Realtime Database. Ekki velja Firestore Database, hér er [samanburður](https://firebase.google.com/docs/database/rtdb-vs-firestore)
    1. Veldu núna í bili -> Start in test mode: Hver sem er getur lesið og eytt gögnum úr gagnagrunni næstu 30 daga.
    1. Start in locked mode: Gögn eru örugg, read/write með security rules. (stillum svo á þetta)
-1. Tannhjól (valmynd efst vinstra megin á skjá) -> Project Settings -> scroll neðst -> Config -> afrita info úr firebaseConfig til að tengjast gagnagrunni (tómur).
+1. Að tengjast gagnagrunni: Tannhjól -> Project Settings -> Config -> afrita info úr firebaseConfig til að tengjast gagnagrunni (tómur). Ath. Það þarf einnig heitið á gagnagrunninum: `"databaseURL": "https://nafnágagnagrunni.firebaseio.com"`
 
 ---
-
-### Firebase Realtime Database með Python og Pyrebase4 
-
+   
+#### 2. Python og Pyrebase4 
 1. [Pyrebase4](https://github.com/nhorvath/Pyrebase4#database)  
-1. [Firebase Python: Authentication, Storage, Realtime Database CRUD ](https://www.youtube.com/watch?v=s-Ga8c3toVY&t=1348s)
+   - firebase.auth() - Authentication
+   - firebase.database() - Database (CRUD)
+   - firebase.storage() - Storage
+1. [Tutorial: Firebase Python](https://www.youtube.com/watch?v=s-Ga8c3toVY&t=1348s) _myndband_
    - 00:00:00 - Introduction
    - 00:01:00 - Installing Pyrebase + Connecting to Firebase
    - 00:07:28 - Authentication
@@ -37,7 +39,7 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 
 ---
 
-### Vefgreinar
+### Vefgreinar (Pyrebase)
 
 - [How to parse Pyrebase OrderedDict](https://stackoverflow.com/questions/51976401/how-to-parse-pyrebase-ordereddict/51989082)
 - [Pyrebase — Firebase in Flask](https://parasmani300.medium.com/pyrebase-firebase-in-flask-d249a065e0df)
