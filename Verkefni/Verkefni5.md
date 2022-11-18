@@ -13,8 +13,8 @@
 1. Admin vefsíða er með form (label, input, textarea ) þar sem notandi slær inn gögnin fyrir grein/frétt (blog). 
 1. Notaðu flash message til að láta vita að submit hafi tekist.
 1. Notaðu Jinja macros (hjálparfall) til að losna við endurtekningar (valkvæmt).
-1. Notaðu Template og CSS fyrir uppsetningu og framsetningu (Views).
-1. Engin harðkóðun.
+1. Notaðu Template og PureCSS fyrir uppsetningu og framsetningu (Views). 
+1. Engin harðkóðun og önnur CSS söfn eru ekki leyfð.
 
 ---
 
