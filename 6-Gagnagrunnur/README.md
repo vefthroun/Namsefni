@@ -1,6 +1,7 @@
 ## Firebase
 [Firebase](https://firebase.google.com/) er platform þróað af Google til að búa til vef- og símaöpp.
-Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/database?authuser=0) hýstan í skýinu en með slíkan gagnagrunn sem er settu upp sem JSON tré getum við í rauntíma framkvæmt NoSQL CRUD aðgerðir þ.e. að lesa, skrifa, eyða eða uppfæra gögn. Sjá [Introducing Firebase Realtime Database](https://youtu.be/U5aeM5dvUpA).
+Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/database?authuser=0) hýstan í skýinu en með slíkan gagnagrunn sem er settu upp sem JSON tré getum við í rauntíma framkvæmt NoSQL CRUD aðgerðir þ.e. að lesa, skrifa, eyða eða uppfæra gögn. 
+- [Introducing Firebase Realtime Database](https://youtu.be/U5aeM5dvUpA).
 
 ---
 
