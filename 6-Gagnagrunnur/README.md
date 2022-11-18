@@ -6,7 +6,7 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 
 ---
 
-#### 1. Að búa til Firebase Realtime Database.
+### Að búa til Firebase Realtime Database.
 
 [Getting started](https://www.youtube.com/watch?v=pP7quzFmWBY&ab_channel=Firebase) _að 3:13 mín_
 
@@ -19,7 +19,7 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 
 ---
    
-#### 2. Python og Pyrebase4 
+### Python og Pyrebase4 
 1. [Pyrebase4](https://github.com/nhorvath/Pyrebase4#database)  
    - firebase.auth() - Authentication
    - firebase.database() - Database (CRUD)
