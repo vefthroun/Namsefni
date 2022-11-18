@@ -20,13 +20,13 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 
 <!-- Úrelt: [myndband frá Daníel G. 20221](https://youtu.be/6c27DhyWfQI) _viðmót og stillingar búið að breytast_ -->
 
-### 2. Að tengjast og skrifa/lesa í gagnagrunn 
+### 2. Firebase Realtime Databas með Pyrebase 4 
 
+1. [Pyrebase4](https://github.com/nhorvath/Pyrebase4#database)  _`pip install pyrebase4`_
 1. [Flask app tenging við Firebase gagnagrunn og skrifa/lesa](https://youtu.be/NDCar59xGRI) _(13 mín)_
    - [kóðaskráin í videoinu](https://github.com/vefthroun/Namsefni/blob/main/6-Gagnagrunnur/Firebase/app.py)
    - í sýndarumhverfi (virtual env) þarf að sækja: `pip install pyrebase4`
    - Það þarf einnig að bæta við í `config` heitið á gagnagrunninum:  `"databaseURL": "https://nafnágagnagrunni.firebaseio.com"`
-1. [Pyrebase4](https://github.com/nhorvath/Pyrebase4#database)  _`pip install pyrebase4`_
    
 ### 3. Aðrar db aðgerðir
 1. [html form og Firebase gagnagrunnur (14 mín)](https://youtu.be/wyWal1sG6Ms)
