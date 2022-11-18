@@ -22,7 +22,7 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 ---
    
 ### Python og Pyrebase4 
-1. [Pyrebase4](https://github.com/nhorvath/Pyrebase4#database)  
+1. [Pyrebase4](https://github.com/nhorvath/Pyrebase4)  
    - firebase.auth() - Authentication
    - firebase.database() - Database (CRUD)
    - firebase.storage() - Storage
