@@ -7,7 +7,7 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 
 ---
 
-### Að búa til Firebase Realtime Database.
+### 1. Að búa til Firebase Realtime Database.
 
 [Getting started](https://www.youtube.com/watch?v=pP7quzFmWBY&ab_channel=Firebase) _að 3:13 mín_
 
@@ -16,13 +16,25 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 1. Veldu Web app -> Build -> Realtime Database. Ekki velja Firestore Database, hér er [samanburður](https://firebase.google.com/docs/database/rtdb-vs-firestore)
    1. Start in test mode: Þegar þú ert að prófa þig áfram í 30 daga. Hver sem er getur lesið og eytt gögnum úr gagnagrunni.
    1. Start in locked mode: Gögn eru örugg, read/write með security rules.
-1. Tannhjól (valmynd efst vinstra megin á skjá) -> Project Settings: `firebasConfig` til að tengjast gagnagrunni (sem er tómur).
+1. Tannhjól (valmynd efst vinstra megin á skjá) -> Project Settings -> scroll neðst -> Config -> afrita info úr firebaseConfig til að tengjast gagnagrunni (tómur).
 
 <!-- Úrelt: [myndband frá Daníel G. 20221](https://youtu.be/6c27DhyWfQI) _viðmót og stillingar búið að breytast_ -->
 
+### 2. Að tengjast og skrifa/lesa í gagnagrunn 
+
+1.[Flask app tenging við Firebase gagnagrunn og skrifa/lesa](https://youtu.be/NDCar59xGRI) _(13 mín)_
+   - [kóðaskráin í videoinu](https://github.com/vefthroun/Namsefni/blob/main/6-Gagnagrunnur/Firebase/app.py)
+   - í sýndarumhverfi (virtual env) þarf að sækja: `pip install pyrebase4`
+   - Það þarf einnig að bæta við í `config` heitið á gagnagrunninum:<br> `"databaseURL": "https://nafnágagnagrunni.firebaseio.com"`
+- [Pyrebase4](https://github.com/nhorvath/Pyrebase4#database) _(venv): `pip install pyrebase4`_
+   
+### 3. Aðrar db aðgerðir
+1. [html form og Firebase gagnagrunnur (14 mín)](https://youtu.be/wyWal1sG6Ms)
+1. [Að sækja gögn úr Firebase gagnagrunn og setja í lista (14 mín)](https://youtu.be/64ocVeKm194)
+
 ---
 
-### Firebase Python: Authentication, Storage, Realtime Database CRUD tutorials
+### Firebase Python: _Authentication, Storage, Realtime Database CRUD tutorial_
 
 1. [Firebase Python: Authentication, Storage, Realtime Database CRUD tutorials](https://www.youtube.com/watch?v=s-Ga8c3toVY&t=1348s)
    - 00:00:00 - Introduction
@@ -39,22 +51,9 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 
 ---
 
-### Realtime Database
-
-1. [Flask app tenging við Firebase gagnagrunn og að skrifa/lesa upplýsingar (13 mín)](https://youtu.be/NDCar59xGRI)
-   - [kóðaskráin í videoinu](https://github.com/vefthroun/Namsefni/blob/main/6-Gagnagrunnur/Firebase/app.py)
-   - í sýndarumhverfi (virtual env) þarf að sækja: `pip install pyrebase4`
-   - Það þarf einnig að bæta við í `config` heitið á gagnagrunninum:<br> `"databaseURL": "https://nafnágagnagrunni.firebaseio.com"`
-1. [html form og Firebase gagnagrunnur (14 mín)](https://youtu.be/wyWal1sG6Ms)
-1. [Að sækja gögn úr Firebase gagnagrunn og setja í lista (14 mín)](https://youtu.be/64ocVeKm194)
-
----
-
 ### Tutorials (vefgreinar)
 
 - [Login með auth()](https://parasmani300.medium.com/pyrebase-firebase-in-flask-d249a065e0df)
-- [Pyrebase4 viðbótin og aðgerðir](https://github.com/nhorvath/Pyrebase4#database)
-   - sýndarumhverfi (venv): `pip install pyrebase4`
 - [How to parse Pyrebase OrderedDict](https://stackoverflow.com/questions/51976401/how-to-parse-pyrebase-ordereddict/51989082)
 - [tuples](https://realpython.com/python-lists-tuples/#python-tuples)
 - [Getting Started with Cloud Firestore with Python](https://www.youtube.com/watch?v=yylnC3dr_no&ab_channel=Firebase)
