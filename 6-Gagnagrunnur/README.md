@@ -10,6 +10,9 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 
 [Getting started](https://www.youtube.com/watch?v=pP7quzFmWBY&ab_channel=Firebase) _að 3:13 mín_
 
+
+1. Ef þú ert ekki með Google reikning þarftu að búa hann til (kostar ekkert)
+1. Skráðu þig inn á firebase.google.com
 1. Búðu til aðgang hjá Google.
 1. Veldur Get Started -> Add Project -> Slepptu Google Analytic 
 1. Veldu Web app -> Build -> Realtime Database. Ekki velja Firestore Database, hér er [samanburður](https://firebase.google.com/docs/database/rtdb-vs-firestore)
