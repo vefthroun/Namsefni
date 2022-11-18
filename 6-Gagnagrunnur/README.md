@@ -3,7 +3,7 @@
 Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/database?authuser=0) hýstan í skýinu en með slíkan gagnagrunn sem er settu upp sem JSON tré getum við í rauntíma framkvæmt NoSQL CRUD aðgerðir þ.e. að lesa, skrifa, eyða eða uppfæra gögn. 
 
 - [Introducing Firebase Realtime Database](https://youtu.be/U5aeM5dvUpA)
-- [What is a NoSQL Database?](https://www.youtube.com/watch?v=v_hR4K4auoQ&ab_channel=Firebase) _Realtime DB og Firestore DB_
+- _Ítarefni: [What is a NoSQL Database?](https://www.youtube.com/watch?v=v_hR4K4auoQ&ab_channel=Firebase) Realtime DB og Firestore DB_
 
 ---
 
