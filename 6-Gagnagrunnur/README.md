@@ -26,7 +26,7 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
    - [kóðaskráin í videoinu](https://github.com/vefthroun/Namsefni/blob/main/6-Gagnagrunnur/Firebase/app.py)
    - í sýndarumhverfi (virtual env) þarf að sækja: `pip install pyrebase4`
    - Það þarf einnig að bæta við í `config` heitið á gagnagrunninum:<br> `"databaseURL": "https://nafnágagnagrunni.firebaseio.com"`
-1. [Pyrebase4](https://github.com/nhorvath/Pyrebase4#database) _(venv): `pip install pyrebase4`_
+1. [Pyrebase4](https://github.com/nhorvath/Pyrebase4#database)  _`pip install pyrebase4`_
    
 ### 3. Aðrar db aðgerðir
 1. [html form og Firebase gagnagrunnur (14 mín)](https://youtu.be/wyWal1sG6Ms)
