@@ -31,7 +31,6 @@ db.child("teachers").child("konni").set(data3)
 
 
 # Update
-
 # update býr til ný eigindi ef það er ekki til fyrir. 
 
 # Update, vísa í þekkt key (konni) og uppfærum aldur
@@ -68,10 +67,16 @@ kennari = db.child("teachers").child("konni").get()    # eða db.child("teachers
 print(kennari.val())  # fæ Ordered dict með lista af tuples
 # OrderedDict([('address', 'Tækniskólinn'), ('age', 60), ('employed', True), ('name', 'Konráð')])
 
-# Getum líka breytt response (ordered dict) í lista með tuples
+# Við gætum þá breytt þessu í dictionary sem inniheldur dictionaries
+kennarar = dict(db.child("teachers").get().val())   # typecast
+print(kennarar)
+# {'-NHLOCke9NpiVrkjSlrA': {'address': 'Tækniskólinn', 'age': 40, 'employed': True, 'name': 'Daníel'}, '-NHLOClVYBga-ZqVCA8L': {'address': 'Tækniskólinn', 'age': 45, 'employed': True, 'name': 'Gunnar'}, 'konni': {'address': 'Tækniskólinn', 'age': 60, 'employed': True, 'name': 'Konráð'}}
+
+# Eða listi með tuples
 kennari = db.child("teachers").child("konni").get().val()
-kennaralisti = list(kennari.items()) # breytum í lista með tuples
+kennaralisti = list(kennari.items())  # breytum í lista með tuples
 print(kennaralisti) # [('address', 'Tækniskólinn'), ('age', 60), ('employed', True), ('name', 'Konráð')]
+
 
 
 
