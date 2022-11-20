@@ -77,7 +77,6 @@ print(kennaralisti) # [('address', 'Tækniskólinn'), ('age', 60), ('employed', 
 
 # Condtitional Requests
 # Pyrebase:  https://github.com/nhorvath/Pyrebase4#conditional-requests
-# Firebase:  https://firebase.google.com/docs/reference/rest/database/#section-conditional-requests
 
 # Í Rules: bætum við field til að geta gert skilyrtar fyrirspurnir 
 # "teachers" : { ".indexOn" : ["address","age","employed","name"] }
