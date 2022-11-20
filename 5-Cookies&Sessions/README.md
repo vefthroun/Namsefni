@@ -20,7 +20,8 @@
 
 #### Sýnidæmi
 
-1. [An Introduction to Sessions in Flask (myndband)](https://www.youtube.com/watch?v=T1ZVyY1LWOg) _private?_
+<!-- 1. [An Introduction to Sessions in Flask (myndband)](https://www.youtube.com/watch?v=T1ZVyY1LWOg) _private?_ -->
+1. [An Introduction to Sessions in Flask (myndband)](https://www.youtube.com/watch?v=WsoL4MIhJbg)
 1. [Kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/5-Cookies%26Sessions/Sessions) 
 1. [Sessions in Flask](https://overiq.com/flask-101/sessions-in-flask/)
 1. [Hvar er session geymt í Flask?](https://stackoverflow.com/questions/52677755/where-does-flask-store-the-sessions)
