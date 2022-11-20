@@ -75,7 +75,7 @@ print(kennaralisti) # [('address', 'Tækniskólinn'), ('age', 60), ('employed', 
 
 
 
-# Query
+# Condtitional Requests
 # Að sækja skilyrt gögn (query) með notkun Rules og index á dálka 
 # Í Rules: bætum við field til að geta gert skilyrtar fyrirspurnir 
 # "teachers" : { ".indexOn" : ["address","age","employed","name"] }
