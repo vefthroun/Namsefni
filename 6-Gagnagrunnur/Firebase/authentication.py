@@ -1,7 +1,7 @@
 
 # https://github.com/nhorvath/Pyrebase4
-# þarf pip3 install pyrebase4 
-import pyrebase
+import pyrebase # þarf pip3 install pyrebase4 
+
 
 # stillingar til að tengjast firebase realtime database á firebase.google.com 
 firebaseConfig = {
@@ -14,7 +14,7 @@ firebaseConfig = {
   "appId": "1:723537595408:web:13bd005e43576b1b318e95"
 }
 
-#  init app með tengingu við gagnagrunn 
+# init app með tengingu við gagnagrunn 
 firebase=pyrebase.initialize_app(firebaseConfig)
 
 # Authentication: Build -> Authentication á https://console.firebase.google.com/
