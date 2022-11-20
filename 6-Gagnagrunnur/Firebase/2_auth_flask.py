@@ -35,15 +35,18 @@ def login():
     try:
         # To sign in user using email and password
         sign_user = auth.sign_in_with_email_and_password("email@example.is", "1234567")
+        
         # before the 1 hour expiry:
         sign_user = auth.refresh(sign_user['refreshToken'])
         # now we have a fresh token
         print(sign_user['idToken'])      
+       
         session['user'] = sign_user['idToken']
         print(session['user'])
+        
         print("sign In Successfull")
     except:
-        print("Some thing happend!! could not sign in")
+        print("Some thing happend! could not sign in")
     
     return "Skoðaðu print í terminal"
     
