@@ -17,7 +17,7 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 1. Veldu Web app -> Build -> Realtime Database. Ekki velja Firestore Database, hér er [samanburður](https://firebase.google.com/docs/database/rtdb-vs-firestore)
    1. Veldu núna í bili -> Start in test mode: Hver sem er getur lesið og eytt gögnum úr gagnagrunni næstu 30 daga.
    1. Start in locked mode: Gögn eru örugg, read/write með security rules. (stillum svo á þetta)
-1. Að tengjast gagnagrunni: Tannhjól -> Project Settings -> Config -> afrita info úr firebaseConfig til að tengjast gagnagrunni (tómur). Ath. Það þarf einnig heitið á gagnagrunninum: `"databaseURL": "https://nafnágagnagrunni.firebaseio.com"`
+1. Að tengjast gagnagrunni: Tannhjól -> Project Settings -> Config -> afrita info úr firebaseConfig til að tengjast gagnagrunni.
 
 ---
    
