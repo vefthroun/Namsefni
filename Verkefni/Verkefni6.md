@@ -1,4 +1,4 @@
-## Verkefni 6  
+## Verkefni 6  _drög_
 - 14% af heildareinkunn
 - Viðfangsefni: 
   1. [Firebase rauntíma NoSQL gagnagrunnur](https://github.com/vefthroun/Namsefni/tree/main/6-Gagnagrunnur#firebase)
