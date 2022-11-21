@@ -10,14 +10,7 @@ app.secret_key = os.urandom(8)
 
 # stillingar til að tengjast firebase realtime database á firebase.google.com 
 firebaseConfig = {
-    "apiKey": "NOTA YKKAR KEY",
-    "authDomain": "verkefni6-4265f.firebaseapp.com",
-    "projectId": "verkefni6-4265f",
-    "storageBucket": "verkefni6-4265f.appspot.com",
-    "messagingSenderId": "746762172223",
-    "appId": "1:746762172223:web:4bb950f0fa7b8d1168058a",
-    "measurementId": "G-PBS5F76K22",
-    "databaseURL": "https://NAFN Á GAGNAGRUNNI.firebaseio.com",
+    ...
 }
 
 fb = pyrebase.initialize_app(firebaseConfig)
