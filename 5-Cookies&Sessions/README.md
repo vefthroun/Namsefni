@@ -28,6 +28,7 @@
 #### Myndbönd
 <!-- 1. [An Introduction to Sessions in Flask (myndband)](https://www.youtube.com/watch?v=T1ZVyY1LWOg) _private?_ -->
 1. [An Introduction to Sessions in Flask](https://www.youtube.com/watch?v=WsoL4MIhJbg)
+1. [Python Flask Login System With Sessions](https://www.youtube.com/watch?v=PrsmxWdthg0)
 
 #### Kóðadæmi
 1. [Kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/5-Cookies%26Sessions/Sessions) 
