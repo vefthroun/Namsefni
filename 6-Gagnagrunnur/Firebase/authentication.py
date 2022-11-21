@@ -5,13 +5,7 @@ import pyrebase # þarf pip3 install pyrebase4
 
 # stillingar til að tengjast firebase realtime database á firebase.google.com 
 firebaseConfig = {
-  "apiKey": "Setja ykkar eigin KEY",
-  "authDomain": "vefur3.firebaseapp.com",
-  "databaseURL": "https://NAFN Á Gagnagrunni.firebaseio.com",
-  "projectId": "vefur3",
-  "storageBucket": "vefur3.appspot.com",
-  "messagingSenderId": "723537595408",
-  "appId": "1:723537595408:web:13bd005e43576b1b318e95"
+  ...
 }
 
 # init app með tengingu við gagnagrunn 
