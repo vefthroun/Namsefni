@@ -31,7 +31,7 @@
 1. [Python Flask Login System With Sessions](https://www.youtube.com/watch?v=PrsmxWdthg0)
 
 #### Kóðadæmi
-1. [Kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/5-Cookies%26Sessions/Sessions)
+1. [vefthroun/Namsefni](https://github.com/vefthroun/Namsefni/tree/main/5-Cookies%26Sessions/Sessions)
 1. [Firebase Authentication PythonFlask sessions](https://github.com/kram254/Firebase_Authentication_PythonFlask_sessions)
 1. [Session](https://github.com/Benton-Michael/session)
 
