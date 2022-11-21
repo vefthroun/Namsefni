@@ -32,7 +32,7 @@
 
 #### Kóðadæmi
 1. [Kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/5-Cookies%26Sessions/Sessions)
-1. [Firebase Authentication PythonFlask sessions](https://github.com/kram254/Firebase_Authentication_PythonFlask_sessions/blob/main/app.py)
+1. [Firebase Authentication PythonFlask sessions](https://github.com/kram254/Firebase_Authentication_PythonFlask_sessions)
 
 <!--1. [The Flask session object](https://pythonise.com/series/learning-flask/flask-session-object)-->
 
