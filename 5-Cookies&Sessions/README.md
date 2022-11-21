@@ -35,7 +35,8 @@
 1. [vefthroun/Namsefni](https://github.com/vefthroun/Namsefni/tree/main/5-Cookies%26Sessions/Sessions)
 1. [Firebase Authentication PythonFlask sessions](https://github.com/kram254/Firebase_Authentication_PythonFlask_sessions)
 1. [Session](https://github.com/Benton-Michael/session)
-1. [Talnagisk leikur með Flask sessions](https://github.com/VxC42/greatNumberGame)
+1. [The Great Number Game (útfært með Sessions í Python Flask)](https://github.com/bchang1213/flask_thegreatnumbergame)
+1. [Annar talna gisk leikur (útfært með Sessions í Python Flask)](https://github.com/VxC42/greatNumberGame)
 
 <!--1. [The Flask session object](https://pythonise.com/series/learning-flask/flask-session-object)-->
 
