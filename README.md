@@ -24,5 +24,6 @@
 1. [API](https://github.com/vefthroun/Namsefni/blob/main/4-API/README.md#hva%C3%B0-er-api)
 1. [Form](https://github.com/vefthroun/Namsefni/blob/main/WTForms/Readme.md)
 1. [Firebase](https://github.com/vefthroun/Namsefni/tree/main/6-Gagnagrunnur#firebase)
+1. [Sessions](https://github.com/vefthroun/Namsefni/tree/main/5-Cookies%26Sessions)
 
 
