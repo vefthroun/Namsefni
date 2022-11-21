@@ -19,9 +19,10 @@
 - The session object is NOT a secure way to store data. It's a base64 encoded string and can easily be decoded.
 
 #### Vefgreinar
+1. [Flask Sessions, what are they...](https://medium.com/thedevproject/flask-sessions-what-are-they-for-how-it-works-what-options-i-have-to-persist-this-data-4ca48a34d3)
 1. [Sessions in Flask](https://overiq.com/flask-101/sessions-in-flask/)
-1. [Hvar er session geymt í Flask?](https://stackoverflow.com/questions/52677755/where-does-flask-store-the-sessions)
 1. [Sessions in Flask](https://testdriven.io/blog/flask-sessions/)
+1. [Hvar er session geymt í Flask?](https://stackoverflow.com/questions/52677755/where-does-flask-store-the-sessions)
 
 
 
