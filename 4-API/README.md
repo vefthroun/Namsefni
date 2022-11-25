@@ -5,23 +5,31 @@ There’s an amazing amount of data available on the Web. Many web services, lik
 
 - [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY) _(myndband)_.
 - [An Introduction to APIs](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/)  _client/server, HTTP, data format, key authentication_.
+- [xmltodict 0.13.0](https://pypi.org/project/xmltodict/) _Makes working with XML feel like you are working with JSON
+
+---
+
+#### Að búa til eigin API (ítarefni)
 - [Python and REST APIs: Interacting With Web Services](https://realpython.com/api-integration-in-python/), og Flask [kóðasýnidæmi](get_post_jsonify.py)
 - [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
 - [REST API using Flask in 7 minutes](https://towardsdatascience.com/launch-your-own-rest-api-using-flask-python-in-7-minutes-c4373eb34239) _með Python, Flask og Sqlite3_
 
----
+
+
 <!--
 
-### APIs vefþjónustur
+### APIs vefþjónustur (sækja gögn)
 - [Public APIs](https://github.com/public-apis/public-apis)  
-- [Cognitive services](https://azure.microsoft.com/en-us/products/cognitive-services/#api)
-- [Google API](https://cloud.google.com/api)
-- [Web API Spotify for Developers](https://developer.spotify.com/documentation/web-api/)
-
-
+<!--
 - [TV MAZE API](https://www.tvmaze.com/api)
 - [Apipheny](https://apipheny.io/free-api/)
 - [List of free apis](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
 - [free for dev - apis](https://github.com/ripienaar/free-for-dev#apis-data-and-ml)
+-->
+
+#### Senda og láta greina gögn, svar er JSON (gert í VESM3 áfanga)
+- [Cognitive services](https://azure.microsoft.com/en-us/products/cognitive-services/#api)
+- [Google API](https://cloud.google.com/api)
+
 -->
 
