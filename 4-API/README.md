@@ -5,6 +5,7 @@ There’s an amazing amount of data available on the Web. Many web services, lik
 
 - [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY) _(myndband)_.
 - [An Introduction to APIs](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/)  _client/server, HTTP, data format, key authentication_.
+- [Public APIs](https://github.com/public-apis/public-apis)  
 - [xmltodict 0.13.0](https://pypi.org/project/xmltodict/) _Makes working with XML feel like you are working with JSON
 
 ---
@@ -17,19 +18,13 @@ There’s an amazing amount of data available on the Web. Many web services, lik
 
 
 <!--
+#### Senda og láta greina gögn, svar er JSON (gert í VESM3 áfanga)
+- [Cognitive services](https://azure.microsoft.com/en-us/products/cognitive-services/#api)
+- [Google API](https://cloud.google.com/api)
 
-### APIs vefþjónustur (sækja gögn)
-- [Public APIs](https://github.com/public-apis/public-apis)  
-<!--
+#### Fleiri APis til að sækja gögn
 - [TV MAZE API](https://www.tvmaze.com/api)
 - [Apipheny](https://apipheny.io/free-api/)
 - [List of free apis](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
 - [free for dev - apis](https://github.com/ripienaar/free-for-dev#apis-data-and-ml)
 -->
-
-#### Senda og láta greina gögn, svar er JSON (gert í VESM3 áfanga)
-- [Cognitive services](https://azure.microsoft.com/en-us/products/cognitive-services/#api)
-- [Google API](https://cloud.google.com/api)
-
--->
-
