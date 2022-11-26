@@ -27,6 +27,7 @@ The [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.0.x/) extension uses Pytho
 #### Punktar:
 
 - When the `action` is set to an empty string the form is submitted to the URL that is currently in the address bar, which is the URL that rendered the form on the page. 
+- From WTForms 2.3.0 version, the email validation is handled by an external library called email-validator `pip install email-validator`
 
 
 ---
