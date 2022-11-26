@@ -24,6 +24,11 @@ The [Flask-WTF](https://flask-wtf.readthedocs.io/en/1.0.x/) extension uses Pytho
 1. [FLASK CRUD From scratch, wtform + editor (gamall)](https://www.youtube.com/watch?v=zRwy8gtgJ1A&t=54s&ab_channel=TraversyMedia) _youtube_ og [kóði](https://github.com/bradtraversy/myflaskapp) 
 -->
 
+#### Punktar:
+
+- When the `action` is set to an empty string the form is submitted to the URL that is currently in the address bar, which is the URL that rendered the form on the page. 
+
+
 ---
 
 ### WYSIWYG HTML editor
