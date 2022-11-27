@@ -17,8 +17,9 @@
 
 * Mjög einfalt að Upload-a skrá með Python Flask.
 * Ef þú ætlar að uploada t.d. mynd inn á pythonanywhere svæðið þitt í t.d. möppuna static þarftu að stilla UPLOAD_FOLDER rétt.
-    - app.config['UPLOAD_FOLDER'] = "/home/þittnotendanafn/mysite/static" ef þú ert með möppuna static inn 
-
+    - app.config['UPLOAD_FOLDER'] = "/home/þittnotendanafn/mysite/static" ef þú ert með möppuna static inn
+ * Verðum að gera 'pip install pyrebase4' í Bash console inn á pythonanywhere þjóninum.
+ 
 ### Kóðadæmi
 
 * [Flask-File-Upload](https://github.com/arpanneupane19/Flask-File-Uploads/blob/main/main.py)
