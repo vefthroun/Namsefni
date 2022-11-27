@@ -24,7 +24,8 @@ Firebase Storage is a stand-alone solution for uploading user generated content 
 ### Upload á server (eða á pythonanywhere)
 
 Mjög einfalt að Upload-a skrá með Python Flask. Ef þú ætlar að uploada t.d. mynd inn á pythonanywhere svæðið þitt í t.d. möppuna static þarftu að stilla UPLOAD_FOLDER rétt.  <br>
-``` app.config['UPLOAD_FOLDER'] = "/home/þittnotendanafn/mysite/static" ``` ef þú ert með möppuna static undir mysite möpunni ( mysite er default mappa )
+``` app.config['UPLOAD_FOLDER'] = "/home/þittnotendanafn/mysite/static" ``` <br>
+ef þú ert með möppuna static undir mysite möpunni ( mysite er default mappa )
  
 * [Flask-File-Upload](https://github.com/arpanneupane19/Flask-File-Uploads/blob/main/main.py) _kóðadæmi_
 * [How to Upload Files with Flask Using Python (Með WTForms)](https://www.youtube.com/watch?v=GeiUTkSAJPs) _myndband_
