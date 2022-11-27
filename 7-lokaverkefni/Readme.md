@@ -10,6 +10,9 @@
 * Þegar þú hefur náð lágmarks kröfum bætiru 1 við einkunnina þína með meiri útfærslum ( sjá verklýsingu Námsmat -> einkunn 0-10 )
 * Gangi þér vel.  
 
+---
+---
+
 ## Upload á Firebase Storage
 
 * Firebase býður upp á þjónustuna Storage til að hýsa myndir, hljóðskrár, video og aðrar skrár.  Skránum er hægt að "uploada" og "downloada" til of frá geymslunni í gegnum Python Flask.
