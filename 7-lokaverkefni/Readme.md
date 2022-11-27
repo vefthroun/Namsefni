@@ -1,3 +1,15 @@
+# Lokaverkefni
+
+## Nokkur mikilvæg atriði
+
+* Verkefnið er lykilmatsverkefni, lágmarkseinkunn til að ná er 4.
+* Verkefnavinnan stendur í rétt um 2 vikur, tíminn líður hratt.
+* Byrjaðu strax.
+* Lestu vandlega verklýsingu.
+* Byrjaðu á að útfæra lágmarkskröfur til að ná 4.
+* Þegar þú hefur náð lágmarks kröfum bætiru 1 við einkunnina þína með meiri útfærslum ( sjá verklýsingu Námsmat -> einkunn 0-10 )
+* Gangi þér vel.  
+
 ## Upload á Firebase Storage
 
 * Firebase býður upp á þjónustuna Storage til að hýsa myndir, hljóðskrár, video og aðrar skrár.  Skránum er hægt að "uploada" og "downloada" til of frá geymslunni í gegnum Python Flask.
