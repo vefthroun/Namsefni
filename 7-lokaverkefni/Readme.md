@@ -1,3 +1,5 @@
+<!--
+
 ## Undirbúningur
 
 Viðfangsefni lokaverkefnisins er frjálst en það þýðir ekki að það eigi að vera skipulagslaust og innihald eintómt bull (_dummy texti_). Við eigum að nota allt sem við höfum lært í vefhönnun sem að gagni getur komið í lokaverkefninu.
@@ -48,3 +50,5 @@ Notendur sem skráðir eru inn með _Firebase Authentication_ geta skrifað í g
 ### Niðurstaða 
 
 Lýsið í stuttu máli hvað gekk vel að leysa og hvað vantar upp á að verkefnaáætlunin hafi staðist í **Verkefni 7, README.md**. 
+
+-->
