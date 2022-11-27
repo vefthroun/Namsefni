@@ -1,6 +1,4 @@
-# Lokaverkefni
-
-## Nokkur mikilvæg atriði
+## Nokkur mikilvæg atriði varðandi lokaverkefnið.
 
 * Verkefnið er lykilmatsverkefni, lágmarkseinkunn til að ná er 4.
 * Verkefnavinnan stendur í rétt um 2 vikur, tíminn líður hratt.
@@ -10,8 +8,6 @@
 * Þegar þú hefur náð lágmarks kröfum bætiru 1 við einkunnina þína með meiri útfærslum ( sjá verklýsingu Námsmat -> einkunn 0-10 )
 * Gangi þér vel.  
 
----
----
 
 ## Upload á Firebase Storage
 
