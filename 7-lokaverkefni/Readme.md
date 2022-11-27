@@ -29,7 +29,7 @@
 
 * Mjög einfalt að Upload-a skrá með Python Flask.
 * Ef þú ætlar að uploada t.d. mynd inn á pythonanywhere svæðið þitt í t.d. möppuna static þarftu að stilla UPLOAD_FOLDER rétt.
-    - app.config['UPLOAD_FOLDER'] = "/home/þittnotendanafn/mysite/static" ef þú ert með möppuna static undir mysite möpunni ( mysite er default mappa )
+    - ``` app.config['UPLOAD_FOLDER'] = "/home/þittnotendanafn/mysite/static" ``` ef þú ert með möppuna static undir mysite möpunni ( mysite er default mappa )
  
 ### Kóðadæmi
 
