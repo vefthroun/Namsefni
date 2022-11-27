@@ -59,7 +59,7 @@
 ## Deployment og hýsing á [pythonanywhere](https://www.pythonanywhere.com/). 
 
 * PythonAnywhere is an online integrated development environment and web hosting service based on the Python programming language. Founded by Giles Thomas and Robert Smithson in 2012, it provides in-browser access to server-based Python and Bash command-line interfaces, along with a code editor with syntax highlighting (Wikipedia).
-* Verðum að gera ´pip install pyrebase4´ í Bash console inn á pythonanywhere þjóninum.
+* Verðum að gera ```python pip install pyrebase4 ``` í Bash console inn á pythonanywhere þjóninum.
 
 ### Myndbönd
 
