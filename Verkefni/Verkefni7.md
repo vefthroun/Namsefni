@@ -58,7 +58,7 @@ Einkunn:
    - Hugað er að stærð mynda og framsetningu með CSS.
 - 8  
    - CRUD aðgerðir með Pistla með WTFormi og WYSIWYG HTML í Firebase Realtime Gagnagrunnur og birtir á forsíðu.
-   - Pistill: Hægt er að velja úr nokkrum tilbúnum myndum, mynd með pistil sem er hýst á miðlara (static mappa).
+   <!-- Pistill: Hægt er að velja úr nokkrum tilbúnum myndum, mynd með pistil sem er hýst á miðlara (static mappa). -->
    - Authentication með Firebase fyrir innskráningu.
    <!-- - hak til að birta ekki pistil_  -->
 - 7 
