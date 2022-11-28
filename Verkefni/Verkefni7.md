@@ -70,7 +70,6 @@ Einkunn:
    - Valmynd inniheldur hlekkina; forsíða, flokkar (drop-down), admin, login og logout.
 - 7  
    - CRUD aðgerðir með Pistla með WTFormi í gagnagrunni eða JSON skrá og birtir á forsíðu. 
-   - Hægt að velja pistla eftir flokkum í valmynd. 
    - CSS uppsetning og framsetning á Pistlum er í lagi.
    - _Valkvæmt: Notaðu macros (hjálparfall) til að losna við endurtekningar._
 - 6
