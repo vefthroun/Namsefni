@@ -60,17 +60,16 @@ Einkunn:
    - CRUD aðgerðir með Pistla með WTFormi og WYSIWYG HTML í Firebase Realtime Gagnagrunnur og birtir á forsíðu.
    - Pistill: Hægt er að velja úr nokkrum tilbúnum myndum, mynd með pistil sem er hýst á miðlara (static mappa).
    - Authentication með Firebase fyrir innskráningu.
-   - Admin útfært (nema að búa til flokk). 
+   <!-- - hak til að birta ekki pistil_  -->
+- 7 
+    - Admin (nema að búa til flokk). 
         - Er vernduð með SESSIONS
-        - pistlar eru raðaðir eftir dagsetningum (nýjast efst)
+        - allir pistlar eru birtir og raðaðir eftir dagsetningum (nýjast efst)
         - takka (link) til að bæta við pistil.
         - takka (link) til að uppfæra og eyða pistil.
-   <!-- - hak til að birta ekki pistil_  -->
-   - Admin hefur töfluuppsetningu með CSS og framsetning er í lagi.
-   - Valmynd inniheldur hlekkina; forsíða, flokkar (drop-down), admin, login og logout.
-- 7  
+   - Admin hefur töfluuppsetningu með CSS.
    - CRUD aðgerðir með Pistla með WTFormi í gagnagrunni eða JSON skrá og birtir á forsíðu. 
-   - CSS uppsetning og framsetning á Pistlum er í lagi.
+   - Valmynd inniheldur hlekkina; forsíða, flokkar (drop-down), admin, login og logout.
    - _Valkvæmt: Notaðu macros (hjálparfall) til að losna við endurtekningar._
 - 6
    - Pistlar eru skrifaðir með WTFormi í gagnagrunni (eða JSON skrá) og birtir á forsíðu. 
@@ -109,7 +108,6 @@ Einkunn:
    - Engin harðkóðun.
    - Forsíða, gögn koma frá dictionary eða breytum.
    - Footer, gögn úr breytum.
-   - Vefsíður fyrir 404 og 500 villumeldingar
    - Jinja Template; breytur og include (head og footer).
 - 2 
    - Forsíða birtir gögn harðkóðuð í Jinja template.  
