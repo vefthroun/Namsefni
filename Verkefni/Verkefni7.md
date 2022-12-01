@@ -18,7 +18,7 @@
 1. Footer:
     1. inniheldur upplýsingar um höfund verkefnis, skólaupplýsingar (Tölvubraut, Tækniskólinn) og vefslóða á hýsingu vefs.
 1. Innskráning:
-    1. aðeins admin notandi á að geta skráð sig inn og séð Admin. 
+    1. aðeins admin notandi á að geta skráð sig inn og séð Admin. Notaðu netfangið dummy@mail.com og lykilorðið 12345678
     1. Admin notandi getur útskráð sig.
 1. Admin. 
     1. yfirlit yfir alla pistla (titill, flokkur, dagsetning) raðað eftir dagsetningum (nýjast efst)
