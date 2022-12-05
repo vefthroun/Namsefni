@@ -93,7 +93,7 @@ Einkunn:
    - Notaðu flash message til að láta vita að submit hafi tekist.   
    - Notað er for_url fyrir linka.
    - Forsíða. Hugað er að margin, padding, letur og leturgerð með CSS.
-   - Rétt notkun á HTML elements (HTML tag).
+   - Rétt notkun á HTML elements (HTML tag). Sjá t.d. [HTML Best Practices](https://www.freecodecamp.org/news/html-best-practices/) og [HTML Style Guide](https://www.w3schools.com/html/html5_syntax.asp)
 - 4  
    - Gagnagrind; listi sem inniheldur dictionaries, breytur.
    - Myndir eru með vefslóðir, hýstar t.d. á imgur.com.
