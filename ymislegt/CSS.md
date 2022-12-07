@@ -8,16 +8,8 @@
 
 - [Material design light (library of components)](https://getmdl.io/)
 - [PureCSS](https://purecss.io/)
-
----
-
-### Front-end framework 
-
 - [Material design - style guide](https://material.io/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Semantic UI](https://semantic-ui.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [Foundation](https://get.foundation/)
 
 ---
 <!--
