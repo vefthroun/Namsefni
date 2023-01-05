@@ -1,6 +1,6 @@
 ### VEFÞ2VF05CU
 - vor 2023, spönn 1
-- [Kennsluáætlun](https://github.com/vefthroun/Namsefni/blob/main/VEF%C3%9E2VF05CU_haust22_2.pdf)
+- [Kennsluáætlun](https://github.com/vefthroun/Namsefni/blob/main/VEFÞ2VF05CU_V23-1.pdf)
 
 ---
 
