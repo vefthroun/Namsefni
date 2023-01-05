@@ -7,13 +7,14 @@
 #### Verkefni
 
 - [Verkefni 1](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni1.md)
+<!--
 - [Verkefni 2](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni2.md)
 - [Verkefni 3](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni3.md)
 - [Verkefni 4](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni4.md)
 - [Verkefni 5](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni5.md)
 - [Verkefni 6](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni6.md)
 - [Verkefni 7](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni7.md)
-
+-->
 ---
 
 #### Námsefni
