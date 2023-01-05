@@ -1,5 +1,5 @@
 ### VEFÞ2VF05CU
-- Haust 2022, spönn 2
+- vor 2023, spönn 1
 - [Kennsluáætlun](https://github.com/vefthroun/Namsefni/blob/main/VEF%C3%9E2VF05CU_haust22_2.pdf)
 
 ---
