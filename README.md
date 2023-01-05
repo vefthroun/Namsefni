@@ -6,7 +6,7 @@
 
 #### Verkefni
 
-- [Verkefni 1] Í vinnslu...
+- Verkefni 1 í vinnslu...
 <!--
 - [Verkefni 2](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni2.md)
 - [Verkefni 3](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni3.md)
