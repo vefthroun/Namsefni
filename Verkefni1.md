@@ -9,7 +9,7 @@
 
 #### 2. Einfalt Flask app - 3 síður  
 Útfærðu einfaldan vef með Flask. Vefurinn inniheldur 3 síður (_app.route_); 1 forsíða og 2 undirsíður.
-   1. Forsíðan (index) inniheldur virka hlekki á 2 undirsíður. Þegar smellt er á hvorn hlekk fyrir sig er farið á viðkomandi undirsíðu. Forsíðan skal birta mynd sem vistuð er í static möppu.  Hlekkirnir 2 skulu vera í valmynd sem útfærð er með PureCSS Menu.  Gögn valmyndar skulu geymd í gagnagrind (list/dict/tuple) í app.py skrá.
+   1. Forsíðan (index) inniheldur virka hlekki á 2 undirsíður. Þegar smellt er á hvorn hlekk fyrir sig er farið á viðkomandi undirsíðu. Forsíðan skal hafa fyrirsögn og birta mynd sem vistuð er í static möppu.  Hlekkirnir 2 skulu vera í valmynd sem útfærð er með PureCSS Menu.  Gögn valmyndar skulu geymd í gagnagrind (list/dict/tuple) í app.py skrá.
    2. Fyrri undirsíðan á að birta gögn úr lista (list) sem geymdur er í app.py skrá.  Birtið gögnin í óröðuðum lista (ul) í HTML.  Gögnin í gagnagrind eru valfrjáls.
    3. Seinni undirsíðan birtir gögn úr dict (dictionary) sem geymt er í app.py skrá.  Birtið gögnin í röðuðum lista (ol) í HTML.  Gögnin í gagnagrind eru valfrjáls.
 
