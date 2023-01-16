@@ -26,7 +26,7 @@ Flask app (vefur) þarf að uppfylla eftirfarandi:
 
    1. Uppsetning gagna í gagnagrindum og static myndir (5%)
    1. Valmynd birt með texta úr gagnagrind og gögn í footer koma einnig úr gagnagrind (10%)
-   1. Forsíða birtir allar vörur úr gagnagrind(static routing) (10%)
+   1. Forsíða birtir allar vörur úr gagnagrind (static routing) (10%)
    1. Undirsíða sem birtir valda vöru af forsíðu (dynamic routing) (20%)
    1. Undirsíða sem birtir allar vörur úr ákveðnum flokki (dynamic routing) (20%)  
    1. Notkun á Jinja: include (header, menu og footer) á öllum vefsíðum með Jinja (10%)
