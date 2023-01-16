@@ -1,4 +1,4 @@
-## Verkefni 3 
+## Verkefni 2 
 - 10% af heildareinkunn
 - Viðfangsefni: 
    1. Data structure: Listi með dictionary
