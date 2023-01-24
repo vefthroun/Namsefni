@@ -62,6 +62,7 @@ Einkunn:
   - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
   - Jinja ábótavant (ekki erfðir og  / eða  ekki include)
   - harðkóðun í Jinja template
+  - hnökrar í útlitshönnun (eigið CSS og PureCSS virkar ekki að fullu)
 - 3
   - forsíða birtir t.d. nafn og mynd bíómyndar (static route)
   - Jinja ábótavant (ekki erfðir og  / eða  ekki include)
