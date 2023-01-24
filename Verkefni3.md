@@ -4,7 +4,7 @@
 - Lykilmatsverkefni
 - 30% af heildareinkunn
 - Viðfangsefni: 
-  - JSON og [API](https://en.wikipedia.org/wiki/API_key) ( TMDB )
+  - JSON og [API](https://en.wikipedia.org/wiki/API_key)
   - Jinja Template: inheritance, skilyrði
   - CSS Responsive Grid Layout með PureCSS
   - Eigið CSS 
