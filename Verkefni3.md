@@ -45,10 +45,10 @@ Einkunn:
 - 6
   - forsíða birtir t.d nafn og mynd bíómyndar (static route)
   - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
+  - upplýsingar um flokka (genre) fyrir valda bíómynd
   - Jinja: erfðir, include, lúppur og skilyrði
   - engin harðkóðun í Jinja templae
   - viðeigandi errorhandler routes
-  - upplýsingar um flokka (genre) fyrir valda bíómynd
 - 5
   - forsíða birtir t.d nafn og mynd bíómyndar (static route)
   - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
