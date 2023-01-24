@@ -15,10 +15,11 @@
  
 1. Útfærðu vefforrit í Flask sem nýtir API.
 1. Notum [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction)  
-1. Nemendur þurfa að skrá sig inn á síðuna (regiser) hér að ofan og sækja um API key.  Þetta er frítt.
+1. Nemendur þurfa að skrá sig inn á síðuna (register) hér að ofan og sækja um API key.  Það kostar ekkert að skrá sig.
 1. Á forsíðu (index) skal birta grunn upplýsingar um 20 random bíómyndir.  Birta skal amk nafn og mynd.
 1. Ef valin er ein bíómynd af forsíðu er farið á undirsíðu sem birtir nánari upplýsingar um valda bíómynd.
 1. **Engin harðkóðun** til að standast grunnkröfur.
+1. Byrjið á því að útfæra grunnkröfur til að standast lykilmat, síðan skulu þið bæta við virkni / útlit til að hækka einkunn.
 1. Hér fyrir neðan er nánari útlistun á þeim þáttum sem þarf að uppfylla til að fá tiltekna einkunn.
 
 
@@ -26,7 +27,7 @@
 
 ---
 
-### Námsmat og skil
+### Nánari verklýsing, námsmat og skil
 
 Einkunn:
 - 10
