@@ -31,20 +31,20 @@
 
 Einkunn:
 - 10
-  - Allt neðangreint frá og með einkunn 6 
+  - Sama og einkunn 9 + 
   - Auka virkni að eigin vali
 - 9
-  - Allt neðangreint frá og með einkunn 6
+  - Sama og einkunn 8 +
   - Hægt að skoða trailer fyrir valda bíómynd
 - 8
-  - Allt neðangreint frá og með einkunn 6
+  - Sama og einkunn 7 +
   - Upplýsingar um helstu leikara og leikstjóra fyrir valda bíómynd
 - 7
-  - Allt neðangreint frá og með einkunn 6
-  - ef valinn er flokkur (genre) opnast síða sem birtir random bíómyndir úr þeim flokk (dynamic route)
+  - Sama og einkunn einkunn 6 +
+  - ef valinn er flokkur (genre) opnast síða sem birtir random bíómyndir úr völdum flokk (dynamic route)
 - 6
-  - Sama og einkunn 5
-  - textalýsing myndar kemur á íslensku ef hún er til, annars á ensku
+  - Sama og einkunn einkunn 5 +
+  - textalýsing bíómyndar kemur á íslensku ef hún er til, annars á ensku
 - 5
   - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
   - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
