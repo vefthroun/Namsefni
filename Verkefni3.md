@@ -41,10 +41,10 @@ Einkunn:
   - Upplýsingar um helstu leikara og leikstjóra fyrir valda bíómynd
 - 7
   - Sama og einkunn einkunn 6 +
-  - ef valinn er flokkur (genre) opnast síða sem birtir random bíómyndir úr völdum flokk (dynamic route)
+  - Ef valinn er flokkur (genre) opnast síða sem birtir random bíómyndir úr völdum flokk (dynamic route)
 - 6
   - Sama og einkunn einkunn 5 +
-  - textalýsing bíómyndar kemur á íslensku ef hún er til, annars á ensku
+  - Textalýsing (overview) bíómyndar kemur á íslensku ef hún er til, annars á ensku
 - 5
   - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
   - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
