@@ -3,7 +3,8 @@
 ### Verkefni 3
 - Lykilmatsverkefni
 - 30% af heildareinkunn
-- Viðfangsefni: 
+- Viðfangsefni:
+  - [JSON](https://en.wikipedia.org/wiki/JSON) og [API](https://en.wikipedia.org/wiki/API_key)
   - Jinja Template: inheritance, skilyrði
   - CSS Responsive Grid Layout með PureCSS
   - Eigið CSS 
