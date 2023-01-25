@@ -43,12 +43,8 @@ Einkunn:
   - Allt neðangreint frá og með einkunn 6
   - ef valinn er flokkur (genre) opnast síða sem birtir random bíómyndir úr þeim flokk (dynamic route)
 - 6
-  - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
-  - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
-  - upplýsingar um flokka (genre) fyrir valda bíómynd
-  - Jinja: erfðir, include, lúppur og skilyrði
-  - engin harðkóðun í Jinja templae
-  - viðeigandi errorhandler routes
+  - Sama og einkunn 5
+  - textalýsing myndar kemur á íslensku ef hún er til, annars á ensku
 - 5
   - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
   - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
@@ -57,6 +53,7 @@ Einkunn:
     - textalýsing myndar (overview)
     - hvenær mynd kom út (release_date)
     - lengd myndar (runtime)
+    - flokkar sem mynd tilheirir (genre)
   - Jinja: erfðir, include, lúppur og skilyrði
   - engin harðkóðun í Jinja templae
   - viðeigandi errorhandler routes
