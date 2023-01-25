@@ -43,7 +43,7 @@ Einkunn:
   - Sama og einkunn einkunn 6 +
   - Ef valinn er flokkur (genre) opnast síða sem birtir random bíómyndir úr völdum flokk (dynamic route)
 - 6
-  - Sama og einkunn einkunn 5 +
+  - Sama og einkunn 5 +
   - Textalýsing (overview) bíómyndar kemur á íslensku ef hún er til, annars á ensku
 - 5
   - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
