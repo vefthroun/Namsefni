@@ -51,7 +51,7 @@ Einkunn:
     - nafn bíómyndar (original_title)
     - mynd (poster_path)
     - textalýsing myndar (overview)
-    - hvenær mynd kom út (release_date)
+    - hvenær mynd kom út (release_date), dagsetning á að vera íslensku formatti
     - lengd myndar (runtime)
     - flokkar sem mynd tilheyrir (genre)
   - Jinja: erfðir, include, lúppur og skilyrði
