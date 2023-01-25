@@ -4,7 +4,7 @@
 - Lykilmatsverkefni
 - 30% af heildareinkunn
 - Viðfangsefni: 
-  - JSON og [API](https://en.wikipedia.org/wiki/API_key)
+  - [JSON](https://en.wikipedia.org/wiki/JSON) og [API](https://en.wikipedia.org/wiki/API_key)
   - Jinja Template: inheritance, skilyrði
   - CSS Responsive Grid Layout með PureCSS
   - Eigið CSS 
@@ -58,13 +58,18 @@ Einkunn:
   - frjáls PureCSS Responsive Grid uppsetning
   - hnökralaus útlitshönnun (eigið CSS og PureCSS virkar að fullu)
 - 4
-  - forsíða birtir t.d nafn og mynd bíómyndar (static route)
+  - forsíða birtir nafn (title) og mynd (poster_path) bíómyndar (static route)
   - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
+    - nafn bíómyndar (original_title)
+    - mynd (poster_path)
+    - textalýsing myndar (overview)
+    - hvenær mynd kom út (release_date)
+    - lengd myndar (runtime)
   - Jinja ábótavant (ekki erfðir og  / eða  ekki include)
   - harðkóðun í Jinja template
   - hnökrar í útlitshönnun (eigið CSS og PureCSS virkar ekki að fullu)
 - 3
-  - forsíða birtir t.d. nafn og mynd bíómyndar (static route)
+  - forsíða birtir nafn (title) og mynd (poster_path) bíómyndar (static route)
   - Jinja ábótavant (ekki erfðir og  / eða  ekki include)
   - harðkóðun í Jinja template
 - 2
