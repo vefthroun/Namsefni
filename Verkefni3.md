@@ -86,7 +86,7 @@ Skilaðu þjappaðri (zip/rar) möppu með öllum skrám (ekki venv) á Innu.
 ---
 
 ### Dæmi um gögn
-Hlekkurinn / API endpoint [https://developers.themoviedb.org/3/movies/get-movie-details] skilar okkur upplýsingum um bíómynd eftir id:  
+Hlekkurinn / API endpoint [[https://developers.themoviedb.org/3/movies/get-movie-details](https://api.themoviedb.org/3/movie/550?api_key=???)] skilar okkur upplýsingum um bíómynd eftir id:  
 ```python
 
 {
