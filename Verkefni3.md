@@ -53,7 +53,7 @@ Einkunn:
     - textalýsing myndar (overview)
     - hvenær mynd kom út (release_date)
     - lengd myndar (runtime)
-    - flokkar sem mynd tilheirir (genre)
+    - flokkar sem mynd tilheyrir (genre)
   - Jinja: erfðir, include, lúppur og skilyrði
   - engin harðkóðun í Jinja templae
   - viðeigandi errorhandler routes
