@@ -43,33 +43,33 @@ Einkunn:
   - Allt neðangreint frá og með einkunn 6
   - ef valinn er flokkur (genre) opnast síða sem birtir random bíómyndir úr þeim flokk (dynamic route)
 - 6
-  - forsíða birtir t.d nafn og mynd bíómyndar (static route)
+  - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
   - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
   - upplýsingar um flokka (genre) fyrir valda bíómynd
   - Jinja: erfðir, include, lúppur og skilyrði
   - engin harðkóðun í Jinja templae
   - viðeigandi errorhandler routes
 - 5
-  - forsíða birtir t.d nafn og mynd bíómyndar (static route)
-  - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
-  - Jinja: erfðir, include, lúppur og skilyrði
-  - engin harðkóðun í Jinja templae
-  - viðeigandi errorhandler routes
-  - frjáls PureCSS Responsive Grid uppsetning
-  - hnökralaus útlitshönnun (eigið CSS og PureCSS virkar að fullu)
-- 4
-  - forsíða birtir nafn (title) og mynd (poster_path) bíómyndar (static route)
+  - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
   - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
     - nafn bíómyndar (original_title)
     - mynd (poster_path)
     - textalýsing myndar (overview)
     - hvenær mynd kom út (release_date)
     - lengd myndar (runtime)
+  - Jinja: erfðir, include, lúppur og skilyrði
+  - engin harðkóðun í Jinja templae
+  - viðeigandi errorhandler routes
+  - frjáls PureCSS Responsive Grid uppsetning
+  - hnökralaus útlitshönnun (eigið CSS og PureCSS virkar að fullu)
+- 4
+  - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
+  - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
   - Jinja ábótavant (ekki erfðir og  / eða  ekki include)
   - harðkóðun í Jinja template
   - hnökrar í útlitshönnun (eigið CSS og PureCSS virkar ekki að fullu)
 - 3
-  - forsíða birtir nafn (title) og mynd (poster_path) bíómyndar (static route)
+  - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
   - Jinja ábótavant (ekki erfðir og  / eða  ekki include)
   - harðkóðun í Jinja template
 - 2
