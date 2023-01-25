@@ -32,7 +32,7 @@
 Einkunn:
 - 10
   - Sama og einkunn 9 + 
-  - Auka virkni að eigin vali
+  - Auka virkni að eigin vali í samráði við kennara
 - 9
   - Sama og einkunn 8 +
   - Hægt að skoða trailer fyrir valda bíómynd
