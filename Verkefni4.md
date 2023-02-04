@@ -16,7 +16,7 @@
 ### Verkefnalýsing
 1. Skráningarsíða (signup).  Nýskráning með email og password.  Password verður að vera amk 6 tákn (bókstafir/tölustafir), email verður að vera gilt og má ekki vera til fyrir í gagnagrunni.  Notum Firebase Authentication til að vista upplýsingar.
 1. Innskráningarsíða (login) er með email/password [Firebase Authentication](https://github.com/nhorvath/Pyrebase4#authentication). Notaðu netfangið `dummy@mail.com` og lykilorðið `123456`.
-1. Adminsíða sýnir profile úr Firebase authentication.
+1. Adminsíða sýnir profile úr Firebase Authentication.
     - email innskráðs notanda ( email )
     - hvenær innskráður notandi nýskráði sig fyrst ( createdAt ), íslenskt format dd.mm.áááá kk:mm:ss
     - hvenær innskráður notandi skráði sig inn síðast ( lastLoginAt ), íslenskt format dd.mm.áááá kk:mm:ss
