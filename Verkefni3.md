@@ -30,7 +30,7 @@
 ### Nánari verklýsing, námsmat og skil
 
 Einkunn:
-- 10
+- 10 
   - Sama og einkunn 9 + 
   - Auka virkni að eigin vali í samráði við kennara
 - 9
