@@ -3,8 +3,7 @@
 - Viðfangsefni:
   1. [Firebase Authentication](https://firebase.google.com/products/auth?gclid=Cj0KCQiAveebBhD_ARIsAFaAvrEtvE57H2m6H_lRneDW80cc-iUJLxlzvZRbKca57QR-9vnX0QwBLVwaAug8EALw_wcB&gclsrc=aw.ds).
   1. [WTForms](https://github.com/vefthroun/Namsefni/tree/main/WTForms) 
-  1. [Sessions](https://github.com/vefthroun/kennarar/tree/main/Namsefni/5-Cookies%26Sessions) _þarf að aðlaga efni að WTForm_
-     - Cookies/Session. bæta viðmeð WTormF til að muna user á milli innskráningar og admin forms.
+  1. [Sessions](https://github.com/vefthroun/kennarar/tree/main/Namsefni/5-Cookies%26Sessions)
   1. [Flash message](https://flask.palletsprojects.com/en/2.2.x/patterns/flashing/)
   1. [PureCSS Form](https://purecss.io/forms/)
   1. Datetime timestamp
