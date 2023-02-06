@@ -48,4 +48,4 @@
 1. Flash message (5%)
 1. PureCss og eigið (5%)
 
-Skilaðu þjappaðri (zip/rar) möppu með öllum skrám (ekki venv) á Innu.
+Skilaðu þjappaðri ( zip/rar ) möppu með öllum skrám (ekki venv) á Innu.
