@@ -41,7 +41,7 @@
 ### Námsmat og skil
 
 1. Uppsetning á Firebase Realtime gagnagrunn í test mode og samskipti við Python Flask app (5%) 
-1. Forsíða birtir gögn frá gagnagrunni fjáls framsetning (15%)
+1. Forsíða birtir gögn úr gagnagrunni frjáls framsetning (15%)
 1. Admin notandi skráir sig inn í kerfi og fer á Dashboard síðu, Dashboard hluti aðeins opin innskráðum notanda (25%)
     - WTForm
     - HTML tafla
