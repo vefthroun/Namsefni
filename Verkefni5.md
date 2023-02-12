@@ -53,4 +53,4 @@
 1. Admin notandi skráir sig út (5%)
 1. Uppsetning / framsetning með PureCSS og eigin CSS (10%)
 
-Skilaðu þjappaðri (zip/rar) möppu með öllum skrám (ekki venv) ásamt skjámynd af fb gagnagrunni á Innu.  **Hafðu admin notanda með email: admin@admin.is pass: 123456**
+Skilaðu þjappaðri (zip/rar) möppu með öllum skrám (ekki venv) ásamt skjámynd af fb gagnagrunni á Innu.  **Hafðu admin notanda með email: admin@admin.is pass: 123456 í Auth hluta Firebase**
