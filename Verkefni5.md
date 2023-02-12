@@ -29,9 +29,9 @@
     - Admin notandi þarf að geta skráð sig út
 - Sýnidæmi varðandi dýnamískar töflur:
     - [sýnidæmi 1](https://www.youtube.com/watch?v=mCy52I4exTU&ab_channel=teclado) (með tuples), [sýnidæmi 2](https://www.folkstalk.com/2022/09/jinja-table-template-with-code-examples.html) (með dictionary) og _[sýnidæmi 3](https://flask-table.readthedocs.io/en/stable/) (með class)_
-- Öll HTML formin skulu vera útfærð með WTForm klasanum ( Eiga að vera 2 form, 1 fyrir login á admin og 1 til að skrá nýjar upplýsingar í gagnagrunn).
+- Öll HTML formin skulu vera útfærð með WTForm klasanum ( Eiga að vera 2 form, 1 fyrir login á admin og 1 til að skrá nýjar upplýsingar í gagnagrunn ).
 - Form til að skrá inn nýjar upplýsingar verður að innihalda WYSIWYG HTML editor ( CKEditor ).
-- Notaðu alla Jinja Template virkni.
+- Notaðu alla Jinja Template virkni ( include / erfðir / filter ).
 - PureCSS fyrir uppsetningu og framsetningu ( Responsive Grid / Form / Table / Menu  ) og eigið CSS. 
 - Notaðu viðeigandi Jinja filter.
 - Engin harðkóðun og önnur CSS söfn eru ekki leyfð.
