@@ -45,7 +45,7 @@ Einkunn:
 
 - 10 
    - Vefurinn er hýstur (e. live production) með [PythonAnywhere](https://www.pythonanywhere.com/).
-   - Settu upp Firebase Realtime Database í locked mode með [security rules](https://medium.com/@juliomacr/10-firebase-realtime-database-rule-templates-d4894a118a98)   
+   - Settu upp Firebase Realtime Database í locked mode með [Security rules](https://medium.com/@juliomacr/10-firebase-realtime-database-rule-templates-d4894a118a98)   
    - Útfærðu upload virkni í formi fyrir ljósmyndir í [Cloud Storage Firebase](https://firebase.google.com/docs/storage?authuser=0)
 - 9
    - Admin notandi getur búið til nýjan flokk (dýnamískt).
