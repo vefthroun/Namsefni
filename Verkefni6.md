@@ -93,7 +93,7 @@ Einkunn:
         1. pistill (textarea)
         1. dagsetning (_timestamp_)
    - Myndir eru með vefslóðir, hýstar t.d. á imgur.com eða picsum.photos. 
-   - Valmynd inniheldur hlekkina; forsíða og flokkar, gögn koma úr lista.
+   - Valmynd inniheldur hlekkina; forsíða, login (fyrir admin) og flokka, gögn koma úr lista / dict í .py skrá.
    - Hægt er að velja flokk í valmynd sem birtir flokkaða pistla.
    - Jinja Template; breytur, lykkjunotkun, base og extends, include (head, footer, valmynd).
    - Static og dynamic route.
