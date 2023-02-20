@@ -76,10 +76,10 @@ Einkunn:
 - 5  
    - Valmynd inniheldur hlekkina; forsíða, flokkar (drop-down) og admin.
    - Pistlar eru birtir á forsíðu úr Firebase Realtime gagnagrunni. 
-   - Notaðu flash message til að láta vita að submit hafi tekist.   
-   - Notað er for_url fyrir linka.
-   - Notað er redirect þar sem það á við.
-   - Notað HTML Meta Refresh þar sem það á við.
+   - Nota flash message til að láta vita að submit hafi tekist.   
+   - Nota url_for fyrir linka.
+   - Nota redirect þar sem það á við.
+   - Nota HTML Meta Refresh þar sem það á við.
    - Forsíða. Hugað er að margin, padding, letur og leturgerð með CSS.
    - Rétt notkun á HTML elements (HTML tag). Sjá t.d. [HTML Best Practices](https://www.freecodecamp.org/news/html-best-practices/) og [HTML Style Guide](https://www.w3schools.com/html/html5_syntax.asp)
 - 4  
