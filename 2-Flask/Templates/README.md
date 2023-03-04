@@ -12,6 +12,7 @@ Hér eru 11 [kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/2
 1. [Loops & inheritance](https://youtu.be/APh3jdVryF0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04) (video)
 1. [Rendering Pages in Flask Using Jinja](https://hackersandslackers.com/flask-jinja-templates) _base með include nav_
 1. [Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)
+1. [Jinja templates - glósur](https://www.codecademy.com/learn/learn-flask/modules/flask-templates-and-forms/cheatsheet)
 
 ---
 
