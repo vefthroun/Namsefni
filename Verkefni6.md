@@ -72,7 +72,7 @@ Einkunn:
 - 5  
    - Flokkar í valmynd verða drop-down. 
    - Nota flash message til að láta vita að submit hafi tekist.   
-   - Nota url_for fyrir linka.
+   - Nota url_for fyrir linka og css.
    - Nota redirect þar sem það á við.
    - Nota HTML Meta Refresh þar sem það á við.
 - 4  
