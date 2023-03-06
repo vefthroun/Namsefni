@@ -74,7 +74,7 @@ Einkunn:
    - Nota flash message til að láta vita að submit hafi tekist.   
    - Nota url_for fyrir linka og css.
    - Nota redirect þar sem það á við.
-   - Nota HTML Meta Refresh þar sem það á við.
+   - Nota HTML Meta Refresh þar sem það á við ( valkvætt ).
 - 4  
    - Pistlar birtast á forsíðu koma úr Firebase Real Time Database.  Allir geta lesið.  Framsetning frjáls, dagsetning á íslensku formatti.     
    - Adminsvæði aðeins fyrir innskráðan admin notanda (user:admin@admin.is ,password:123456), upplýsingar geymdar á Firebase Authentication.
