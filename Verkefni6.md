@@ -67,21 +67,14 @@ Einkunn:
    - Valmynd inniheldur hlekkina; forsíða, flokkar (drop-down), admin, login og logout.
    - Notaðu macros (hjálparfall) til að losna við endurtekningar þegar WTForm er birt í Jinja template.
 - 6
-   - Pistlar eru skrifaðir með WTFormi í gagnagrunni og birtir á forsíðu. 
-   - Innskráning með WTForm og Firebase Authentication.
-   - Notað er flash message til að láta vita hvort innskráning tókst eða ekki.
-   - Logout takki til að útskrá admin notanda. 
-   - Valmynd inniheldur hlekkina; forsíða, flokkar (drop-down), admin, login og logout.
-   - CSS uppsetning og framsetning á Innskráningu er í lagi.
+   - Pistlar eru skrifaðir með WTForm í gagnagrunni / login einnig útfært með WTForm. 
+   - CKEditor eða sambærilegur notaður til að skrá nýjan pistil.
 - 5  
-   - Valmynd inniheldur hlekkina; forsíða, flokkar (drop-down) og admin.
-   - Pistlar eru birtir á forsíðu úr Firebase Realtime gagnagrunni. 
+   - Flokkar í valmynd verða drop-down. 
    - Nota flash message til að láta vita að submit hafi tekist.   
    - Nota url_for fyrir linka.
    - Nota redirect þar sem það á við.
    - Nota HTML Meta Refresh þar sem það á við.
-   - Forsíða. Hugað er að margin, padding, letur og leturgerð með CSS.
-   - Rétt notkun á HTML elements (HTML tag). Sjá t.d. [HTML Best Practices](https://www.freecodecamp.org/news/html-best-practices/) og [HTML Style Guide](https://www.w3schools.com/html/html5_syntax.asp)
 - 4  
    - Pistlar birtast á forsíðu koma úr Firebase Real Time Database.  Allir geta lesið.  Framsetning frjáls, dagsetning á íslensku formatti.     
    - Adminsvæði aðeins fyrir innskráðan admin notanda (user:admin@admin.is ,password:123456), upplýsingar geymdar á Firebase Authentication.
@@ -92,13 +85,14 @@ Einkunn:
         1. ljósmynd (url)
         1. pistill (textarea)
         1. dagsetning (_timestamp_)
+   - Admin getur skráð sig út ( logout )
    - Myndir eru með vefslóðir, hýstar t.d. á imgur.com eða picsum.photos. 
    - Valmynd inniheldur hlekkina; forsíða, login (fyrir admin) og flokka, gögn koma úr lista / dict í .py skrá.
    - Hægt er að velja flokk í valmynd sem birtir flokkaða pistla.
    - Jinja Template; breytur, lykkjunotkun, base og extends, include (head, footer, valmynd).
    - Static og dynamic route.
    - Error route og vefsíður fyrir 404 og 500 villumeldingar
-   - CSS uppsetning (eigin og PureCSS safn þar sem það á við).
+   - Vandað til verka með CSS uppsetningu (eigin og PureCSS safn þar sem það á við).
 - 3 
    - Engin harðkóðun.
    - Forsíða, gögn koma frá dictionary eða breytum.
