@@ -1,6 +1,6 @@
 ### VEFÞ2VF05CU
 - Haustönn 2023, spönn 1
-- [Kennsluáætlun](https://github.com/vefthroun/Namsefni/blob/main/VEFÞ2VF05CU_V23-1.pdf)
+- [Kennsluáætlun](https://github.com/vefthroun/Namsefni/blob/main/VEFÞ2VF05CU_H23-S1.pdf)
 
 ---
 
