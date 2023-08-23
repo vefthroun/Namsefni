@@ -24,7 +24,7 @@ Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hlu
 1. Undirsíða nr. 2 birtir gögn úr dict **(10%)**
 1. Jinja template fyrir vefsíður, breytur og lykkjur **(20%)**
 1. Static routing og 404 Error route **(20%)**
-1. Unnið með static skrár (myndir/css), notum url_for til að vísa í static skrárnar með réttum hætti **(10%)**
+1. Unnið með static skrár eins og myndir / css **(10%)**
 1. Eigið css safn eða t.d. [Barebones](https://acahir.github.io/Barebones/) eða svipað **(10%)**
 
 Skilaðu þjappaðri (zip/rar) möppu með öllum skrám (ekki venv möppu) á Innu.
