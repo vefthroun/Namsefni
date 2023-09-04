@@ -6,7 +6,7 @@
 - Viðfangsefni:
   - Notkun á [JSON](https://en.wikipedia.org/wiki/JSON) og [API](https://en.wikipedia.org/wiki/API_key)
   - Jinja Template: inheritance, skilyrði
-  - CSS Responsive Grid Layout með PureCSS
+  - CSS Responsive Grid Layout t.d. með Barebones
   - Eigið CSS 
 
 ---
