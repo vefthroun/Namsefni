@@ -61,7 +61,7 @@ Einkunn:
     - flokkar sem bíómynd tilheyrir (genre)
   - Jinja: erfðir, include, lúppur og skilyrði
   - engin harðkóðun í Jinja template
-  - frjáls PureCSS Responsive Grid uppsetning
+  - frjáls Barebones Responsive Grid uppsetning
   - smávægilegir hnökrar í útlitshönnun sleppa
 - 3
   - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
