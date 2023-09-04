@@ -49,7 +49,7 @@ Einkunn:
   - Sama og einkunn 4 + 
   - útgáfudagur bíómyndar (release_date), dagsetning á íslensku formatti
   - viðeigandi errorhandler routes    
-  - hnökralaus útlitshönnun (eigið CSS og PureCSS virkar að fullu)
+  - hnökralaus útlitshönnun (eigið CSS og t.d. Barebones virkar að fullu)
 - 4
   - forsíða birtir nafn (original_title) og mynd (poster_path) bíómyndar (static route)
   - undirsíða birtir nánari upplýsingar um valda bíómynd (dynamic route)
