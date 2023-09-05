@@ -14,7 +14,7 @@
 ### Verkefnalýsing
  
 1. Útfærðu vefforrit í Flask sem nýtir API.
-1. Notum [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction)  
+1. Notum [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction)  [Getting started](https://developer.themoviedb.org/docs/getting-started)[API reference](https://developer.themoviedb.org/reference/intro/getting-started)  
 1. Nemendur þurfa að skrá sig inn á síðuna (register) hér að ofan og sækja um API key.  Það kostar ekkert að skrá sig.
 1. Á forsíðu (index) skal birta grunn upplýsingar um 20 random bíómyndir.  Birta skal amk nafn og mynd.
 1. Ef valin er ein bíómynd af forsíðu er farið á undirsíðu sem birtir nánari upplýsingar um valda bíómynd.
