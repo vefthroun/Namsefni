@@ -1,18 +1,18 @@
 ### VEFÞ2VF05CU
 - Haustönn 2023, spönn 1
-- [Kennsluáætlun](https://github.com/vefthroun/Namsefni/blob/main/VEF%C3%9E2VF05CU_H23_S1.pdf)
+- [Kennsluáætlun](https://github.com/vefthroun/Namsefni/blob/main/VEF%C3%9E2VF05CU_H23_S2.pdf)
 
 ---
 
 #### Verkefni
 
 - [Verkefni 1](https://github.com/vefthroun/Namsefni/blob/main/Verkefni1.md)
+<!--
 - [Verkefni 2](https://github.com/vefthroun/Namsefni/blob/main/Verkefni2.md)
 - [Verkefni 3](https://github.com/vefthroun/Namsefni/blob/main/Verkefni3.md)
 - [Verkefni 4](https://github.com/vefthroun/Namsefni/blob/main/Verkefni4_h23_sp1.md)
 - [Verkefni 5](https://github.com/vefthroun/Namsefni/blob/main/Verkefni5_h23_sp1.md)
 - [Verkefni 6](https://github.com/vefthroun/Namsefni/blob/main/Verkefni6_h23_sp1.md)
-<!--
 - [Verkefni 6](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni6.md)
 -->
 ---
