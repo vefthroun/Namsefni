@@ -7,7 +7,7 @@
    1. Eigið CSS eða safn eins og Barebones 
 
 ### Verkefnalýsing 
-Útfærðu vörusíðuvef með Flask. Notaðu [gagnagrindina](#data) og myndir sem fylgja verkefninu. Notaðu [Barebones]([https://purecss.io/](https://acahir.github.io/Barebones/)) safnið fyrir uppsetningu og framsetningu á vef eða eigið CSS. Engin harðkóðun.
+Útfærðu vörusíðuvef með Flask. Notaðu [gagnagrindina](#data) og [myndir](https://github.com/vefthroun/Namsefni/tree/main/static) sem fylgja verkefninu. Notaðu [Barebones]([https://purecss.io/](https://acahir.github.io/Barebones/)) safnið fyrir uppsetningu og framsetningu á vef eða eigið CSS. Engin harðkóðun.
 
 Flask app (vefur) þarf að uppfylla eftirfarandi:
 
