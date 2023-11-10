@@ -16,6 +16,11 @@ There’s an amazing amount of data available on the Web. Many web services, lik
 - [REST API using Flask in 7 minutes](https://towardsdatascience.com/launch-your-own-rest-api-using-flask-python-in-7-minutes-c4373eb34239) _með Python, Flask og Sqlite3_
 
 
+#### FIX
+- [Fixing the SSL CERTIFICATE_VERIFY_FAILED Error](https://realpython.com/urllib-request/#fixing-the-ssl-certificate_verify_failed-error)
+
+
+
 
 <!--
 #### Senda og láta greina gögn, svar er JSON (gert í VESM3 áfanga)
