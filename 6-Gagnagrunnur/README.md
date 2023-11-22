@@ -47,7 +47,9 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 - [Pyrebase — Firebase in Flask](https://parasmani300.medium.com/pyrebase-firebase-in-flask-d249a065e0df)
 
 ---
-
+#### FIX
+- [Á Apple: no module name 'pkg_resources'](https://stackoverflow.com/questions/7446187/no-module-named-pkg-resources)
+---
 <!--
 1. [Flask app tenging við Firebase gagnagrunn og skrifa/lesa](https://youtu.be/NDCar59xGRI) _(13 mín)_
    - [kóðaskráin í videoinu](https://github.com/vefthroun/Namsefni/blob/main/6-Gagnagrunnur/Firebase/app.py)
