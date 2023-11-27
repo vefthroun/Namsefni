@@ -28,6 +28,7 @@
 1. [Form](https://github.com/vefthroun/Namsefni/blob/main/WTForms/Readme.md)
 1. [Firebase](https://github.com/vefthroun/Namsefni/tree/main/6-Gagnagrunnur#firebase)
 1. [Sessions](https://github.com/vefthroun/Namsefni/tree/main/5-Cookies%26Sessions)
+1. [CKEdotor](https://flask-ckeditor.readthedocs.io/en/latest/basic.html)
 1. [Lokaverkefni](https://github.com/vefthroun/Namsefni/blob/main/7-lokaverkefni/Readme.md)
 
 
