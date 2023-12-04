@@ -11,8 +11,8 @@
 - [Verkefni 3](https://github.com/vefthroun/Namsefni/blob/main/Verkefni3.md)
 - [Verkefni 4](https://github.com/vefthroun/Namsefni/blob/main/Verkefni4_h23_sp1.md)
 - [Verkefni 5](https://github.com/vefthroun/Namsefni/blob/main/Verkefni5_h23_sp1.md)
-<!--
 - [Verkefni 6](https://github.com/vefthroun/Namsefni/blob/main/Verkefni6_h23_sp1.md)
+<!--
 - [Verkefni 6](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni6.md)
 -->
 ---
