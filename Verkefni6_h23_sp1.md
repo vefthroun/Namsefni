@@ -48,7 +48,6 @@ Einkunn:
 - 10 
    - Vefurinn er hýstur (e. live production) með [PythonAnywhere](https://www.pythonanywhere.com/).
    - Settu upp Firebase Realtime Database í locked mode með [Security rules](https://medium.com/@juliomacr/10-firebase-realtime-database-rule-templates-d4894a118a98)   
-   - Útfærðu upload virkni í formi fyrir ljósmyndir í [Cloud Storage Firebase](https://firebase.google.com/docs/storage?authuser=0)
 - 9
    - Admin notandi getur búið til nýjan flokk (dýnamískt).
    - Öll framsetning á vef til fyrirmyndar og hnökralaus
@@ -56,12 +55,11 @@ Einkunn:
        - Hugað að textaframsetningu (letur og litaval, skerpa)
        - Hugað að framsetningu mynda (mátuleg stærð, myndir skalast rétt)
 - 8 
-   - Upload á ljósmynd í static möppu.
+   - Útfærðu upload virkni í formi fyrir ljósmyndir í [Cloud Storage Firebase](https://firebase.google.com/docs/storage?authuser=0)
    - Ljósmynd birtist með réttum hætti á forsíðu með réttum pistli.
 - 7 
     - Admin: 
-        - allir pistlar eru birtir og raðaðir eftir dagsetningum (nýjast efst)
-        - hnappur / hlekkur til að uppfæra og eyða pistil
+        - virkni til að uppfæra pistil
    - Admin hefur töfluuppsetningu með CSS ( Dashboard )
    - CRUD (Create, Read, Updade, Delete) aðgerðir með Pistla með HTML Formi í gagnagrunni og birtir á forsíðu. 
 - 6
@@ -80,6 +78,7 @@ Einkunn:
         1. flokkur
         1. pistill
         1. dagsetning (_íslenskt format_)
+   - Admin getur eytt völdum pistli 
    - Admin getur skráð sig út ( logout )
    - Valmynd inniheldur hlekkina; forsíða, login (fyrir admin) og flokka, gögn koma úr lista / dict í .py skrá.
    - Hægt er að velja flokk í valmynd sem birtir flokkaða pistla.
