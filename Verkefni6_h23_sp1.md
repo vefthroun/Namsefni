@@ -37,7 +37,7 @@ Efni vefsins má vera annað en nefnt er hér að ofan eins og fréttatengt efni
         1. ljósmynd 
         1. pistill 
         1. dagsetning 
-1. Vefsíður fyrir 404 og 500 villumeldingar.
+1. Vefsíður sem keyrðar eru undir errorhandler route t.d. 404.
 
 ---
 
