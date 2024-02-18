@@ -7,9 +7,8 @@ Allar þessar aðferðir þurfa bæði stuðning í vöfrum sem notaðir eru, en
 
 ---
 
-
-* [HTTP Basics](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+* [HTTP Basics](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * [HTTP skilaboð](https://httpstatuses.com/)
 * [HTTP3 the past present and future](https://blog.cloudflare.com/http3-the-past-present-and-future/)
 * [Network Monitor, Mozilla](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor)
