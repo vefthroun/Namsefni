@@ -4,7 +4,7 @@
 
 Query strengur er hluti af URL:
 
-<http://www.domain.com:80/path/to/resource**?id=5&name=Gunnar>**
+http://www.domain.com:80/path/to/resource**?id=5&name=Gunnar**
 
 http:// protocol [www.domain.com](http://www.domain.com/) host (hýsingaraðili)
 
