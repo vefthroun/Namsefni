@@ -1,10 +1,10 @@
 # Query String
 
-<https://en.wikipedia.org/wiki/Query_string>
+> https://en.wikipedia.org/wiki/Query_string
 
 Query strengur er hluti af URL:
 
-http://www.domain.com:80/path/to/resource**?id=5&name=Gunnar**
+> http://www.domain.com:80/path/to/resource?id=5&name=Gunnar
 
 http:// protocol [www.domain.com](http://www.domain.com/) host (hýsingaraðili)
 
