@@ -8,11 +8,11 @@ Query strengur er hluti af URL:
 
 http:// protocol [www.domain.com](http://www.domain.com/) host (hýsingaraðili)
 
-80 port
+#### 80 port
 
-/path/to/resource resource path
+#### /path/to/resource resource path
 
-# ?id=1&name=Gunnar query
+#### ?id=1&name=Gunnar query
 
 Það sem kemur á eftir spurningamerki **?** eru gögn, breytur sem innihalda gildi. Breytan **id** geymir gildið **5** og breytan **name** geymir gildið **Gunnar**. Þessi gögn eru sett fram í key/ value pörum. **&** sértáknið er notað til að aðgreina pörin.
 
