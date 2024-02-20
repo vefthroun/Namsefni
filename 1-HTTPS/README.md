@@ -16,5 +16,8 @@ Allar þessar aðferðir þurfa bæði stuðning í vöfrum sem notaðir eru, en
 
 ---
 
+[Routing og Python](https://wiki.python.org/moin/Routing)
+[Routing útfært í Flask](https://flask.palletsprojects.com/en/3.0.x/quickstart/)
+
 
 
