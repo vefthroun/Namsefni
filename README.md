@@ -1,4 +1,4 @@
-### VEFÞ2VF05CU
+## VEFÞ2VF05CU
 
 - Vorönn 2024, spönn 2.
 - [Námsáætlun](VEFÞ2VF05CU_V24_S2.pdf)
