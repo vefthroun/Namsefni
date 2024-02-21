@@ -1,6 +1,7 @@
 ### VEFÞ2VF05CU
-- Vorönn 2024, spönn 1
-- [Kennsluáætlun]()
+
+- Vorönn 2024, spönn 2.
+- [Kennsluáætlun](VEFÞ2VF05CU.pdf)
 
 ---
 
