@@ -7,15 +7,17 @@ Allar þessar aðferðir þurfa bæði stuðning í vöfrum sem notaðir eru, en
 
 ---
 
-
-* [HTTP Basics](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-* [HTTP skilaboð](https://httpstatuses.com/)
+* [HTTP Basics](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * [HTTP3 the past present and future](https://blog.cloudflare.com/http3-the-past-present-and-future/)
 * [Network Monitor, Mozilla](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor)
 * [Network Monitor, Google](https://developer.chrome.com/docs/devtools/network/)
+* [HTTP skilaboð _Status Qoutes_](https://httpstatuses.com/)
 
 ---
+
+- [Routing og Python](https://wiki.python.org/moin/Routing)
+- [Routing útfært í Flask](https://flask.palletsprojects.com/en/3.0.x/quickstart/)
 
 
 
