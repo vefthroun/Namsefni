@@ -9,6 +9,7 @@
 - [milligram](https://milligram.io/) 
    - notar ekk class í html (fyrir utan layout) 
    - CSS class grids kerfi með %, mobile first https://milligram.io/tips.html byggt á flexbox
+   - byggt á SCSS grunn
 - [purecss](https://purecss.io/)
    - notar class í html. 
    - responsive, hægt að bæta við klass fyrir mediaquery
