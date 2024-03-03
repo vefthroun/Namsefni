@@ -4,6 +4,7 @@
 * [Form](WTForms/Readme.md)
 * [TinyMCE textaritill](TinyMCE/README.md)
 * [Dagsetningar og tími í python](datetime.md)
+* [CRUD](CRUD_Kodabutar.py)
 * [Flask glósur (pdf)](flask_cheatsheat.pdf)
 
 ---
