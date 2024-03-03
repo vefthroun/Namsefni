@@ -6,7 +6,7 @@
 | --- | --- | --- | --- | --- | 
 | 10 | --- | --- |  Git - vinnuumhverfi | Python - virtual environment, Flask Uppsetning |
 | 11 | Static Routing | Jinja: breytur, dictionary | Listi og lykkja | V1 |
-| 12 | Data Structure: listi með dict | Dynamic Route  | Jinja: templates | Jinja: include |
+| 12 | Data Structure: listi með dict | Dynamic Route  | Jinja: templates | V2 |
 | 13 | _Páskafrí_ | --- | --- | --- |
 | 14 | --- | --- | JSON |  V3 |
 | 15 |  API | TMDB | Jinja: inheritance  | V3 |
