@@ -1,6 +1,14 @@
 ## Ýmislegt
 
-1. [Bundling JavaScript and CSS Files in Flask Using Flask-Assets](https://www.youtube.com/watch?v=HYO6GNOJMmQ&list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04&index=6)
+* [CSS stílsíður](CSSLibraries.md)
+* [Form](WTForms/Readme.md)
+* [TinyMCE textaritill](TinyMCE/README.md)
+* [Dagsetningar og tími í python](datetime.md)
+* [Flask glósur (pdf)](flask_cheatsheat.pdf)
 
-1. [Git umsjónarkerfið](Git.md)
-1. [CSS stílsíður](CSS.md)
+---
+
+* [Git umsjónarkerfið](Git.md)
+* [Bundling JavaScript and CSS Files in Flask Using Flask-Assets](https://www.youtube.com/watch?v=HYO6GNOJMmQ&list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04&index=6)
+
+
