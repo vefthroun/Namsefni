@@ -5,7 +5,7 @@
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
 | 10 | --- | --- |  Git - vinnuumhverfi | Python - virtual environment, Flask Uppsetning |
-| 11 | Static Routing | Jinja: breytur, dictionary, listi og lykkja | V1 |
+| 11 | Static Routing | Jinja: breytur, dictionary | Listi og lykkja | V1 |
 | 12 | Data Structure: listi með dict | Dynamic Route  | Jinja: templates | Jinja: include |
 | 13 | _Páskafrí_ | --- | --- | --- |
 | 14 | --- | --- | JSON | JSON |
