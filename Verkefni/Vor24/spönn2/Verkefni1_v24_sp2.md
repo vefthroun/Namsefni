@@ -8,9 +8,9 @@
 1. Stilltu og notaðu [VSCode](https://github.com/vefthroun/Namsefni/blob/main/2-Flask/Readme.md#vs-code-ritill-python-og-venv) editor.
 
 #### 2. Einfalt Flask app - 3 síður  
-Útfærðu einfaldan vef með Flask. Vefurinn inniheldur 3 síður (_app.route_); 1 forsíða og 2 undirsíður.  Efni vefsíðu er valfrjálst (þema)
-   1. Forsíðan (index) inniheldur virka hlekki á 2 undirsíður. Þegar smellt er á hvorn hlekk fyrir sig er farið á viðkomandi undirsíðu. Efni forsíðu tengist þema (sjá hér fyrir ofan).  Hlekkirnir 2 skulu vera í snyrtilegri valmynd.  Gögn valmyndar skulu geymd í gagnagrind (list/dict/tuple) í app.py skrá, má ekki harðkóða.
-   2. Fyrri undirsíðan á að hafa fyrirsögn sem tengist efni sem kemur fyrir á síðu.  Einnig á að birta gögn úr lista (list) sem geymdur er í app.py skrá.  Birtið gögnin í röðuðum lista (ol) í HTML.  Gögnin í lista tengjast þema.  Á þessari síðu á einni að birta mynd úr static möppu sem tengist innihaldi vefsíðu.
+Útfærðu einfaldan vef með Flask. Vefurinn inniheldur 3 síður (_app.route_); 1 forsíða og 2 undirsíður.  Efni vefsíðu er valfrjálst ( þema )
+   1. Forsíðan (index) inniheldur virka hlekki á 2 undirsíður. Þegar smellt er á hvorn hlekk fyrir sig er farið á viðkomandi undirsíðu. Efni forsíðu tengist þema ( sjá hér fyrir ofan ).  Hlekkirnir 2 skulu vera í snyrtilegri valmynd.  Gögn valmyndar skulu geymd í gagnagrind (list/dict/tuple) í app.py skrá, má ekki harðkóða.
+   2. Fyrri undirsíðan á að hafa fyrirsögn sem tengist efni sem kemur fyrir á síðu.  Einnig á að birta gögn úr lista (list) sem geymdur er í app.py skrá.  Birtið gögnin í röðuðum lista ( ol ) í HTML.  Gögnin í lista tengjast þema.  Á þessari síðu á einni að birta mynd úr static möppu sem tengist innihaldi vefsíðu.
    3. Seinni undirsíðan birtir persónuupplýsingar eins og t.d. nafn, aldur, netfang og áhugamál.  Þessi gögn eru geymd í dict (dictionary)  í app.py skrá.
 
 ---
