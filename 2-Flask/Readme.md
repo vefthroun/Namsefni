@@ -10,7 +10,7 @@
 ---
 
 ### Uppsetning á Flask
--  Mac/Windows [Flask installation](https://flask.palletsprojects.com/en/2.2.x/installation/) leiðbeiningar.
+-  Mac/Windows [Flask installation](https://flask.palletsprojects.com/en/2.3.x/installation/) leiðbeiningar.
 
 #### Windows leiðbeiningar (t.d. með Power Shell)
 1. Þú þarft að hafa nýlega stöðuga (stable) útgáfu af python þýðanda.
