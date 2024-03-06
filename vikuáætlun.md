@@ -13,5 +13,5 @@
 | 16 | Form.request | Sessions | FB Authentic |  V4 |
 | 17 | --- | ---| Firebase | V5 |
 | 18 | CRUD | CKEditor | Jinja: filters | V5 |
-| 19 | Storage og upload | Templates/Blog | V6 | V6 | 
+| 19 | Storage og upload | V6 | V6 | V6 | 
 | 20 | PythonAnywhere Vefur | V6 | _Námsmat_ | _Námsmat_ |
