@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 """
 Hægt er að búa til URL sem eru dýnamísk (ekki harðkóðuð).
-https://flask.palletsprojects.com/en/2.1.x/quickstart/#variable-rules
+https://flask.palletsprojects.com/en/2.3.x/quickstart/#variable-rules
 """
 
 # Parameters can be used when creating routes. 
