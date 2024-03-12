@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    users = ['Gunnar', 'Daníel']
+    users = ['Gunnar', 'Daníel', 'Guðmundur','Sigríður']
     return render_template('template3.html', users=users)
 
 if __name__ == '__main__':

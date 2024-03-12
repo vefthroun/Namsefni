@@ -7,7 +7,8 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     # data
-    company = "Apple"   # company = "Microsoft"
+    #company = "Apple"   # 
+    company = "Google"
     return render_template("template5.html", title="skilyrðissetningar", company=company)
 
 if __name__ == '__main__':

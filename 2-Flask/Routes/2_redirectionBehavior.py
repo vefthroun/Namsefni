@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 """
 Unique URLs / Redirection Behavior: 
-https://flask.palletsprojects.com/en/2.1.x/quickstart/#unique-urls-redirection-behavior
+https://flask.palletsprojects.com/en/2.3.x/quickstart/#unique-urls-redirection-behavior
 """
 
 # Ef þú slærð inn vefslóð án skástriks í enda (/projects) þá mun Flask e. redirect á /projects/

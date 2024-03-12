@@ -14,9 +14,10 @@ def index():
         "Spain": "Churros",
         "Japan": "Sushi",
         "India": "Dosa",
+        'Iceland': 'Hákarl'
     }
 
-    return render_template("template4.html", cuisines=cuisines)
+    return render_template("template4.html", cuisines=cuisines) 
 
 if __name__ == '__main__':
   app.run(debug=True, use_reloader=True)  
