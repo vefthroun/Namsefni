@@ -22,7 +22,7 @@ Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hlu
 1. Forsíða (index) inniheldur texta í tengslum við innihald vefsíðu  og valmynd með 2 hlekki á undirsíður **(10%)**
 1. Undirsíða nr. 1 birtir gögn úr lista og mynd í static möppu **(15%)**
 1. Undirsíða nr. 2 birtir gögn úr dict **(15%)**
-1. Jinja template fyrir vefsíður, breytur og lykkjur **(20%)**
+1. [Jinja template](https://jinja.palletsprojects.com/en/3.0.x/) fyrir vefsíður, breytur og lykkjur **(20%)**
 1. Static routing og 404 Error route **(10%)**
 1. Unnið með static skrár eins og myndir / css **(10%)**
 1. Eigið css safn eða t.d. [New CSS](https://newcss.net/) eða svipað **(10%)**
