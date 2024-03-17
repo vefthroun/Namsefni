@@ -42,7 +42,7 @@ data = {
 	}]
 }
 # print(data["results"])  			# listi
-# print(data["results"][0]) 			# fyrsta stak (dictionary) í lista
+print(data["results"][3]) 			# fyrsta stak (dictionary) í lista
 # print(data["results"][1]) 			# annað stak (dictionary) í lista
 # print(data["results"][0]["shortName"])  	# ISK gildið sem shortName (Key) vísar á í dictionary
 # print(data["results"][0].shortName) 		# virkar í Jinja template en ekki í python, auðvelt að ruglast
