@@ -59,3 +59,4 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 * [Certify](https://certifi.io/)
 
 ---
+[How to Open TMDB account and Get TMDB API](https://www.youtube.com/watch?v=dCkVqY9MdUo)
