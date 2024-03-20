@@ -14,6 +14,8 @@
 
 ![mynd 1](log-6.jpg)
 
+Hér velur þú "Developer", lest síðan gaumgæfilega skilmálana og samþykkir þá.
+
 ![mynd 1](log-7.jpg)
 
 ![mynd 1](log-8.jpg)
