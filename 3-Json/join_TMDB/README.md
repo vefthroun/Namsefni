@@ -28,7 +28,7 @@
 
 ![mynd 1](log-14.jpg)
 
-Ef þú vilt skoða valda json gagnagrind þá afritar þú urlið (í línu 3) og límir það í innsláttarreitinn í vafra ásamt Api_key:......
+Í vinsrti dálknum er hægt að velja alskonar gagnagrindur. Ef þú vilt skoða valda json gagnagrind t.d. Trending TV þá afritar þú urlið (í línu 3) úr kóðanum í hægri dálkinum og límir það í innsláttarreitinn í vafra ásamt **Api_key**:......
 
 ![mynd 1](log-15.jpg)
 
