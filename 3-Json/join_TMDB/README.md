@@ -28,6 +28,10 @@
 
 ![mynd 1](log-14.jpg)
 
+Ef þú vilt skoða valda json gagnagrind þá afritar þú urlið (í línu 3) og límir það í innsláttarreitinn í vafra ásamt Api_key:......
+
 ![mynd 1](log-15.jpg)
+
+Það er hægt að skoða json skrána á tmdb vefsíðunni ef þú velur API Key Auth og smellir á *Try It!* 
 
 ![mynd 1](log-16.jpg)
