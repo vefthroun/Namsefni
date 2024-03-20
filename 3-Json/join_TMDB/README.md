@@ -20,6 +20,8 @@ Hér velur þú "Developer", lest síðan gaumgæfilega skilmálana og samþykki
 
 ![mynd 1](log-8.jpg)
 
+Þá þarf að fylla út form og það er skynsamlegt að fylla út reitina með eftirfarandi hætti ásamt nafni ykkar og tölvupóstfangi.
+
 ![mynd 1](log-9.jpg)
 
 ![mynd 1](log-10.jpg)
