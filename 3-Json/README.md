@@ -56,5 +56,7 @@ JSON er læsilegt og vinsælt gagnsnið á manna máli. JSON er notað með ýms
 
 * [JSON Support in Flask](https://tedboy.github.io/flask/interface_api.json_support.html#module-flask.json)
 * [flask.jsonify](https://tedboy.github.io/flask/generated/flask.jsonify.html)
+* [Certify](https://certifi.io/)
 
 ---
+[How to Open TMDB account and Get TMDB API](https://www.youtube.com/watch?v=dCkVqY9MdUo)
