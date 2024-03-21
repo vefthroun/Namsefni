@@ -41,4 +41,4 @@ Hér velur þú "Developer", lest síðan gaumgæfilega skilmálana og samþykki
 ![mynd 1](log-16.jpg)
 
 ---
-### [TMDB Logo ofl](https://www.themoviedb.org/about/logos-attribution)
+### [TMDB FAQ, Logo ofl](https://www.themoviedb.org/about/logos-attribution)
