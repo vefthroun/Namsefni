@@ -14,7 +14,7 @@
  
 1. Útfærðu vefforrit í Flask sem nýtir API.
 1. Notum [The Movie Database API](https://www.themoviedb.org/) / [Getting started](https://developer.themoviedb.org/docs/getting-started) / [API reference](https://developer.themoviedb.org/reference/intro/getting-started)  
-1. Nemendur þurfa að skrá sig inn á síðuna (register) hér að ofan og sækja um API key.  Það kostar ekkert að skrá sig.
+1. Nemendur þurfa að [skrá sig inn á síðuna (register)](https://github.com/vefthroun/Namsefni/tree/main/3-Json/join_TMDB) hér að ofan og sækja um API key.  _Það kostar ekkert að skrá sig_.
 1. Á forsíðu (index) skal birta grunn upplýsingar um 20 random þáttaraðir.  Birta skal amk nafn og mynd.
 1. Ef valin er ein þáttaröð af forsíðu er farið á undirsíðu sem birtir nánari upplýsingar um valda þáttaröð.
 1. **Engin harðkóðun** til að standast grunnkröfur.
