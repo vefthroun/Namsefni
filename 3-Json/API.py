@@ -6,19 +6,19 @@ import urllib.request
 app = Flask(__name__)
 
 # Sækjum gengi
-with urllib.request.urlopen("http://apis.is/currency/") as response:
+with urllib.request.urlopen("https://apis.is/currency/arion") as response:
     data = json.loads(response.read())
 
 # læsilegra
 print (json.dumps(data, indent=2))
-
+'''
 @app.route('/')
 def currency():
     return render_template('gengi.html', data=data)
 
 if __name__ == "__main__":
     app.run(debug=True, use_reloader=True)
-
+'''
 """
 
 # gengi.html

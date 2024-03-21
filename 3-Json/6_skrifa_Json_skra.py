@@ -11,7 +11,7 @@ bekkur = {
 print(bekkur) # debug
 
 # Bætum við nemanda í listann, dict. færslu 
-bekkur['nemandi'].append({'nafn':'Alex','braut':'tbr19'})
+bekkur['nemandi'].append({'nafn':'Jón','braut':'tbr19'})
 
 # Lúppum i gegnum listann
 # key 'nemandi' er listi með dictionaries.
