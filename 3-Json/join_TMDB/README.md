@@ -32,7 +32,7 @@ Hér velur þú "Developer", lest síðan gaumgæfilega skilmálana og samþykki
 
 ![mynd 1](log-14.jpg)
 
-Í vinsrti dálknum er hægt að velja alskonar gagnagrindur. Ef þú vilt skoða valda json gagnagrind t.d. Trending TV þá afritar þú urlið (í línu 3) úr kóðanum í hægri dálkinum og límir það í innsláttarreitinn í vafra ásamt  [**Api_key**](https://api.themoviedb.org/3/trending/tv/week?language=en-US&api_key=90592f9784ec535091c0163bc2d2df0b)
+Í vinsrti dálknum er hægt að velja alskonar gagnagrindur. Ef þú vilt skoða valda json gagnagrind t.d. Trending TV þá afritar þú urlið (í línu 3) úr kóðanum í hægri dálkinum og límir það í innsláttarreitinn í vafra ásamt  [**Api_key**](https://api.themoviedb.org/3/trending/tv/week?language=en-US&api_key=(ykkar_lykill))
 
 ![mynd 1](log-15.jpg)
 
