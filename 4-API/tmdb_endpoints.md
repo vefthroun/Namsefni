@@ -1,3 +1,6 @@
+## Genre
+https://api.themoviedb.org/3/genre/tv/list?language=en&api_key=(þinn lykill)
+
 ## Discover
 https://api.themoviedb.org/3/discover/tv?api_key=(þinn lykill)&page=2
 
