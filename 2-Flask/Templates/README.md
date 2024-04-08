@@ -27,13 +27,15 @@ Hér eru 11 [kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/2
 * [vefgrein: Extensions](http://jinja.pocoo.org/docs/2.11/extensions/)
 -->
 
-<!--
+
 #### Jinja Filters
+* [Jinja2](https://tedboy.github.io/jinja2/index.html)
 * [Filters](https://jinja.palletsprojects.com/en/3.0.x/templates/#list-of-builtin-filters)
+* [Datetime](https://riptutorial.com/flask/example/4779/format-datetime-in-a-jinja2-template)
+<!--
 * [Builtin Filters](http://jinja.pocoo.org/docs/2.11/templates/#builtin-filters)
 * [Filters](https://www.webforefront.com/django/usebuiltinjinjafilters.html)
 * [Custom Filters](http://jinja.pocoo.org/docs/2.11/api/#custom-filters)
 * [Video](https://www.youtube.com/watch?v=H7StWE1ecrU)
-* [Datetime](https://riptutorial.com/flask/example/4779/format-datetime-in-a-jinja2-template)
 
 -->
