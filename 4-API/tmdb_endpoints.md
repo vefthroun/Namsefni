@@ -29,5 +29,5 @@ https://api.themoviedb.org/3/genre/tv/list?language=en&api_key=(þinn lykill)
 ## fá random myndir í völdum flokk
 https://api.themoviedb.org/3/discover/movie?api_key=(þinn lykill)&with_genres=" + str(id) + "&page=" + str(random.randint(1, 500))
 
-## Bæta við eftir vali - Append to responce
+## Bæta við eftir vali - Append to response
 https://developer.themoviedb.org/docs/append-to-response
