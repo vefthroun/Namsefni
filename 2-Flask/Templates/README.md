@@ -29,9 +29,10 @@ Hér eru 11 [kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/2
 
 
 #### Jinja Filters
-* [Jinja2](https://tedboy.github.io/jinja2/index.html)
+
 * [Filters](https://jinja.palletsprojects.com/en/3.0.x/templates/#list-of-builtin-filters)
-* [Datetime](https://riptutorial.com/flask/example/4779/format-datetime-in-a-jinja2-template)
+* [Format Datetime in Jinja2](https://riptutorial.com/flask/example/4779/format-datetime-in-a-jinja2-template)
+* [Jinja2](https://tedboy.github.io/jinja2/index.html)
 <!--
 * [Builtin Filters](http://jinja.pocoo.org/docs/2.11/templates/#builtin-filters)
 * [Filters](https://www.webforefront.com/django/usebuiltinjinjafilters.html)
