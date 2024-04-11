@@ -54,6 +54,10 @@ Verðum að gera ``` pip install pyrebase4 ``` í Bash console inn á pythonanyw
 
 * [How to deploy a Python (Flask) web app on a (PythonAnywhere) live server](https://www.youtube.com/watch?v=75-oCKUx3oU) _myndband_
 
+---
+
+### Deployment og hýsing á [Vercel](https://vercel.com/pricing)
+* [Simple Guide](https://blog.stackademic.com/simple-guide-on-deploying-python-flask-api-on-vercel-free-of-cost-2c8bd983a40b)
 
 <!--
 
