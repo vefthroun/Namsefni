@@ -4,7 +4,6 @@
   1. [Firebase Authentication](https://firebase.google.com/products/auth?gclid=Cj0KCQiAveebBhD_ARIsAFaAvrEtvE57H2m6H_lRneDW80cc-iUJLxlzvZRbKca57QR-9vnX0QwBLVwaAug8EALw_wcB&gclsrc=aw.ds).
   1. [HTML Forms](https://www.w3schools.com/html/html_forms.asp) 
   1. [Sessions](https://github.com/vefthroun/kennarar/tree/main/Namsefni/5-Cookies%26Sessions)
-  1. [New.css](https://newcss.net/)
   1. [Datetime timestamp](https://www.programiz.com/python-programming/datetime/timestamp-datetime)
    
   
@@ -21,7 +20,7 @@
 1. Notaðu session til aðgansstýringar.
 1. Útfærðu útskráningar virkni (eyða session).
 1. Notaðu alla eiginleika Jinja template úr fyrri verkefnum.
-1. Notaðu New.css, eigið css eða annað fyrir framsetningu. 
+1. Notaðu [New.css](https://newcss.net/), eigið css eða annað fyrir framsetningu. 
 1. Engin harðkóðun.
 
 ---
