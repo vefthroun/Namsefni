@@ -16,7 +16,7 @@ def cookies():
     resp.set_cookie(
         "flavor2", 
         value="chocolate chip",
-        max_age=10
+        max_age=1
     )
 
     # skilar "Cookies" streng
