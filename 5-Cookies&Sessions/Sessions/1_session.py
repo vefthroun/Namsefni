@@ -35,7 +35,6 @@ def add(id):
         session['cart_items'] = karfa
         # skoðum
         print(session['cart_items'])
-    # ef karfan er tóm
     else:
         # bætum vöruid í körfu (dictionary)
         karfa.append(vorur[id])
@@ -54,9 +53,15 @@ def karfa():
     if 'cart_items' in session:
         karfa = session['cart_items']
         print(karfa)
-        return "sjá körfu í console"
-    # Karfan er tóm
+        return render_template('karfa.html', karfa=karfa)
+    # Ef karfan er tóm
     else:
         return "Karfan er tóm!"
+    
+@app.route("/popnone")
+def eyda():
+    session.pop('karfa',None)
+    return redirect('index')
+    
 if __name__ == "__main__":
     app.run(debug=True, use_reloader=True)
