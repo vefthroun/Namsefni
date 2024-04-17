@@ -1,7 +1,9 @@
-
 # https://github.com/nhorvath/Pyrebase4
 import pyrebase # þarf pip3 install pyrebase4 
+# Python pyrebase Error : No module named pkg_resources 
+# pip install setuptools
 
+from pprint import pprint 
 
 # stillingar til að tengjast firebase realtime database á firebase.google.com 
 firebaseConfig = {
@@ -23,7 +25,7 @@ password=input("enter password")
 try:
     user = auth.sign_in_with_email_and_password(email, password) 
     print("Successfully signed in!")
-    print(user)
+    pprint(user)
 except:
     print("Invalid user or password. Try Again!")
 
