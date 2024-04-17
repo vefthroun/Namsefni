@@ -16,8 +16,6 @@ data1 = {"age": 40, "address": "Tækniskólinn", "employed": True, "name": "Dan�
 data2 = {"age": 35, "address": "Tækniskólinn", "employed": True, "name": "Gunnar"}
 data3 = {"age": 50, "address": "Tækniskólinn", "employed": True, "name": "Konráð"}
 
-
-
 # Write
 
 # Þetta kemur samt ekki í veg fyrir duplicate data, þar sem einkvæmur lykill er auto generated
@@ -27,8 +25,6 @@ db.child("teachers").push(data2)
 # að skrifa gögn með einkvæmnum lykli (konni) sem ég bý til (ekki auto generated).
 db.child("teachers").child("konni").set(data3) 
 # ef ég keyri þessa aðgerð aftur, þá eru gögn yfirskrifuð.
-
-
 
 # Update
 # update býr til ný eigindi ef það er ekki til fyrir. 
@@ -45,17 +41,12 @@ for kennari in kennarar.each():
         print(kennari.key()) # fæ einkvæman lykil
         print(kennari.val()) # fæ dictionary 
 
-
-	
 # Delete
 
 # fjarlægja eigindi, aldur hja Konna með þekkt key
 db.child("teachers").child("konni").child("age").remove()
 # fjarlægja node, Konni með þekkt key
 db.child("teachers").child("konni").remove()
-
-
-
 
 # Read 
 
@@ -76,9 +67,6 @@ print(kennarar)
 kennari = db.child("teachers").child("konni").get().val()
 kennaralisti = list(kennari.items())  # breytum í lista með tuples
 print(kennaralisti) # [('address', 'Tækniskólinn'), ('age', 60), ('employed', True), ('name', 'Konráð')]
-
-
-
 
 # Condtitional Requests
 # Pyrebase:  https://github.com/nhorvath/Pyrebase4#conditional-requests
