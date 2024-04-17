@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # session lykill
 app.secret_key = os.urandom(8)
-# print(os.urandom(8))
+print(os.urandom(8))
 
 # id, heiti, mynd, verð
 vorur = [
@@ -34,14 +34,14 @@ def add(id):
         # uppfærum session
         session['cart_items'] = karfa
         # skoðum
-        print(session['cart_items'])
+        #print(session['cart_items'])
     else:
         # bætum vöruid í körfu (dictionary)
         karfa.append(vorur[id])
         # bætum vöruid í session
         session['cart_items'] = karfa
         # skoðum 
-        print(session['cart_items'])
+        #print(session['cart_items'])
     # förum aftur á forsíðuna
     return redirect('/index')
 
@@ -52,7 +52,7 @@ def karfa():
     # Karfan er ekki tóm
     if 'cart_items' in session:
         karfa = session['cart_items']
-        print(karfa)
+        #print(karfa)
         return render_template('karfa.html', karfa=karfa)
     # Ef karfan er tóm
     else:
@@ -60,7 +60,12 @@ def karfa():
     
 @app.route("/popnone")
 def eyda():
-    session.pop('karfa',None)
+    karfa = []
+    # Karfan er ekki tóm
+    if 'cart_items' in session:
+        karfa = session['cart_items']
+        print(karfa)
+        session.pop('karfa',None)
     return redirect('index')
     
 if __name__ == "__main__":
