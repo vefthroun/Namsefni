@@ -10,8 +10,8 @@
 - [Verkefni 2](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Vor24/sp%C3%B6nn2/Verkefni2_v24_sp2.md)
 - [Verkefni 3](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Vor24/sp%C3%B6nn2/Verkefni3_v24_sp2.md)
 - [Verkefni 4](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Vor24/sp%C3%B6nn2/Verkefni4_v24_sp2.md)
+- [Verkefni 5](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Vor24/sp%C3%B6nn2/Verkefni5_v24_sp2.md)
 <!--
-- [Verkefni 5](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni5_h24.md)
 - [Verkefni 6](https://github.com/vefthroun/Namsefni/blob/main/Verkefni/Verkefni6_h24.md)
 -->
 ---
