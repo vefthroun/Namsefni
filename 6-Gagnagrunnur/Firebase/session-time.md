@@ -54,3 +54,6 @@ Ef _session_ er til þá náum við í upplýsingarnar úr idToken
         flash("Þú þarft að vera innskráður til að komast í ritstjórn") # Ef _session_ fylgir ekki með
         return render_template("404.html")
 ```
+
+- Python strptime: https://www.programiz.com/python-programming/datetime/strptime
+- Flash skilaðboð: https://flask.palletsprojects.com/en/2.3.x/patterns/flashing/
