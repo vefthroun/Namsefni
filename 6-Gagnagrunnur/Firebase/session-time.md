@@ -28,11 +28,17 @@
                                   'rawId': 'test@test.is'}],
             'validSince': '1713347947'}]}
 ```
+Þessar upplýsingar getum við flutt inn í _session_
 
+> session['Innskráður'] = info
+
+og sendum _session_ á route sem tjékkar á hvort _session_ sé með eða ekki. 
+
+Ef _session_ er til þá náum við í upplýsingarnar úr idToken  
 
 ```python
     if 'Innskráður' in session:
-        user = session['Innskráður']['users']
+        user = session['Innskráður']['users'] #idToken
         timest=user[0]["createdAt"] # ná í timestamp
         timinn=int(timest)          # breyta í numbers
         timidate=datetime.fromtimestamp(timinn/1000) # /1000 losna við millisek
@@ -45,6 +51,6 @@
         
         return render_template("editor.html", firsttime=time, timelog=timelog, t=title)
     else:
-        flash("Þú þarft að vera innskráður til að komast í ritstjórn")
+        flash("Þú þarft að vera innskráður til að komast í ritstjórn") # Ef _session_ fylgir ekki með
         return render_template("404.html")
 ```
