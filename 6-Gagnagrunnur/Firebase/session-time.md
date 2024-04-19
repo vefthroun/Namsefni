@@ -10,7 +10,7 @@
 
 `pprint(info)`
 
-```JSON
+```
 
 {'kind': 'identitytoolkit#GetAccountInfoResponse',
  'users': [{'createdAt': '1713347947517',
