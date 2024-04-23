@@ -57,6 +57,7 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 #### FIX
 
 - [Problem: no module name 'pkg_resources'](https://stackoverflow.com/questions/7446187/no-module-named-pkg-resources)
+   - `pip install setuptools` 
 
 ---
 
