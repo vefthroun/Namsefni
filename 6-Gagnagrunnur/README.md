@@ -43,8 +43,14 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 
 ### Vefgreinar (Pyrebase)
 
-- [How to parse Pyrebase OrderedDict](https://stackoverflow.com/questions/51976401/how-to-parse-pyrebase-ordereddict/51989082)
 - [Pyrebase — Firebase in Flask](https://parasmani300.medium.com/pyrebase-firebase-in-flask-d249a065e0df)
+- [How to parse Pyrebase OrderedDict](https://stackoverflow.com/questions/51976401/how-to-parse-pyrebase-ordereddict/51989082)
+
+---
+
+### CKEditor
+
+- [How To Add A Rich Text Editor - Flask](https://www.youtube.com/watch?v=5jnAnnxZGQQ)
 
 ---
 
@@ -54,9 +60,7 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 
 ---
 
-### CKEditor
 
-- [How To Add A Rich Text Editor - Flask](https://www.youtube.com/watch?v=5jnAnnxZGQQ)
 
 <!--
 1. [Flask app tenging við Firebase gagnagrunn og skrifa/lesa](https://youtu.be/NDCar59xGRI) _(13 mín)_
