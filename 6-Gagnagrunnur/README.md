@@ -37,7 +37,7 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
    - 00:48:43 - Realtime Database CRUD: Delete
    - 00:52:30 - Realtime Database CRUD: Read
    - 01:04:30 - Realtime Database CRUD: Query
-1. [Flask kóði með FB authentication](https://github.com/vefthroun/Namsefni/blob/main/6-Gagnagrunnur/Firebase/Authenticate/2_auth_flask.py)
+1. [Flask kóði með FB authentication](https://github.com/vefthroun/Namsefni/blob/main/6-Gagnagrunnur/Firebase/CRUD.py)
 
 ---
 
