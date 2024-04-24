@@ -1,8 +1,8 @@
-# skipulag CRUD
+# Realtime database (RtDb), skipulag CRUD
 
 ```
 - index
-    |_ texti úr rdb (R) tenging við Realtime database 
+    |_ texti úr rdb (R) tenging við RtDb
     |_ innskráning /login 
         |_ tenging við Authentication db
             |_ OK > /editor*
@@ -13,7 +13,7 @@
             |_ error > index
 - editor
     |_ lokað með session id
-    |_ tenging við Realtime database 
+    |_ tenging við RtDb
         |_ Skrifa (C) /create > /editor
         |_ Uppfæra (U) /update > /editor
         |_ Eyða (D) /delete > /editor
