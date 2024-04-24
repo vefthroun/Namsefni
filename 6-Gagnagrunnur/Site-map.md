@@ -27,8 +27,6 @@
 - Titill (sótt í RtDb)
 - Innihald (sótt í RtDb)
 - Höfundur (sótt í RtDb)
-- Email (birt úr session)
-- Tími (birt úr session)
 
 > postar=db.child('postholf').child('postur').get().val()
 
