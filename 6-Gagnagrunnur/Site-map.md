@@ -35,8 +35,7 @@
 - Titill (skráð í RtDb)
 - Innihald (skráð í RtDb)
 - Höfundur (skráð í RtDb)
-- Email (birt úr session)
-- Tími (birt úr session - skráð í RtDb)
+- Tími (timestamp - skráð í RtDb)
 
 > posts = db.child("postholf").get()
 > db.child("postholf").push(.......)
