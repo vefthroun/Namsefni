@@ -57,8 +57,7 @@
 ### RtDb tafla
 
 - Mailbox 
-    - |--- |
-      | RtDb ID | 
-      | Name | 
-      | Content | 
-      | Timestamp |
+    - RtDb ID  
+    - Name 
+    - Content 
+    - Timestamp 
