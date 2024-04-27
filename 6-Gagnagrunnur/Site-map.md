@@ -53,3 +53,12 @@
 
 > posts = db.child("postholf").get()
 > db.child("postholf").child(p.key(...)).remove() 
+
+### RtDb tafla
+
+- Mailbox 
+    - |--- |
+      | RtDb ID | 
+      | Name | 
+      | Content | 
+      | Timestamp |
