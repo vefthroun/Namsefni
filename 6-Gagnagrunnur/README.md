@@ -50,7 +50,8 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 
 ### CKEditor
 
-- [How To Add A Rich Text Editor - Flask](https://www.youtube.com/watch?v=5jnAnnxZGQQ)
+- [Rich Text Editor](https://flask-ckeditor.readthedocs.io/en/latest/)
+<!-- - [How To Add A Rich Text Editor - Flask](https://www.youtube.com/watch?v=5jnAnnxZGQQ)-->
 
 ---
 
