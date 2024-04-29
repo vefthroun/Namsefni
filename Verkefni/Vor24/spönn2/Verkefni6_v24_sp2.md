@@ -60,13 +60,19 @@ Einkunn:
 - 7 
    - Nota flash message þar sem það á við.   
    - Flokkar í valmynd verða drop-down.
+   - Hægt er að velja flokk í valmynd sem birtir flokkaða pistla.
    - CKEditor eða sambærilegur notaður til að skrá nýjan pistil.
 - 6   
    - Nota url_for þar sem það á við ( t.d. CSS ).
    - Nota redirect / HTML Meta Refresh þar sem það á við.
-   - Hægt er að velja flokk í valmynd sem birtir flokkaða pistla.
+   - Valmynd inniheldur hlekkina; forsíða, login (fyrir admin) og flokka, gögn koma úr lista / dict í .py skrá.
    - Jinja Template; breytur, lykkjunotkun, base og extends, include (head, footer, valmynd).
-- 5    
+- 5 
+   - Pistlar birtast á forsíðu koma úr Firebase Real Time Database.  Allir geta lesið.  Framsetning frjáls, dagsetning á íslensku formatti.   
+   - Static og dynamic route.
+   - Error route ( ekki skila strengjum )
+   - Vandað til verka með CSS uppsetningu (eigið og / eða NEW.CSS eða sambærilegt).
+- 4    
    - Adminsvæði aðeins fyrir innskráðan admin notanda, upplýsingar geymdar á Firebase Authentication.  Útfæra með SESSION
    - Adminsvæði þar sem pistlar eru skrifaðir með HTML Formi í Firebase Realtime gagnagrunn.  
         1. hver skráning fær ID 
@@ -77,12 +83,6 @@ Einkunn:
    - Admin getur eytt völdum pistli 
    - Admin getur breytt völdum pistli
    - Admin getur skráð sig út ( logout )
-   - Valmynd inniheldur hlekkina; forsíða, login (fyrir admin) og flokka, gögn koma úr lista / dict í .py skrá.
-- 4 
-   - Pistlar birtast á forsíðu koma úr Firebase Real Time Database.  Allir geta lesið.  Framsetning frjáls, dagsetning á íslensku formatti.   
-   - Static og dynamic route.
-   - Error route ( ekki skila strengjum )
-   - Vandað til verka með CSS uppsetningu (eigið og / eða NEW.CSS eða sambærilegt).
 - 3 
    - Engin harðkóðun.
    - Forsíða, gögn koma frá dictionary eða breytum.
