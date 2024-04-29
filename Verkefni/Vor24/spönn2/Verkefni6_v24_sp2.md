@@ -78,7 +78,7 @@ Einkunn:
    - Admin getur breytt völdum pistli
    - Admin getur skráð sig út ( logout )
    - Valmynd inniheldur hlekkina; forsíða, login (fyrir admin) og flokka, gögn koma úr lista / dict í .py skrá.
--4 
+- 4 
    - Pistlar birtast á forsíðu koma úr Firebase Real Time Database.  Allir geta lesið.  Framsetning frjáls, dagsetning á íslensku formatti.   
    - Static og dynamic route.
    - Error route ( ekki skila strengjum )
