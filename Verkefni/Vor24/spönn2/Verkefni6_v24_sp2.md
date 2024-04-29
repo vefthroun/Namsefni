@@ -67,7 +67,7 @@ Einkunn:
    - Hægt er að velja flokk í valmynd sem birtir flokkaða pistla.
    - Jinja Template; breytur, lykkjunotkun, base og extends, include (head, footer, valmynd).
 - 5    
-   - Adminsvæði aðeins fyrir innskráðan admin notanda (user:admin@admin.is ,password:123456), upplýsingar geymdar á Firebase Authentication.  Útfæra með SESSION
+   - Adminsvæði aðeins fyrir innskráðan admin notanda, upplýsingar geymdar á Firebase Authentication.  Útfæra með SESSION
    - Adminsvæði þar sem pistlar eru skrifaðir með HTML Formi í Firebase Realtime gagnagrunn.  
         1. hver skráning fær ID 
         1. fyrirsögn 
