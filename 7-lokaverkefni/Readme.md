@@ -59,7 +59,10 @@ Verðum að gera ``` pip install pyrebase4 ``` í Bash console inn á pythonanyw
 
 ---
 
-### [Firebase authentication manage-users](https://firebase.google.com/docs/auth/admin/manage-users)
+### Firebase authentication manage-users
+
+- [Firebase authentication manage-users](https://firebase.google.com/docs/auth/admin/manage-users)
+- [Github - Firebase-admin-python](https://github.com/firebase/firebase-admin-python)
 
 <!--
 
