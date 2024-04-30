@@ -66,11 +66,8 @@ Einkunn:
    - Nota url_for þar sem það á við ( t.d. CSS ).
    - Nota redirect / HTML Meta Refresh þar sem það á við.
    - Valmynd inniheldur hlekkina; forsíða, login (fyrir admin) og flokka, gögn koma úr lista / dict í .py skrá.
-   - Jinja Template; breytur, lykkjunotkun, base og extends, include (head, footer, valmynd).
 - 5 
-   - Pistlar birtast á forsíðu koma úr Firebase Real Time Database.  Allir geta lesið.  Framsetning frjáls, dagsetning á íslensku formatti.   
-   - Static og dynamic route.
-   - Error route ( ekki skila strengjum )
+   - Framsetning frjáls, dagsetning á íslensku formatti.   
    - Vandað til verka með CSS uppsetningu (eigið og / eða NEW.CSS eða sambærilegt).
 - 4    
    - Adminsvæði aðeins fyrir innskráðan admin notanda, upplýsingar geymdar á Firebase Authentication.  Útfæra með SESSION
@@ -83,6 +80,10 @@ Einkunn:
    - Admin getur eytt völdum pistli 
    - Admin getur breytt völdum pistli
    - Admin getur skráð sig út ( logout )
+   - Pistlar birtast á forsíðu koma úr Firebase Real Time Database.  Allir geta lesið. 
+   - Jinja Template; breytur, lykkjunotkun, base og extends, include (head, footer, valmynd).
+   - Static og dynamic route.
+   - Error route ( ekki skila strengjum )
 - 3 
    - Engin harðkóðun.
    - Forsíða, gögn koma frá dictionary eða breytum.
