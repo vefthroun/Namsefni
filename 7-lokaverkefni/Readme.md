@@ -9,6 +9,11 @@
 * Atriðin / úrfærslurnar hér fyrir neðan eru frá einkunn 8 og upp í 10.
 * Gangi þér vel.  
 
+---
+
+### [Firebase authentication manage-users](https://firebase.google.com/docs/auth/admin/manage-users)
+
+---
 
 ### Upload á Firebase Storage
 
