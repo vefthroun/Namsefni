@@ -11,10 +11,6 @@
 
 ---
 
-### [Firebase authentication manage-users](https://firebase.google.com/docs/auth/admin/manage-users)
-
----
-
 ### Upload á Firebase Storage
 
 Firebase býður upp á þjónustuna Storage til að hýsa myndir, hljóðskrár, video og aðrar skrár.  Skránum er hægt að "uploada" og "downloada" til of frá geymslunni í gegnum Python Flask.
@@ -36,6 +32,8 @@ ef þú ert með möppuna static undir mysite möpunni ( mysite er default mappa
 * [How to Upload Files with Flask Using Python (Með WTForms)](https://www.youtube.com/watch?v=GeiUTkSAJPs) _myndband_
 
 ---
+
+### [Firebase authentication manage-users](https://firebase.google.com/docs/auth/admin/manage-users)
 
 <!--
 ### Paginate. 
@@ -59,12 +57,13 @@ Verðum að gera ``` pip install pyrebase4 ``` í Bash console inn á pythonanyw
 
 * [How to deploy a Python (Flask) web app on a (PythonAnywhere) live server](https://www.youtube.com/watch?v=75-oCKUx3oU) _myndband_
 
+
+<!--
+
 ---
 
 ### Deployment og hýsing á [Vercel](https://vercel.com/pricing)
 * [Simple Guide](https://blog.stackademic.com/simple-guide-on-deploying-python-flask-api-on-vercel-free-of-cost-2c8bd983a40b)
-
-<!--
 
 ## Undirbúningur
 
