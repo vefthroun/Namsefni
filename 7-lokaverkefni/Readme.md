@@ -33,7 +33,11 @@ ef þú ert með möppuna static undir mysite möpunni ( mysite er default mappa
 
 ---
 
+### Skipulag
 
+- [Structuring a Flask application (_12.min.video_)](https://www.youtube.com/watch?v=-BC3V1CUKpU)
+
+---
 
 <!--
 ### Paginate. 
