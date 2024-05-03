@@ -87,3 +87,14 @@ for kennari in results.each():
 results = db.child("teachers").order_by_child("age").start_at(45).get()
 for kennari in results.each():
     print(kennari.val()["name"])   # Gunnar, Konráð
+
+# Realtime db bæta við í RULES 
+{
+  "rules": {
+    ".read": "true",
+    ".write": "true",
+    "teachers": {
+      ".indexOn":["age","address","employed","name"]
+    }
+  }
+}
