@@ -44,17 +44,17 @@ dbref = db.reference('mailbox')
 #read
 #pprint(dbref.get())
 
-#write
+#write - push is to add a new node
 '''dbref.push({
-    "name":"Anna Jóns",
+    "name":"Anna",
     "title":"Fyrsta fyrirsögnin",
     "content":"Þetta er fyrsta færslan í töflunni",
     "timestamp":"ptime",
     "userId":"localId"
 })'''
-#set
+#set - is to write or replace data in a defined path.
 '''dbref.child('-NxCqMpcyPVF8xuRh16P').set({
-    "name":"Anna",
+    "name":"Anna Jóns",
     "title":"Fyrirsögnin er breytt",
     "content":"færslan í töflunni hefur verið breytt",
     "timestamp":"ptime",
