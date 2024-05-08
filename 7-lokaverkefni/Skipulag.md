@@ -54,7 +54,7 @@ Appið er hægt að beintengja við Github :smile;
 
 ---
 
-### [Pyrebase](Pyrbase/README.md)
+### [Python pyrebase](../6-Gagnagrunnur/Pyrebase/README.md)
 
 #### Read
 
