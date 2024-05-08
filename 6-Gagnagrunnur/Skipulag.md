@@ -44,9 +44,41 @@ Mikilvægt áður en forritun hefst er að hafa yfirsýn á verkefnið.
     - Addi getur eytt notendum
     - Addi getur lokað á notanda (email) til að nýskrá sig aftur (extra)
 
-## Flæðirit - Wireframe
+---
 
-- [vecteezy.com/free-vector/flow-diagram](https://www.vecteezy.com/free-vector/flow-diagram)
+### Flæðirit - Wireframe
 
+- [drawio.com](https://www.drawio.com/)
 
+Appið er hægt að beintengja við Github :smile;
 
+---
+
+### [Pyrebase](Pyrbase/README.md)
+
+#### Read
+
+> postar=db.child('postholf').child('postur').get().val()
+
+#### Create
+
+> posts = db.child("postholf").get()
+> db.child("postholf").push(.......)
+
+#### Update
+
+> update = db.child("postholf").get(.....)
+> db.child("postholf").child(........).update(.......)
+
+#### delete
+
+> posts = db.child("postholf").get()
+> db.child("postholf").child(p.key(...)).remove() 
+
+#### RtDb tafla (_dæmi_)
+
+- postholf 
+    - RtDb ID  
+    - Name 
+    - Content 
+    - Timestamp 
