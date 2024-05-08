@@ -81,4 +81,5 @@ Appið er hægt að beintengja við Github :smile;
     - RtDb ID  
     - Name 
     - Content 
-    - Timestamp 
+    - Timestamp
+    - email
