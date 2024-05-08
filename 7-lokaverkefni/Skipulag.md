@@ -79,7 +79,7 @@ Appið er hægt að beintengja við Github :smile;
 
 - postholf 
     - RtDb ID  
-    - Name 
-    - Content 
-    - Timestamp
-    - email
+      - Name 
+      - Content 
+      - Timestamp
+      - email
