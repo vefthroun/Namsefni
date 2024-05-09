@@ -31,13 +31,7 @@ ef þú ert með möppuna static undir mysite möpunni ( mysite er default mappa
 * [Flask-File-Upload](https://github.com/arpanneupane19/Flask-File-Uploads/blob/main/main.py) _kóðadæmi_
 * [How to Upload Files with Flask Using Python (Með WTForms)](https://www.youtube.com/watch?v=GeiUTkSAJPs) _myndband_
 
----
 
-### Skipulag
-
-- [Structuring a Flask application (_12.min.video_)](https://www.youtube.com/watch?v=-BC3V1CUKpU)
-
----
 
 <!--
 ### Paginate. 
@@ -60,6 +54,12 @@ Verðum að gera ``` pip install pyrebase4 ``` í Bash console inn á pythonanyw
 
 
 * [How to deploy a Python (Flask) web app on a (PythonAnywhere) live server](https://www.youtube.com/watch?v=75-oCKUx3oU) _myndband_
+
+---
+
+### Skipulag
+
+- [Structuring a Flask application (_12.min.video_)](https://www.youtube.com/watch?v=-BC3V1CUKpU)
 
 ---
 
