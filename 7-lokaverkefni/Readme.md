@@ -19,6 +19,7 @@ Firebase Storage is a stand-alone solution for uploading user generated content 
 
 * [Python Flask Upload to Storage](https://github.com/kanuarj/FirebasePython/blob/master/Storage/app.py) _kóðadæmi_
 * [Python + Firebase Cloud Storage - Upload/Download Files | Pyrebase](https://www.youtube.com/watch?v=I1eskLk0exg) _myndband_
+* [Lítið forrit sem uploadar mynd á Firebase Storage og birtir síðan mynd á vefsíðu](https://github.com/vefthroun/Namsefni/blob/main/7-lokaverkefni/img_upload.zip)_zip skrá_
 
 ---
 
