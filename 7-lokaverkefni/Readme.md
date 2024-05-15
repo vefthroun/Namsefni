@@ -56,6 +56,7 @@ Verðum að gera ``` pip install pyrebase4 ``` í Bash console inn á pythonanyw
 * [How to deploy a Python (Flask) web app on a (PythonAnywhere) live server](https://www.youtube.com/watch?v=75-oCKUx3oU) _myndband_
 * [Deploy Python app to PythonAnywhere](https://www.youtube.com/watch?v=wbAhmGFwZ-g) _myndband_
 * [Connect PythonAnywhere with GitHub](https://www.youtube.com/watch?v=4sTZN15J33A) _myndband_
+* [Hosting Flask webapps to Pythonanywhere.com - Zip File Upload](https://www.youtube.com/watch?v=vaoSQhZnLE0) _myndband_
 
 ---
 
