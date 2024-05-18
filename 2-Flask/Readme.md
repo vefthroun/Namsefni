@@ -19,7 +19,7 @@
     1. búðu til möppu t.d. _vefforitun_ í tölvunni t.d. á C: rót: `mkdir vefforritun`
     1. færðu þig í nýju möppuna `cd vefforritun`
     1. settu upp vefþróunarsvæði (virtual environment): (mac) `py -3 -m venv .venv` / (pc) `py -m venv .venv`
-    1. Virkjaðu svæðið (activate venv): `venv\Scripts\activate`
+    1. Virkjaðu svæðið (activate venv): `.venv\Scripts\activate`
 1. Insetning Flask (Install flask framework)
     1. Activate venv: `venv\Scripts\activate`
     1. Notaðu pip til að setja inn (install) flask: `pip install flask`
