@@ -12,7 +12,8 @@
 ### Uppsetning á Flask
 -  Mac/Windows [Flask installation](https://flask.palletsprojects.com/en/2.3.x/installation/) leiðbeiningar.
 
-#### Windows leiðbeiningar (t.d. með Power Shell)
+#### Uppsetning vefþróunarsvæðis, leiðbeiningar <br>(Windows með Command Promt, CMD. Mac með Terminal)
+
 1. Þú þarft að hafa nýlega stöðuga (stable) útgáfu af python þýðanda.
     1. Til að kanna núverandi útgáfu:  `python --version` 
 1. Vefþróunarsvæði (_virutal environment_)
@@ -23,7 +24,7 @@
 1. Insetning Flask (Install flask framework)
     1. Activate venv: `venv\Scripts\activate`
     1. Notaðu pip til að setja inn (install) flask: `pip install flask`
-    1. Opnaðu python þýðandann: `python`            
+    1. Opnaðu python þýðandann: `python` (í _terminal_)           
     1. Athugaðu hvort flask sé virkt (active):  `>>> import flask`  
     1. ef það er engin villumelding þá tókst það.  `>>> quit()`
 1. Halló heimur
@@ -56,7 +57,7 @@
 <!--
 1. .vscode -> settings.json  sýnir hvaða þýðandi verið að nota fyrir project.
 1. Til að sækja söfn t.d. flask þá notum við [pip (python package installer)](https://pypi.org/) `pip install flask` 
-1. Við getum skoðað hvaða viðbætur við höfum sett í `env/Lib/site-packages/` þessar viðbætur tilheyra eingöngu vefþróunarsvæðinu
+1. Við getum skoðað hvaða viðbætur við höfum sett í `env/Lib/site-packages/` þessar viðbætur tilheyra eingöngu vefþróunarsvæðinu 
 
 - Video: [First install and Virtual Environments - Windows 10](https://www.youtube.com/watch?v=x1cbYa2SSlE)
 - Video: [Visual Studio Code (Windows) - Setting up a Python Development Environment - Corey Shafer](https://www.youtube.com/watch?v=-nh9rCzPJ20)
