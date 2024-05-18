@@ -22,9 +22,9 @@
     1. settu upp vefþróunarsvæði (virtual environment): (mac) `py -3 -m venv .venv` / (pc) `py -m venv .venv`
     1. Virkjaðu svæðið (activate venv): `.venv\Scripts\activate`
 1. Insetning Flask (Install flask framework)
-    1. Activate venv: `venv\Scripts\activate`
+    1. Activate venv: `.venv\Scripts\activate`
     1. Notaðu pip til að setja inn (install) flask: `pip install flask`
-    1. Opnaðu python þýðandann: `python` (í _terminal_)           
+    1. Opnaðu python þýðandann: `python` (í VCS _terminal_)           
     1. Athugaðu hvort flask sé virkt (active):  `>>> import flask`  
     1. ef það er engin villumelding þá tókst það.  `>>> quit()`
 1. Halló heimur
