@@ -18,7 +18,7 @@
 1. Vefþróunarsvæði (_virutal environment_)
     1. búðu til möppu t.d. _vefforitun_ í tölvunni t.d. á C: rót: `mkdir vefforritun`
     1. færðu þig í nýju möppuna `cd vefforritun`
-    1. settu upp vefþróunarsvæði (virtual environment): `py -3 -m venv venv`
+    1. settu upp vefþróunarsvæði (virtual environment): `py -3 -m venv .venv`
     1. Virkjaðu svæðið (activate venv): `venv\Scripts\activate`
 1. Insetning Flask (Install flask framework)
     1. Activate venv: `venv\Scripts\activate`
